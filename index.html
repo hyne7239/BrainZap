@@ -2,16 +2,29 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <meta name="description" content="BrainZap — self-hosted offline trivia app with 850 questions across 12 categories" />
-    <meta name="theme-color" content="#0f1117" />
-    <title>BrainZap 🧠</title>
-    <!-- Inline SVG brain emoji favicon — no external file needed -->
+    <!--
+      viewport-fit=cover: lets the app draw under the iOS notch / home-bar gesture area.
+      Our CSS then uses env(safe-area-inset-*) to push content back into the safe zone.
+      maximum-scale=1.0: prevents iOS auto-zoom on input focus.
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="BrainZap ⚡🧠 — self-hosted offline trivia app with 850 questions across 12 categories. Lightning trivia. Zero fluff. All brain." />
+    <!-- theme-color: Android Chrome toolbar and iOS Safari status bar tint -->
+    <meta name="theme-color" content="#0d0f1a" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f0f2ff" media="(prefers-color-scheme: light)" />
+    <!-- PWA / iOS home screen meta -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="BrainZap" />
+    <title>BrainZap ⚡🧠</title>
+    <!-- Inline SVG zap favicon — no external file needed -->
     <link rel="icon" type="image/svg+xml"
-      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>" />
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='86'>⚡</text></svg>" />
     <style>
       * { margin: 0; padding: 0; box-sizing: border-box; }
-      body { background: #0f1117; }
+      /* Match dark-theme --bg to prevent white flash during hydration */
+      body { background: #0d0f1a; }
     </style>
   </head>
   <body>

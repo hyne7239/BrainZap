@@ -26,7 +26,7 @@ npm run dev
 
 | Feature | Details |
 |---|---|
-| **850 Questions** | 12 categories - 3 modes |
+| **850 Questions** | 12 categories × 70 questions |
 | **Classic Mode** | Answer at your own pace, no time pressure |
 | **Blitz Mode ⚡** | 15 seconds per question — think fast! |
 | **Endurance Mode ❤️** | 3 lives, wrong answers cost a life, no question limit |

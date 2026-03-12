@@ -121,20 +121,46 @@ const THEME_CSS = `
 /* ═══ BASE ═══════════════════════════════════════════════════════════════════ */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+html {
+  /* Allow content to extend under iOS notch/home-bar but honour safe areas */
+  height: -webkit-fill-available;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
   font-family: 'Nunito', sans-serif;
   min-height: 100vh;
+  min-height: -webkit-fill-available; /* iOS Safari full-height fix */
+  /* Prevent rubber-band scroll revealing background colour mismatch */
+  overscroll-behavior: none;
+  -webkit-tap-highlight-color: transparent; /* remove blue flash on tap (iOS) */
 }
 
-button { cursor: pointer; border: none; font-family: inherit; transition: all 0.18s ease; }
+button {
+  cursor: pointer; border: none; font-family: inherit; transition: all 0.18s ease;
+  /* Eliminate 300ms tap delay on mobile without disabling pinch-zoom */
+  touch-action: manipulation;
+}
 button:disabled { opacity: 0.45; cursor: not-allowed; }
 
 /* ═══ LAYOUT ════════════════════════════════════════════════════════════════ */
 .screen {
-  min-height: 100vh; width: 100%; max-width: 540px;
-  margin: 0 auto; padding: 24px 20px 64px;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  width: 100%; max-width: 540px;
+  margin: 0 auto;
+  /*
+   * OVERLAP FIX: the fixed theme-toggle sits at top:14px, height≈36px → bottom≈50px.
+   * padding-top: 68px clears it on every screen with 18px to spare.
+   * env(safe-area-inset-top) handles the iPhone notch (adds to the 68px).
+   * env(safe-area-inset-bottom) handles the iPhone home-bar gesture area.
+   * env() falls back to 0px on all non-notch devices, so nothing breaks.
+   */
+  padding-top:    max(68px, calc(env(safe-area-inset-top,    0px) + 56px));
+  padding-bottom: max(64px, calc(env(safe-area-inset-bottom, 0px) + 24px));
+  padding-left:   max(20px, env(safe-area-inset-left,  0px));
+  padding-right:  max(20px, env(safe-area-inset-right, 0px));
   display: flex; flex-direction: column; gap: 18px;
 }
 .card {
@@ -267,11 +293,17 @@ button:disabled { opacity: 0.45; cursor: not-allowed; }
 
 /* ═══ THEME TOGGLE ═══════════════════════════════════════════════════════════ */
 .theme-toggle-btn {
-  position: fixed; top: 14px; right: 14px; z-index: 300;
+  position: fixed;
+  /* Respect notch on right side (landscape iPhone) */
+  top:   max(14px, env(safe-area-inset-top,   0px));
+  right: max(14px, env(safe-area-inset-right, 0px));
+  z-index: 300;
   background: var(--surface); border: 1.5px solid var(--border);
   border-radius: 99px; padding: 6px 12px 6px 8px;
   display: flex; align-items: center; gap: 9px;
   cursor: pointer; box-shadow: var(--shadow-sm); font-family: inherit;
+  /* Don't let the button shrink on very narrow viewports */
+  white-space: nowrap;
 }
 .theme-toggle-btn:hover { border-color: var(--primary); box-shadow: var(--shadow-md); }
 
@@ -702,7 +734,10 @@ function HomeScreen({ theme, onToggleTheme, onStart }) {
       <div style={{position:"relative", zIndex:1, textAlign:"center", width:"100%"}}>
         <div style={{fontSize:76, marginBottom:4, animation:"wiggle 2.8s ease infinite", display:"inline-block"}}>🧠</div>
         <h1 style={{
-          fontFamily:"Fredoka One", fontSize:54, lineHeight:1.0, letterSpacing:.5,
+          fontFamily:"Fredoka One",
+          // clamp(min, preferred, max): shrinks on 320px phones, caps at 540px desktops
+          fontSize:"clamp(38px, 12vw, 58px)",
+          lineHeight:1.0, letterSpacing:.5,
           background:`linear-gradient(135deg, ${v("primary")}, ${v("accent")})`,
           WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent",
         }}>BrainZap</h1>
@@ -1049,25 +1084,49 @@ function GameScreen({ questions, mode, theme, onToggleTheme, onFinish }) {
       <BgBlobs/>
       <ThemeToggle theme={theme} onToggle={onToggleTheme}/>
 
-      {/* ── Top status bar ── */}
-      <div style={{position:"relative", zIndex:1, display:"flex", justifyContent:"space-between",
-        alignItems:"center", gap:8, flexWrap:"wrap"}}>
-        <div style={{
-          background:v("surface-alt"), borderRadius:12, padding:"5px 12px",
-          fontSize:13, fontWeight:700, color:v("text-dim"),
-          border:`1px solid ${v("border")}`,
-        }}>
-          {q.categoryEmoji} {q.categoryLabel}
+      {/*
+       * STATUS BAR — two explicit rows so nothing overlaps the fixed toggle.
+       *
+       * Row 1: [category chip ←] [diff badge →]
+       *   These two are narrow and naturally fit side-by-side on any phone.
+       *
+       * Row 2: [streak badge ←] [lives ❤️ or counter →]
+       *   Streak badge only appears at 3+, so on typical play Row 2 is just
+       *   the counter/hearts on the right — minimal height.
+       *
+       * With padding-top:68px on .screen the whole block already clears the
+       * toggle; no z-index tricks needed here.
+       */}
+      <div style={{position:"relative", zIndex:1, display:"flex", flexDirection:"column", gap:7}}>
+
+        {/* Row 1: category + difficulty */}
+        <div style={{display:"flex", justifyContent:"space-between", alignItems:"center", gap:8}}>
+          <div style={{
+            background:v("surface-alt"), borderRadius:12, padding:"5px 12px",
+            fontSize:13, fontWeight:700, color:v("text-dim"),
+            border:`1px solid ${v("border")}`,
+            // Clamp so long category names don't push diff badge off screen
+            maxWidth:"60%", overflow:"hidden", textOverflow:"ellipsis", whiteSpace:"nowrap",
+          }}>
+            {q.categoryEmoji} {q.categoryLabel}
+          </div>
+          <span className={`diff-badge ${q.difficulty}`}>{DIFF_LABELS[q.difficulty]}</span>
         </div>
 
-        <div style={{display:"flex", alignItems:"center", gap:8}}>
-          {streak >= 3 && (
-            <div className={`streak-badge${streak >= 5 ? " hot" : ""}`}>
-              🔥 {streak}x streak
-            </div>
-          )}
+        {/* Row 2: streak (conditional) + lives / counter */}
+        <div style={{display:"flex", justifyContent:"space-between", alignItems:"center", gap:8}}>
+          {/* Left: streak badge — only shown at 3+ so default is empty flex space */}
+          <div>
+            {streak >= 3 && (
+              <div className={`streak-badge${streak >= 5 ? " hot" : ""}`}>
+                🔥 {streak}x streak
+              </div>
+            )}
+          </div>
+
+          {/* Right: lives (endurance) OR question counter */}
           {isEndurance ? (
-            <div style={{display:"flex", gap:3}}>
+            <div style={{display:"flex", gap:4}}>
               {[0,1,2].map(i => (
                 <span key={i} className={`life-heart${i >= livesNow ? " lost" : ""}`}>❤️</span>
               ))}
@@ -1082,14 +1141,40 @@ function GameScreen({ questions, mode, theme, onToggleTheme, onFinish }) {
             </div>
           )}
         </div>
-
-        <span className={`diff-badge ${q.difficulty}`}>{DIFF_LABELS[q.difficulty]}</span>
       </div>
 
-      {/* Progress bar */}
+      {/* Progress bar + score on the same row (cleaner on mobile) */}
       {!isEndurance && (
-        <div className="progress-bar-bg" style={{position:"relative", zIndex:1}}>
-          <div className="progress-bar" style={{width:`${pct*100}%`}}/>
+        <div style={{position:"relative", zIndex:1}}>
+          <div style={{display:"flex", justifyContent:"space-between", alignItems:"center",
+            marginBottom:5, gap:8}}>
+            <div style={{fontSize:12, fontWeight:700, color:v("muted")}}>
+              Question {idx+1} of {questions.length}
+            </div>
+            <div style={{
+              fontSize:12, fontWeight:700, color:v("primary"),
+              background:v("primary-faint"), borderRadius:8, padding:"2px 10px",
+              border:`1px solid ${v("primary")}33`,
+            }}>
+              ⭐ {scoreRef.current} pts
+            </div>
+          </div>
+          <div className="progress-bar-bg">
+            <div className="progress-bar" style={{width:`${pct*100}%`}}/>
+          </div>
+        </div>
+      )}
+
+      {/* Endurance: just show score, no progress bar */}
+      {isEndurance && (
+        <div style={{position:"relative", zIndex:1, display:"flex", justifyContent:"flex-end"}}>
+          <div style={{
+            fontSize:12, fontWeight:700, color:v("primary"),
+            background:v("primary-faint"), borderRadius:8, padding:"2px 10px",
+            border:`1px solid ${v("primary")}33`,
+          }}>
+            ⭐ {scoreRef.current} pts
+          </div>
         </div>
       )}
 
@@ -1104,17 +1189,6 @@ function GameScreen({ questions, mode, theme, onToggleTheme, onFinish }) {
           </div>
         </div>
       )}
-
-      {/* Score indicator */}
-      <div style={{position:"relative", zIndex:1, display:"flex", justifyContent:"flex-end"}}>
-        <div style={{
-          background:v("surface-alt"), borderRadius:12, padding:"4px 14px",
-          fontSize:13, fontWeight:700, color:v("text-dim"),
-          border:`1px solid ${v("border")}`,
-        }}>
-          ⭐ {scoreRef.current} pts
-        </div>
-      </div>
 
       {/* Question card */}
       <div className="card anim-fadeup" key={`q-${idx}`} style={{position:"relative", zIndex:1}}>
@@ -1225,7 +1299,7 @@ function ResultsScreen({ score, total, questions, maxStreak, mode, theme, onTogg
   function copyResult() {
     const modeName = GAME_MODES.find(m => m.id === mode)?.label || mode;
     const catLines = sortedCats.map(([l,{correct:c,total:t}]) => `  ${l}: ${c}/${t}`).join("\n");
-    const text = `BrainZap — ${modeName} Mode\n${msg.e} ${msg.t}\n${score}/${total} (${Math.round(pct*100)}%)\nBest streak: 🔥${maxStreak}\n\nBy topic:\n${catLines}`;
+    const text = `BrainZap ⚡🧠 — ${modeName} Mode\n${msg.e} ${msg.t}\n${score}/${total} (${Math.round(pct*100)}%)\nBest streak: 🔥${maxStreak}\n\nBy topic:\n${catLines}`;
     navigator.clipboard?.writeText(text).then(() => {
       setCopied(true); setTimeout(() => setCopied(false), 2600);
     });

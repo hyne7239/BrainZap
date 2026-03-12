@@ -849,11 +849,12 @@
     "difficulty": "medium",
     "question": "Which musician invented the electric solid-body guitar that popularized rock and roll?",
     "options": [
+      "Les Paul",
       "Eddie Van Halen",
       "Chuck Berry",
-      "Les Paul"
+      "Leo Fender"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Les Paul (Lester William Polsfuss) invented the solid-body electric guitar in 1941, first called 'The Log.' Gibson produced the iconic 'Les Paul' guitar from 1952. His invention made electric guitar amplification practical — removing the feedback problems of hollow-body instruments."
   },
   {

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "mov_e_01",
+    "difficulty": "easy",
+    "question": "Who directed 'Jurassic Park' (1993)?",
+    "options": [
+      "James Cameron",
+      "George Lucas",
+      "Tim Burton",
+      "Steven Spielberg"
+    ],
+    "correct": 3,
+    "explanation": "Steven Spielberg directed Jurassic Park (1993), based on Michael Crichton's novel, which pioneered CGI dinosaurs."
+  },
+  {
+    "id": "mov_e_02",
+    "difficulty": "easy",
+    "question": "In 'The Lion King', what is the name of Simba's father?",
+    "options": [
+      "Scar",
+      "Rafiki",
+      "Zazu",
+      "Mufasa"
+    ],
+    "correct": 3,
+    "explanation": "Mufasa is Simba's father and the king of the Pride Lands, voiced by James Earl Jones in the 1994 animated film."
+  },
+  {
+    "id": "mov_e_03",
+    "difficulty": "easy",
+    "question": "What is the highest-grossing film of all time (not adjusted for inflation)?",
+    "options": [
+      "Titanic",
+      "Avengers: Endgame",
+      "Star Wars: The Force Awakens",
+      "Avatar"
+    ],
+    "correct": 3,
+    "explanation": "Avatar (2009, re-released 2022) holds the all-time box office record at over $2.9 billion worldwide."
+  },
+  {
+    "id": "mov_e_04",
+    "difficulty": "easy",
+    "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Robert Downey Jr."
+    ],
+    "correct": 3,
+    "explanation": "Robert Downey Jr. portrayed Tony Stark / Iron Man in the MCU from 2008's Iron Man through Avengers: Endgame (2019)."
+  },
+  {
+    "id": "mov_e_05",
+    "difficulty": "easy",
+    "question": "What studio produced the Toy Story franchise?",
+    "options": [
+      "DreamWorks",
+      "Warner Bros.",
+      "Sony",
+      "Pixar"
+    ],
+    "correct": 3,
+    "explanation": "Pixar Animation Studios, a division of Disney, produced the Toy Story franchise starting in 1995."
+  },
+  {
+    "id": "mov_e_06",
+    "difficulty": "easy",
+    "question": "In which movie does the line 'May the Force be with you' appear?",
+    "options": [
+      "Dune",
+      "Interstellar",
+      "Avatar",
+      "Star Wars"
+    ],
+    "correct": 3,
+    "explanation": "'May the Force be with you' is the famous line from Star Wars (1977), directed by George Lucas."
+  },
+  {
+    "id": "mov_e_07",
+    "difficulty": "easy",
+    "question": "Which film features the character Jack Sparrow?",
+    "options": [
+      "Master and Commander",
+      "Waterworld",
+      "The Last Samurai",
+      "Pirates of the Caribbean"
+    ],
+    "correct": 3,
+    "explanation": "Captain Jack Sparrow, played by Johnny Depp, is the main character in the Pirates of the Caribbean franchise."
+  },
+  {
+    "id": "mov_e_08",
+    "difficulty": "easy",
+    "question": "Who played Harry Potter in the film series?",
+    "options": [
+      "Tom Felton",
+      "Rupert Grint",
+      "Robert Pattinson",
+      "Daniel Radcliffe"
+    ],
+    "correct": 3,
+    "explanation": "Daniel Radcliffe played Harry Potter in all eight films of the franchise, from 2001 to 2011."
+  },
+  {
+    "id": "mov_e_09",
+    "difficulty": "easy",
+    "question": "What is the name of the kingdom in 'Frozen'?",
+    "options": [
+      "Agrabah",
+      "Corona",
+      "Motunui",
+      "Arendelle"
+    ],
+    "correct": 3,
+    "explanation": "Arendelle is the Scandinavian-inspired kingdom in Disney's Frozen (2013)."
+  },
+  {
+    "id": "mov_e_10",
+    "difficulty": "easy",
+    "question": "Which movie features the song 'Let It Go'?",
+    "options": [
+      "Tangled",
+      "Brave",
+      "Moana",
+      "Frozen"
+    ],
+    "correct": 3,
+    "explanation": "'Let It Go', sung by Idina Menzel as Queen Elsa, is the signature song from Disney's Frozen (2013). It won the Academy Award for Best Original Song."
+  },
+  {
+    "id": "mov_e_11",
+    "difficulty": "easy",
+    "question": "In 'Home Alone', what is the name of the main character?",
+    "options": [
+      "Kevin McCallister",
+      "Marty McFly",
+      "Macaulay Culkin",
+      "Billy Madison"
+    ],
+    "correct": 0,
+    "explanation": "Kevin McCallister, played by Macaulay Culkin, is the 8-year-old accidentally left home alone in the 1990 Christmas comedy."
+  },
+  {
+    "id": "mov_e_12",
+    "difficulty": "easy",
+    "question": "What is the name of the shark in 'Finding Nemo'?",
+    "options": [
+      "Hammerhead",
+      "Chum",
+      "Anchor",
+      "Bruce"
+    ],
+    "correct": 3,
+    "explanation": "Bruce is the great white shark in Finding Nemo (2003) who famously says 'Fish are friends, not food.'"
+  },
+  {
+    "id": "mov_e_13",
+    "difficulty": "easy",
+    "question": "Which superhero is known as the 'Man of Steel'?",
+    "options": [
+      "Batman",
+      "Wonder Woman",
+      "The Flash",
+      "Superman"
+    ],
+    "correct": 3,
+    "explanation": "Superman is nicknamed the 'Man of Steel' due to his near-invulnerability. His alter ego is Clark Kent."
+  },
+  {
+    "id": "mov_e_14",
+    "difficulty": "easy",
+    "question": "How many Oscars did 'Titanic' (1997) win?",
+    "options": [
+      "9",
+      "10",
+      "13",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "Titanic (1997) won 11 Academy Awards, tying the record set by Ben-Hur. It was directed by James Cameron."
+  },
+  {
+    "id": "mov_e_15",
+    "difficulty": "easy",
+    "question": "Which animated film features a character named Shrek?",
+    "options": [
+      "Kung Fu Panda",
+      "Monsters Inc.",
+      "Ice Age",
+      "Shrek"
+    ],
+    "correct": 3,
+    "explanation": "Shrek (2001), produced by DreamWorks Animation, stars a green ogre living in a fairy-tale world. It won the first ever Academy Award for Best Animated Feature."
+  },
+  {
+    "id": "mov_e_16",
+    "difficulty": "easy",
+    "question": "What color pill does Neo take in 'The Matrix'?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "correct": 3,
+    "explanation": "Neo chooses the red pill to see the truth about the Matrix, rejecting the blue pill that would leave him in blissful ignorance."
+  },
+  {
+    "id": "mov_e_17",
+    "difficulty": "easy",
+    "question": "In 'The Wizard of Oz', what does Dorothy want to find?",
+    "options": [
+      "A cure for her aunt",
+      "A way to become a princess",
+      "A dragon",
+      "A way back home to Kansas"
+    ],
+    "correct": 3,
+    "explanation": "Dorothy's sole wish throughout The Wizard of Oz is to return home to Kansas after being swept away by a tornado."
+  },
+  {
+    "id": "mov_e_18",
+    "difficulty": "easy",
+    "question": "Who voiced Woody in the Toy Story films?",
+    "options": [
+      "John Travolta",
+      "Tom Hanks",
+      "Bill Murray",
+      "Steve Martin"
+    ],
+    "correct": 1,
+    "explanation": "Tom Hanks has voiced Woody the cowboy in all four Toy Story films (1995, 1999, 2010, 2019)."
+  },
+  {
+    "id": "mov_e_19",
+    "difficulty": "easy",
+    "question": "In which city is the movie 'The Dark Knight' primarily set?",
+    "options": [
+      "New York",
+      "Metropolis",
+      "Coast City",
+      "Gotham City"
+    ],
+    "correct": 3,
+    "explanation": "Gotham City is Batman's fictional city, based primarily in Chicago for The Dark Knight (2008), directed by Christopher Nolan."
+  },
+  {
+    "id": "mov_e_20",
+    "difficulty": "easy",
+    "question": "What sport is featured in 'Space Jam'?",
+    "options": [
+      "Baseball",
+      "Football",
+      "Soccer",
+      "Basketball"
+    ],
+    "correct": 3,
+    "explanation": "Space Jam (1996) features Michael Jordan teaming up with the Looney Tunes characters for a basketball game against the Monstars."
+  },
+  {
+    "id": "mov_m_01",
+    "difficulty": "medium",
+    "question": "Which film won the Academy Award for Best Picture in 2020?",
+    "options": [
+      "1917",
+      "Joker",
+      "Once Upon a Time in Hollywood",
+      "Parasite"
+    ],
+    "correct": 3,
+    "explanation": "Parasite (2019) by Bong Joon-ho became the first non-English-language film to win Best Picture at the Academy Awards."
+  },
+  {
+    "id": "mov_m_02",
+    "difficulty": "medium",
+    "question": "What 1980 film adaptation is set at the Overlook Hotel?",
+    "options": [
+      "Poltergeist",
+      "Halloween",
+      "The Exorcist",
+      "The Shining"
+    ],
+    "correct": 3,
+    "explanation": "Stanley Kubrick's The Shining (1980) is set at the Overlook Hotel, based on Stephen King's 1977 novel."
+  },
+  {
+    "id": "mov_m_03",
+    "difficulty": "medium",
+    "question": "In which film does the character Clarice Starling appear?",
+    "options": [
+      "Se7en",
+      "Psycho",
+      "American Psycho",
+      "The Silence of the Lambs"
+    ],
+    "correct": 3,
+    "explanation": "FBI trainee Clarice Starling (Jodie Foster) interviews Dr. Hannibal Lecter (Anthony Hopkins) in The Silence of the Lambs (1991)."
+  },
+  {
+    "id": "mov_m_04",
+    "difficulty": "medium",
+    "question": "Who directed 'Pulp Fiction' (1994)?",
+    "options": [
+      "David Fincher",
+      "Martin Scorsese",
+      "Oliver Stone",
+      "Quentin Tarantino"
+    ],
+    "correct": 3,
+    "explanation": "Quentin Tarantino wrote and directed Pulp Fiction (1994), which won the Palme d'Or at Cannes."
+  },
+  {
+    "id": "mov_m_05",
+    "difficulty": "medium",
+    "question": "What was the first feature-length animated movie ever released?",
+    "options": [
+      "Pinocchio",
+      "Cinderella",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
+    ],
+    "correct": 3,
+    "explanation": "Disney's Snow White and the Seven Dwarfs (1937) was the world's first full-length cel-animated feature film."
+  },
+  {
+    "id": "mov_m_06",
+    "difficulty": "medium",
+    "question": "In 'Interstellar', what causes Earth to become uninhabitable?",
+    "options": [
+      "Solar flares",
+      "Nuclear war",
+      "An alien virus",
+      "Crop blight and dust storms"
+    ],
+    "correct": 3,
+    "explanation": "In Interstellar (2014), Earth faces an ecological collapse driven by crop blight and massive dust storms, forcing humanity to seek a new home."
+  },
+  {
+    "id": "mov_m_07",
+    "difficulty": "medium",
+    "question": "Which actress played Katniss Everdeen in 'The Hunger Games'?",
+    "options": [
+      "Emma Stone",
+      "Emma Watson",
+      "Shailene Woodley",
+      "Jennifer Lawrence"
+    ],
+    "correct": 3,
+    "explanation": "Jennifer Lawrence played Katniss Everdeen in all four Hunger Games films (2012–2015)."
+  },
+  {
+    "id": "mov_m_08",
+    "difficulty": "medium",
+    "question": "What does the 'R' stand for in R-rated films (USA)?",
+    "options": [
+      "Rejected",
+      "Reserved",
+      "Restricted",
+      "Recommended"
+    ],
+    "correct": 2,
+    "explanation": "R (Restricted) means viewers under 17 require a parent or guardian. It's assigned by the MPAA rating system."
+  },
+  {
+    "id": "mov_m_09",
+    "difficulty": "medium",
+    "question": "Who played the Joker in 'The Dark Knight' (2008)?",
+    "options": [
+      "Joaquin Phoenix",
+      "Jack Nicholson",
+      "Jared Leto",
+      "Heath Ledger"
+    ],
+    "correct": 3,
+    "explanation": "Heath Ledger's portrayal of the Joker earned him a posthumous Academy Award for Best Supporting Actor."
+  },
+  {
+    "id": "mov_m_10",
+    "difficulty": "medium",
+    "question": "How many films are in the original Star Wars trilogy?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "The original Star Wars trilogy consists of three films: A New Hope (1977), The Empire Strikes Back (1980), and Return of the Jedi (1983)."
+  },
+  {
+    "id": "mov_m_11",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional African country in 'Black Panther'?",
+    "options": [
+      "Zamunda",
+      "Sokovia",
+      "Genosha",
+      "Wakanda"
+    ],
+    "correct": 3,
+    "explanation": "Wakanda is the fictional African nation in Black Panther (2018), secretly the world's most technologically advanced country, rich in vibranium."
+  },
+  {
+    "id": "mov_m_12",
+    "difficulty": "medium",
+    "question": "The phrase 'I'll be back' is from which film?",
+    "options": [
+      "Predator",
+      "RoboCop",
+      "Die Hard",
+      "The Terminator"
+    ],
+    "correct": 3,
+    "explanation": "'I'll be back' was spoken by Arnold Schwarzenegger as the T-800 in The Terminator (1984), directed by James Cameron."
+  },
+  {
+    "id": "mov_m_13",
+    "difficulty": "medium",
+    "question": "In 'Schindler's List', what color stands out in the otherwise black-and-white film?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "White",
+      "Red"
+    ],
+    "correct": 3,
+    "explanation": "A young girl in a red coat is the most memorable use of color in Spielberg's black-and-white masterpiece Schindler's List (1993), symbolizing innocence amid the Holocaust."
+  },
+  {
+    "id": "mov_m_14",
+    "difficulty": "medium",
+    "question": "What fictional drug is central to the plot of 'Dune'?",
+    "options": [
+      "Soma",
+      "Spice (melange)",
+      "Blur",
+      "Blue"
+    ],
+    "correct": 1,
+    "explanation": "Spice (melange) is the most valuable substance in Dune — it extends life, enables prescience, and powers interstellar travel."
+  },
+  {
+    "id": "mov_m_15",
+    "difficulty": "medium",
+    "question": "Which director made 'Schindler's List', 'Saving Private Ryan', and 'Lincoln'?",
+    "options": [
+      "Clint Eastwood",
+      "Ron Howard",
+      "Oliver Stone",
+      "Steven Spielberg"
+    ],
+    "correct": 3,
+    "explanation": "Steven Spielberg directed all three films. Schindler's List (1993) and Saving Private Ryan (1998) each won him the Best Director Oscar."
+  },
+  {
+    "id": "mov_m_16",
+    "difficulty": "medium",
+    "question": "What was the first movie to gross $100 million at the US box office?",
+    "options": [
+      "The Exorcist",
+      "Star Wars",
+      "Close Encounters",
+      "Jaws"
+    ],
+    "correct": 3,
+    "explanation": "Jaws (1975) was the first film to gross over $100 million in the US, essentially inventing the modern summer blockbuster."
+  },
+  {
+    "id": "mov_m_17",
+    "difficulty": "medium",
+    "question": "Who directed 'Get Out' (2017)?",
+    "options": [
+      "Spike Lee",
+      "Tyler Perry",
+      "John Singleton",
+      "Jordan Peele"
+    ],
+    "correct": 3,
+    "explanation": "Jordan Peele wrote and directed Get Out (2017), which earned him the Academy Award for Best Original Screenplay."
+  },
+  {
+    "id": "mov_m_18",
+    "difficulty": "medium",
+    "question": "In 'Forrest Gump', what is Forrest's famous quote about life?",
+    "options": [
+      "Life moves fast",
+      "Life is a journey",
+      "Life is what you make it",
+      "Life is like a box of chocolates"
+    ],
+    "correct": 3,
+    "explanation": "'Life is like a box of chocolates — you never know what you're gonna get' is spoken by Forrest (Tom Hanks) quoting his mama in Forrest Gump (1994)."
+  },
+  {
+    "id": "mov_m_19",
+    "difficulty": "medium",
+    "question": "In which year was the first 'Fast & Furious' film released?",
+    "options": [
+      "1999",
+      "2003",
+      "2004",
+      "2001"
+    ],
+    "correct": 3,
+    "explanation": "The Fast and the Furious was released in 2001, starring Vin Diesel and Paul Walker. The franchise has since grown to 11+ films."
+  },
+  {
+    "id": "mov_m_20",
+    "difficulty": "medium",
+    "question": "What is the name of the whale in 'Free Willy'?",
+    "options": [
+      "Shamu",
+      "Keiko",
+      "Willy",
+      "Flipper"
+    ],
+    "correct": 2,
+    "explanation": "The orca whale in Free Willy (1993) is named Willy in the film, but was played by a real orca named Keiko."
+  },
+  {
+    "id": "mov_h_01",
+    "difficulty": "hard",
+    "question": "Which French film technique from the 1950s–60s was characterized by jump cuts, handheld cameras, and location shooting?",
+    "options": [
+      "Italian Neorealism",
+      "German Expressionism",
+      "Soviet Montage",
+      "French New Wave (Nouvelle Vague)"
+    ],
+    "correct": 3,
+    "explanation": "The French New Wave, led by directors like Godard and Truffaut, revolutionized cinema with naturalistic, low-budget filmmaking and self-referential style."
+  },
+  {
+    "id": "mov_h_02",
+    "difficulty": "hard",
+    "question": "What is the term for a single, uninterrupted camera shot?",
+    "options": [
+      "Montage",
+      "Pan",
+      "Tracking shot",
+      "Sequence shot (Plan-séquence)"
+    ],
+    "correct": 3,
+    "explanation": "A sequence shot (plan-séquence) is an extended uninterrupted take covering an entire scene. Hitchcock's Rope (1948) consisted almost entirely of such shots."
+  },
+  {
+    "id": "mov_h_03",
+    "difficulty": "hard",
+    "question": "Akira Kurosawa's 'Seven Samurai' was remade as which 1960 American Western?",
+    "options": [
+      "The Outlaw Josey Wales",
+      "Tombstone",
+      "High Noon",
+      "The Magnificent Seven"
+    ],
+    "correct": 3,
+    "explanation": "John Sturges' The Magnificent Seven (1960) is an acknowledged Western remake of Kurosawa's Seven Samurai (1954), transplanting the story to Mexico."
+  },
+  {
+    "id": "mov_h_04",
+    "difficulty": "hard",
+    "question": "Who composed the iconic score for 'Psycho' (1960)?",
+    "options": [
+      "Ennio Morricone",
+      "John Williams",
+      "Hans Zimmer",
+      "Bernard Herrmann"
+    ],
+    "correct": 3,
+    "explanation": "Bernard Herrmann composed the Psycho score, including the famous shrieking strings of the shower scene, using only a string orchestra."
+  },
+  {
+    "id": "mov_h_05",
+    "difficulty": "hard",
+    "question": "The 'Kuleshov Effect' in filmmaking demonstrates what principle?",
+    "options": [
+      "The rule of thirds in framing",
+      "How lens choice affects perceived depth",
+      "How music changes emotional tone",
+      "How context changes viewer interpretation of a shot"
+    ],
+    "correct": 3,
+    "explanation": "The Kuleshov Effect, demonstrated by Soviet filmmaker Lev Kuleshov, shows that a neutral expression gains meaning from the shots that precede or follow it — proving editing creates emotion."
+  },
+  {
+    "id": "mov_h_06",
+    "difficulty": "hard",
+    "question": "In 'Citizen Kane', what is the meaning of 'Rosebud'?",
+    "options": [
+      "His lost fortune",
+      "His mother's name",
+      "His childhood sled",
+      "His newspaper's first headline"
+    ],
+    "correct": 2,
+    "explanation": "'Rosebud' is revealed to be the name on Kane's childhood sled, symbolizing the lost innocence and happiness of his youth before he became wealthy and corrupt."
+  },
+  {
+    "id": "mov_h_07",
+    "difficulty": "hard",
+    "question": "Who was the first African-American performer to win the Academy Award for Best Actor?",
+    "options": [
+      "Morgan Freeman",
+      "Denzel Washington",
+      "Will Smith",
+      "Sidney Poitier"
+    ],
+    "correct": 3,
+    "explanation": "Sidney Poitier won Best Actor for Lilies of the Field (1963), becoming the first Black actor to win the award. He was also the first to win Best Actor at the BAFTAs."
+  },
+  {
+    "id": "mov_h_08",
+    "difficulty": "hard",
+    "question": "What is the aspect ratio of a standard CinemaScope widescreen film?",
+    "options": [
+      "1.33:1",
+      "1.85:1",
+      "2.76:1",
+      "2.39:1"
+    ],
+    "correct": 3,
+    "explanation": "CinemaScope and most modern widescreen theatrical films use a 2.39:1 (approximately 2.4:1) aspect ratio."
+  },
+  {
+    "id": "mov_h_09",
+    "difficulty": "hard",
+    "question": "The Dogme 95 movement was founded by directors in which country?",
+    "options": [
+      "France",
+      "Germany",
+      "Sweden",
+      "Denmark"
+    ],
+    "correct": 3,
+    "explanation": "Dogme 95 was a filmmaking movement founded in Denmark in 1995 by Lars von Trier and Thomas Vinterberg, advocating minimalist, naturalistic filmmaking without artificial lighting or non-diegetic music."
+  },
+  {
+    "id": "mov_h_10",
+    "difficulty": "hard",
+    "question": "In '2001: A Space Odyssey', what is the name of the malevolent AI computer?",
+    "options": [
+      "JARVIS",
+      "COLOSSUS",
+      "SKYNET",
+      "HAL 9000"
+    ],
+    "correct": 3,
+    "explanation": "HAL 9000 (Heuristically Programmed ALgorithmic Computer) is the ship's AI in Kubrick's 2001: A Space Odyssey (1968), famously refusing to open the pod bay doors."
+  },
+  {
+    "id": "mov_h_11",
+    "difficulty": "hard",
+    "question": "Who won the Best Actress Oscar for playing Queen Elizabeth II in 'The Queen' (2006)?",
+    "options": [
+      "Judi Dench",
+      "Emma Thompson",
+      "Olivia Colman",
+      "Helen Mirren"
+    ],
+    "correct": 3,
+    "explanation": "Helen Mirren won the Academy Award for Best Actress for her portrayal of Queen Elizabeth II in The Queen (2006), directed by Stephen Frears."
+  },
+  {
+    "id": "mov_h_12",
+    "difficulty": "hard",
+    "question": "The Palme d'Or is the top prize at which film festival?",
+    "options": [
+      "Venice Film Festival",
+      "Berlin International Film Festival",
+      "Toronto International Film Festival",
+      "Cannes Film Festival"
+    ],
+    "correct": 3,
+    "explanation": "The Palme d'Or (Golden Palm) is the highest prize at the Cannes Film Festival, awarded since 1955."
+  },
+  {
+    "id": "mov_h_13",
+    "difficulty": "hard",
+    "question": "'La Dolce Vita', 8½, and 'Amarcord' are films by which Italian director?",
+    "options": [
+      "Michelangelo Antonioni",
+      "Pier Paolo Pasolini",
+      "Luchino Visconti",
+      "Federico Fellini"
+    ],
+    "correct": 3,
+    "explanation": "All three films are by Federico Fellini. 8½ (1963) is considered one of the greatest films ever made and is deeply autobiographical."
+  },
+  {
+    "id": "mov_h_14",
+    "difficulty": "hard",
+    "question": "What was the first feature film to be produced and distributed entirely on digital video?",
+    "options": [
+      "The Celebration",
+      "Bamboozled",
+      "Time Code",
+      "Star Wars: Episode I"
+    ],
+    "correct": 3,
+    "explanation": "Star Wars Episode I: The Phantom Menace (1999) was the first major feature to use digital cinema cameras for principal photography, pioneering the digital filmmaking era."
+  },
+  {
+    "id": "mov_h_15",
+    "difficulty": "hard",
+    "question": "Who is the only person to win Best Actor Oscar for a non-English-language performance?",
+    "options": [
+      "Roberto Benigni",
+      "Marion Cotillard",
+      "Sophia Loren",
+      "Roberto Benigni for Life is Beautiful"
+    ],
+    "correct": 0,
+    "explanation": "Roberto Benigni won Best Actor for Life is Beautiful (La vita è bella, 1997), his Italian-language film about the Holocaust — the only time Best Actor was won for a primarily non-English role."
+  },
+  {
+    "id": "mov_h_16",
+    "difficulty": "hard",
+    "question": "In film editing, what is a 'J-cut'?",
+    "options": [
+      "A cut that jumps forward in time",
+      "A cut that reverses the action",
+      "An audio dissolve between scenes",
+      "Where audio from the next scene precedes its video"
+    ],
+    "correct": 3,
+    "explanation": "A J-cut (or audio lead) is a transition where the audio of the next scene begins before its video appears, named for the J-shape in the editing timeline."
+  },
+  {
+    "id": "mov_h_17",
+    "difficulty": "hard",
+    "question": "Who directed the 1927 silent masterpiece 'Metropolis'?",
+    "options": [
+      "D.W. Griffith",
+      "Sergei Eisenstein",
+      "Charlie Chaplin",
+      "Fritz Lang"
+    ],
+    "correct": 3,
+    "explanation": "Fritz Lang directed Metropolis (1927), a landmark science fiction film depicting a dystopian future city. It is the oldest film listed on the UNESCO Memory of the World Register."
+  },
+  {
+    "id": "mov_h_18",
+    "difficulty": "hard",
+    "question": "What does the cinematography term 'depth of field' refer to?",
+    "options": [
+      "How far the camera can physically move",
+      "The angle of view the lens captures",
+      "The color range in a shot",
+      "The range of distances that appear in focus in an image"
+    ],
+    "correct": 3,
+    "explanation": "Depth of field is the distance range within a shot in which objects appear acceptably sharp. Shallow depth of field isolates subjects; deep depth of field keeps everything in focus."
+  },
+  {
+    "id": "mov_h_19",
+    "difficulty": "hard",
+    "question": "Which film by Andrei Tarkovsky is set in a mysterious, wish-granting 'Zone'?",
+    "options": [
+      "Solaris",
+      "Andrei Rublev",
+      "The Sacrifice",
+      "Stalker"
+    ],
+    "correct": 3,
+    "explanation": "Stalker (1979) by Andrei Tarkovsky follows three men navigating a forbidden 'Zone' containing a room that allegedly grants one's deepest wish. It is considered one of cinema's greatest achievements."
+  },
+  {
+    "id": "mov_h_20",
+    "difficulty": "hard",
+    "question": "'The 400 Blows' was the debut feature of which director?",
+    "options": [
+      "Claude Chabrol",
+      "Jean-Luc Godard",
+      "Agnès Varda",
+      "François Truffaut"
+    ],
+    "correct": 3,
+    "explanation": "Les Quatre Cents Coups (The 400 Blows, 1959) was François Truffaut's first feature film, a semi-autobiographical story of a troubled Parisian boy, and a landmark of the French New Wave."
+  },
+  {
+    "id": "mov_e_61",
+    "difficulty": "easy",
+    "question": "Which film won the first Academy Award for Best Picture in 1928?",
+    "options": [
+      "Metropolis",
+      "The Jazz Singer",
+      "Sunrise",
+      "Wings"
+    ],
+    "correct": 3,
+    "explanation": "Wings (1927) won the first Academy Award for Best Picture (then called Outstanding Picture) at the inaugural ceremony in 1929. It was a WWI aviation epic. Sunrise was given a special award for 'Artistic Quality' that year, sometimes conflated with Best Picture."
+  },
+  {
+    "id": "mov_m_61",
+    "difficulty": "medium",
+    "question": "The Dogme 95 manifesto was a filmmaking movement that required directors to follow strict rules. Who co-founded it?",
+    "options": [
+      "Jean-Luc Godard",
+      "Andrei Tarkovsky",
+      "Wong Kar-wai",
+      "Lars von Trier and Thomas Vinterberg"
+    ],
+    "correct": 3,
+    "explanation": "Dogme 95 was founded by Danish directors Lars von Trier and Thomas Vinterberg in 1995. The 'Vow of Chastity' rules included: filming on location, handheld camera, no artificial lighting, no genre, no credited director. The Celebration (1998) and The Idiots were key Dogme films."
+  },
+  {
+    "id": "mov_m_62",
+    "difficulty": "medium",
+    "question": "'Mise-en-scène' refers to which filmmaking concept?",
+    "options": [
+      "The film's musical score",
+      "The editing rhythm of a film",
+      "Post-production color grading",
+      "Everything visible within the frame: set design, lighting, costume, actor placement, and movement"
+    ],
+    "correct": 3,
+    "explanation": "Mise-en-scène (French: 'placing on stage') encompasses all visual elements within the camera frame. It's how directors like Kubrick, Welles, and Hitchcock express meaning through composition, without relying on editing. Contrasted with 'montage', which creates meaning through cutting between shots."
+  },
+  {
+    "id": "mov_h_61",
+    "difficulty": "hard",
+    "question": "Eisenstein's 'Odessa Steps' sequence in Battleship Potemkin (1925) pioneered which editing technique?",
+    "options": [
+      "Parallel editing",
+      "Long take cinematography",
+      "Colour grading",
+      "Intellectual montage — where cutting creates ideological meaning beyond the individual shots"
+    ],
+    "correct": 3,
+    "explanation": "Eisenstein's intellectual montage theory held that cutting two images together produces a third conceptual meaning that neither image contains alone (A×B=C). The Odessa Steps sequence (soldiers shooting civilians, a baby carriage rolling uncontrolled) created visceral political impact through pure editing rhythm."
+  },
+  {
+    "id": "mov_e_62",
+    "difficulty": "easy",
+    "question": "Which animated Disney film features the song 'Let It Go'?",
+    "options": [
+      "Tangled",
+      "Brave",
+      "Moana",
+      "Frozen"
+    ],
+    "correct": 3,
+    "explanation": "'Let It Go' was performed by Idina Menzel in Disney's Frozen (2013). It won the Academy Award for Best Original Song and became one of the best-selling singles of 2013. The song's cultural impact led to Frozen becoming Disney's highest-grossing animated film at the time."
+  },
+  {
+    "id": "mov_m_63",
+    "difficulty": "medium",
+    "question": "What term describes a film's financial model where production, distribution, and profit are fully controlled by the studio — distinct from independent filmmaking?",
+    "options": [
+      "Blockbuster model",
+      "Franchise filmmaking",
+      "Cinema verité",
+      "The Hollywood studio system"
+    ],
+    "correct": 3,
+    "explanation": "The classical Hollywood studio system (1920s–1960s) had studios owning everything: production facilities, distribution networks, theatre chains, and contracted stars. The 1948 Paramount Decree broke up vertical integration. Today's studio system is similar but studios don't typically own theatres."
+  },
+  {
+    "id": "mov_h_62",
+    "difficulty": "hard",
+    "question": "What is the 'auteur theory' of filmmaking, and who introduced it to critical discourse?",
+    "options": [
+      "Roger Ebert, arguing directors were as important as actors",
+      "Orson Welles, describing his own directorial approach",
+      "Steven Spielberg, defending blockbuster filmmaking",
+      "François Truffaut (1954) in Cahiers du Cinéma — arguing the director's personal vision makes them the film's true 'author', like a novelist"
+    ],
+    "correct": 3,
+    "explanation": "Truffaut's essay 'A Certain Tendency of French Cinema' (1954) argued that great directors (Hitchcock, Renoir, Welles) imposed a consistent personal style across all their films, making them auteurs (authors). The theory elevated film direction as an art form and is now fundamental to film studies."
+  },
+  {
+    "id": "mov_m_64",
+    "difficulty": "medium",
+    "question": "Which Japanese filmmaker directed 'Seven Samurai' (1954) and 'Rashomon' (1950)?",
+    "options": [
+      "Yasujiro Ozu",
+      "Kenji Mizoguchi",
+      "Masaki Kobayashi",
+      "Akira Kurosawa"
+    ],
+    "correct": 3,
+    "explanation": "Akira Kurosawa is considered Japan's greatest filmmaker and one of cinema's most influential directors. Rashomon introduced Japanese cinema to international audiences. Seven Samurai was remade as The Magnificent Seven (1960). Directors from Spielberg to George Lucas cite him as a primary influence."
+  },
+  {
+    "id": "mov_e_63",
+    "difficulty": "easy",
+    "question": "What color pill does Neo take in The Matrix (1999) to learn the truth?",
+    "options": [
+      "Blue pill",
+      "Green pill",
+      "Purple pill",
+      "Red pill"
+    ],
+    "correct": 3,
+    "explanation": "Morpheus offers Neo two pills: the blue pill returns him to normal life, the red pill reveals the truth about the Matrix. Neo takes the red pill. The 'red pill/blue pill' metaphor has since entered mainstream culture as shorthand for choosing uncomfortable truth over comfortable illusion."
+  },
+  {
+    "id": "mov_h_63",
+    "difficulty": "hard",
+    "question": "In film theory, what does 'diegetic sound' mean versus 'non-diegetic sound'?",
+    "options": [
+      "Sound recorded on set vs. in post-production",
+      "Dialogue vs. music",
+      "Sound in the original language vs. dubbed",
+      "Diegetic sound exists within the film's world (characters can hear it); non-diegetic sound is added for the audience only (background score, voice-over narration)"
+    ],
+    "correct": 3,
+    "explanation": "A character turning on a radio produces diegetic music — the characters hear it. The emotional score swelling during a fight scene is non-diegetic — only the audience hears it. This distinction is crucial in film analysis: when a film blurs the boundary (as in Mulholland Drive), it creates deliberate disorientation."
+  }
+]

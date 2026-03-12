@@ -1,0 +1,912 @@
+[
+  {
+    "id": "spo_e_01",
+    "difficulty": "easy",
+    "question": "How many players are on a standard soccer team on the field?",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "Each soccer team fields 11 players, including the goalkeeper."
+  },
+  {
+    "id": "spo_e_02",
+    "difficulty": "easy",
+    "question": "In which sport would you find a slam dunk?",
+    "options": [
+      "Volleyball",
+      "Tennis",
+      "Baseball",
+      "Basketball"
+    ],
+    "correct": 3,
+    "explanation": "A slam dunk is a basketball shot where a player jumps and forces the ball through the hoop from above the rim."
+  },
+  {
+    "id": "spo_e_03",
+    "difficulty": "easy",
+    "question": "How many rings are on the Olympic flag?",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "The Olympic flag features 5 interlocking rings in blue, yellow, black, green, and red, representing the five participating continents."
+  },
+  {
+    "id": "spo_e_04",
+    "difficulty": "easy",
+    "question": "In tennis, what do you call a score of 40-40?",
+    "options": [
+      "Tiebreak",
+      "Match point",
+      "Set point",
+      "Deuce"
+    ],
+    "correct": 3,
+    "explanation": "Deuce occurs when both players reach 40 points. A player must then win two consecutive points to win the game."
+  },
+  {
+    "id": "spo_e_05",
+    "difficulty": "easy",
+    "question": "In which sport is the Ashes series played?",
+    "options": [
+      "Rugby",
+      "Football",
+      "Tennis",
+      "Cricket"
+    ],
+    "correct": 3,
+    "explanation": "The Ashes is a historic cricket Test series contested between England and Australia, dating back to 1882."
+  },
+  {
+    "id": "spo_e_06",
+    "difficulty": "easy",
+    "question": "How many points is a touchdown worth in American football?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "A touchdown scores 6 points, with the opportunity to add 1 or 2 more points via a conversion attempt."
+  },
+  {
+    "id": "spo_e_07",
+    "difficulty": "easy",
+    "question": "The FIFA World Cup is held every how many years?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "The FIFA World Cup is held every 4 years. The most recent editions were in 2018 (Russia) and 2022 (Qatar)."
+  },
+  {
+    "id": "spo_e_08",
+    "difficulty": "easy",
+    "question": "In which sport do players use a puck?",
+    "options": [
+      "Lacrosse",
+      "Polo",
+      "Field hockey",
+      "Ice hockey"
+    ],
+    "correct": 3,
+    "explanation": "A puck is the hard rubber disc used in ice hockey."
+  },
+  {
+    "id": "spo_e_09",
+    "difficulty": "easy",
+    "question": "Which country invented basketball?",
+    "options": [
+      "USA",
+      "Brazil",
+      "UK",
+      "Canada"
+    ],
+    "correct": 3,
+    "explanation": "Basketball was invented by Canadian-American Dr. James Naismith in 1891 at Springfield, Massachusetts, USA."
+  },
+  {
+    "id": "spo_e_10",
+    "difficulty": "easy",
+    "question": "How many events are in a decathlon?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "A decathlon consists of 10 track and field events contested over two days."
+  },
+  {
+    "id": "spo_e_11",
+    "difficulty": "easy",
+    "question": "What is the maximum score in ten-pin bowling?",
+    "options": [
+      "250",
+      "275",
+      "290",
+      "300"
+    ],
+    "correct": 3,
+    "explanation": "A perfect game in ten-pin bowling scores 300, achieved by bowling 12 consecutive strikes."
+  },
+  {
+    "id": "spo_e_12",
+    "difficulty": "easy",
+    "question": "How many holes are in a standard round of golf?",
+    "options": [
+      "9",
+      "27",
+      "36",
+      "18"
+    ],
+    "correct": 3,
+    "explanation": "A standard round of golf consists of 18 holes."
+  },
+  {
+    "id": "spo_e_13",
+    "difficulty": "easy",
+    "question": "In swimming, what stroke is swum on your back?",
+    "options": [
+      "Breaststroke",
+      "Freestyle",
+      "Butterfly",
+      "Backstroke"
+    ],
+    "correct": 3,
+    "explanation": "Backstroke is the only competitive swimming stroke performed on the back."
+  },
+  {
+    "id": "spo_e_14",
+    "difficulty": "easy",
+    "question": "What country has won the most FIFA World Cups?",
+    "options": [
+      "Germany",
+      "Argentina",
+      "Italy",
+      "Brazil"
+    ],
+    "correct": 3,
+    "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), more than any other nation."
+  },
+  {
+    "id": "spo_e_15",
+    "difficulty": "easy",
+    "question": "What color is the center ring in archery?",
+    "options": [
+      "Blue",
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "correct": 3,
+    "explanation": "The center ring (bullseye) in archery targets is yellow, worth 10 points in most competitions."
+  },
+  {
+    "id": "spo_e_16",
+    "difficulty": "easy",
+    "question": "In baseball, how many strikes does it take to strike out?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "In baseball, a batter is struck out after 3 strikes."
+  },
+  {
+    "id": "spo_e_17",
+    "difficulty": "easy",
+    "question": "What sport is played at Wimbledon?",
+    "options": [
+      "Cricket",
+      "Badminton",
+      "Squash",
+      "Tennis"
+    ],
+    "correct": 3,
+    "explanation": "Wimbledon is the oldest and most prestigious Grand Slam tennis tournament, held annually in London since 1877."
+  },
+  {
+    "id": "spo_e_18",
+    "difficulty": "easy",
+    "question": "How many players are on a volleyball team on the court?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "Each volleyball team has 6 players on the court at a time."
+  },
+  {
+    "id": "spo_e_19",
+    "difficulty": "easy",
+    "question": "In boxing, how many rounds are in a standard world championship fight?",
+    "options": [
+      "10",
+      "15",
+      "8",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "World championship boxing matches are scheduled for 12 rounds of 3 minutes each."
+  },
+  {
+    "id": "spo_e_20",
+    "difficulty": "easy",
+    "question": "What sport uses terms like 'love', 'deuce', and 'ace'?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Ping-pong",
+      "Tennis"
+    ],
+    "correct": 3,
+    "explanation": "Tennis uses the term 'love' for zero, 'deuce' for 40-40, and 'ace' for an unreturnable serve."
+  },
+  {
+    "id": "spo_m_01",
+    "difficulty": "medium",
+    "question": "Which athlete has won the most Olympic gold medals of all time?",
+    "options": [
+      "Carl Lewis",
+      "Usain Bolt",
+      "Mark Spitz",
+      "Michael Phelps"
+    ],
+    "correct": 3,
+    "explanation": "Michael Phelps won 23 Olympic gold medals in swimming (2000–2016), the most Olympic gold medals won by any athlete."
+  },
+  {
+    "id": "spo_m_02",
+    "difficulty": "medium",
+    "question": "The term 'hat-trick' in soccer means a player scores how many goals?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "A hat-trick in soccer means scoring 3 goals in a single match."
+  },
+  {
+    "id": "spo_m_03",
+    "difficulty": "medium",
+    "question": "Which tennis player has won the most Grand Slam singles titles overall (men and women combined)?",
+    "options": [
+      "Serena Williams",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Serena Williams and Novak Djokovic tied"
+    ],
+    "correct": 0,
+    "explanation": "Serena Williams won 23 Grand Slam singles titles. Novak Djokovic has 24 as of 2023, making him the overall leader. This question highlights that Djokovic holds the men's record."
+  },
+  {
+    "id": "spo_m_04",
+    "difficulty": "medium",
+    "question": "What was Usain Bolt's world record time in the 100 meters?",
+    "options": [
+      "9.72s",
+      "9.81s",
+      "9.65s",
+      "9.58s"
+    ],
+    "correct": 3,
+    "explanation": "Usain Bolt set the 100m world record of 9.58 seconds at the 2009 World Championships in Berlin."
+  },
+  {
+    "id": "spo_m_05",
+    "difficulty": "medium",
+    "question": "Which country has hosted the most Summer Olympics?",
+    "options": [
+      "France",
+      "UK",
+      "Germany",
+      "USA"
+    ],
+    "correct": 3,
+    "explanation": "The USA has hosted the Summer Olympics four times: 1904, 1932, 1984, and 1996."
+  },
+  {
+    "id": "spo_m_06",
+    "difficulty": "medium",
+    "question": "In the NBA, how many points is a shot from beyond the three-point line worth?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "A successful shot from beyond the three-point line scores 3 points in basketball."
+  },
+  {
+    "id": "spo_m_07",
+    "difficulty": "medium",
+    "question": "What sport is associated with the Stanley Cup?",
+    "options": [
+      "American football",
+      "Baseball",
+      "Basketball",
+      "Ice hockey"
+    ],
+    "correct": 3,
+    "explanation": "The Stanley Cup is the championship trophy of the NHL, presented annually to the ice hockey playoff champion."
+  },
+  {
+    "id": "spo_m_08",
+    "difficulty": "medium",
+    "question": "Which country won the first Rugby World Cup in 1987?",
+    "options": [
+      "England",
+      "Australia",
+      "South Africa",
+      "New Zealand"
+    ],
+    "correct": 3,
+    "explanation": "New Zealand (the All Blacks) won the inaugural Rugby World Cup in 1987, defeating France in the final."
+  },
+  {
+    "id": "spo_m_09",
+    "difficulty": "medium",
+    "question": "In athletics, how long is a marathon?",
+    "options": [
+      "40km",
+      "39.5km",
+      "42.5km",
+      "42.195km"
+    ],
+    "correct": 3,
+    "explanation": "The marathon is 42.195 km (26.219 miles), a distance standardized since the 1908 London Olympics."
+  },
+  {
+    "id": "spo_m_10",
+    "difficulty": "medium",
+    "question": "Which footballer was known as 'O Fenômeno'?",
+    "options": [
+      "Romário",
+      "Rivaldo",
+      "Ronaldinho",
+      "Ronaldo Nazário"
+    ],
+    "correct": 3,
+    "explanation": "Brazilian striker Ronaldo Nazário was nicknamed 'O Fenômeno' (The Phenomenon) for his exceptional skills and speed."
+  },
+  {
+    "id": "spo_m_11",
+    "difficulty": "medium",
+    "question": "How many sets does a men's Grand Slam tennis match use?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "Men's Grand Slam singles matches are best of 5 sets, while women's are best of 3."
+  },
+  {
+    "id": "spo_m_12",
+    "difficulty": "medium",
+    "question": "Which team has won the most Super Bowl titles?",
+    "options": [
+      "Dallas Cowboys",
+      "San Francisco 49ers",
+      "Pittsburgh Steelers",
+      "New England Patriots"
+    ],
+    "correct": 3,
+    "explanation": "The New England Patriots have won 6 Super Bowls (XXXVI, XXXVIII, XXXIX, XLIX, LI, LIII), the most in NFL history."
+  },
+  {
+    "id": "spo_m_13",
+    "difficulty": "medium",
+    "question": "In cricket, what is it called when a bowler takes 3 wickets on 3 consecutive balls?",
+    "options": [
+      "A triple",
+      "A treble",
+      "A golden over",
+      "A hat-trick"
+    ],
+    "correct": 3,
+    "explanation": "Taking 3 wickets on 3 consecutive balls in cricket is also called a hat-trick."
+  },
+  {
+    "id": "spo_m_14",
+    "difficulty": "medium",
+    "question": "Who has scored the most goals in World Cup history?",
+    "options": [
+      "Ronaldo Nazário",
+      "Pelé",
+      "Just Fontaine",
+      "Miroslav Klose"
+    ],
+    "correct": 3,
+    "explanation": "German striker Miroslav Klose scored 16 World Cup goals across four tournaments (2002–2014), the most in history."
+  },
+  {
+    "id": "spo_m_15",
+    "difficulty": "medium",
+    "question": "At what height is an NBA basketball hoop fixed from the floor?",
+    "options": [
+      "9 feet",
+      "9.5 feet",
+      "10.5 feet",
+      "10 feet"
+    ],
+    "correct": 3,
+    "explanation": "NBA basketball hoops are set at exactly 10 feet (3.05 meters) from the floor."
+  },
+  {
+    "id": "spo_m_16",
+    "difficulty": "medium",
+    "question": "The Kentucky Derby is a race for which animals?",
+    "options": [
+      "Greyhounds",
+      "Camels",
+      "Donkeys",
+      "Thoroughbred horses"
+    ],
+    "correct": 3,
+    "explanation": "The Kentucky Derby is an annual Grade I stakes race for 3-year-old Thoroughbred horses, run at Churchill Downs in Louisville."
+  },
+  {
+    "id": "spo_m_17",
+    "difficulty": "medium",
+    "question": "In Formula 1, how many points does the race winner receive?",
+    "options": [
+      "20",
+      "15",
+      "12",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "The Formula 1 points system awards 25 points to the race winner, 18 to second place, and so on."
+  },
+  {
+    "id": "spo_m_18",
+    "difficulty": "medium",
+    "question": "In soccer, what is the distance from the penalty spot to the goal line?",
+    "options": [
+      "8 yards",
+      "10 yards",
+      "14 yards",
+      "12 yards"
+    ],
+    "correct": 3,
+    "explanation": "The penalty spot is 12 yards (approximately 11 meters) from the goal line."
+  },
+  {
+    "id": "spo_m_19",
+    "difficulty": "medium",
+    "question": "Which country's national team is known as the Socceroos?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Argentina",
+      "Australia"
+    ],
+    "correct": 3,
+    "explanation": "Australia's national soccer team is nicknamed the Socceroos."
+  },
+  {
+    "id": "spo_m_20",
+    "difficulty": "medium",
+    "question": "The Boston Marathon is run in which month?",
+    "options": [
+      "March",
+      "May",
+      "June",
+      "April"
+    ],
+    "correct": 3,
+    "explanation": "The Boston Marathon is traditionally held on Patriots' Day, the third Monday in April."
+  },
+  {
+    "id": "spo_h_01",
+    "difficulty": "hard",
+    "question": "Who holds the world record for the longest tennis match?",
+    "options": [
+      "Marat Safin vs Pete Sampras",
+      "Andy Murray vs Marcos Baghdatis",
+      "Roger Federer vs Rafael Nadal",
+      "John Isner vs Nicolas Mahut"
+    ],
+    "correct": 3,
+    "explanation": "John Isner defeated Nicolas Mahut 70–68 in the fifth set at Wimbledon 2010, in a match lasting 11 hours and 5 minutes over 3 days."
+  },
+  {
+    "id": "spo_h_02",
+    "difficulty": "hard",
+    "question": "In the Tour de France, what does the white jersey represent?",
+    "options": [
+      "Best climber",
+      "Best sprinter",
+      "Overall leader",
+      "Best young rider"
+    ],
+    "correct": 3,
+    "explanation": "The white jersey (maillot blanc) in the Tour de France is worn by the best young rider (under 26) in the general classification."
+  },
+  {
+    "id": "spo_h_03",
+    "difficulty": "hard",
+    "question": "Which golfer has won the most major championships?",
+    "options": [
+      "Arnold Palmer",
+      "Ben Hogan",
+      "Bobby Jones",
+      "Jack Nicklaus"
+    ],
+    "correct": 3,
+    "explanation": "Jack Nicklaus holds the record for most major golf championships with 18 wins across all four major tournaments."
+  },
+  {
+    "id": "spo_h_04",
+    "difficulty": "hard",
+    "question": "What is the weight of a standard shot put for men in Olympic competition?",
+    "options": [
+      "5 kg",
+      "6 kg",
+      "8 kg",
+      "7.26 kg"
+    ],
+    "correct": 3,
+    "explanation": "The men's shot put weighs 7.26 kg (16 pounds) in Olympic and international competition."
+  },
+  {
+    "id": "spo_h_05",
+    "difficulty": "hard",
+    "question": "The Ryder Cup is a golf competition between which two teams?",
+    "options": [
+      "USA and Canada",
+      "UK and USA",
+      "USA and Asia",
+      "USA and Europe"
+    ],
+    "correct": 3,
+    "explanation": "The Ryder Cup is a biennial golf competition between teams representing the United States and Europe."
+  },
+  {
+    "id": "spo_h_06",
+    "difficulty": "hard",
+    "question": "In which year was the first modern Olympic Games held?",
+    "options": [
+      "1892",
+      "1900",
+      "1904",
+      "1896"
+    ],
+    "correct": 3,
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896, reviving the ancient Greek tradition after 1,500 years."
+  },
+  {
+    "id": "spo_h_07",
+    "difficulty": "hard",
+    "question": "What is the snooker maximum break score?",
+    "options": [
+      "140",
+      "155",
+      "127",
+      "147"
+    ],
+    "correct": 3,
+    "explanation": "A maximum break of 147 in snooker requires potting all 15 reds (each with a black) then all colors in sequence."
+  },
+  {
+    "id": "spo_h_08",
+    "difficulty": "hard",
+    "question": "In cycling, what does 'peloton' refer to?",
+    "options": [
+      "A breakaway group",
+      "The race officials",
+      "A mountain stage",
+      "The main group of riders"
+    ],
+    "correct": 3,
+    "explanation": "The peloton is the main pack of cyclists riding together to reduce wind resistance and conserve energy."
+  },
+  {
+    "id": "spo_h_09",
+    "difficulty": "hard",
+    "question": "Who won consecutive FIFA Ballon d'Or awards from 2010 to 2015?",
+    "options": [
+      "Zlatan Ibrahimović",
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Lionel Messi"
+    ],
+    "correct": 3,
+    "explanation": "Lionel Messi won the FIFA Ballon d'Or six consecutive times from 2009 to 2015 (with one exception in 2013 when Ronaldo won)."
+  },
+  {
+    "id": "spo_h_10",
+    "difficulty": "hard",
+    "question": "Which nation has won the most Olympic medals in total in history?",
+    "options": [
+      "China",
+      "Soviet Union",
+      "UK",
+      "USA"
+    ],
+    "correct": 3,
+    "explanation": "The United States leads the all-time Olympic medal table with over 2,600 medals, including the most gold medals."
+  },
+  {
+    "id": "spo_h_11",
+    "difficulty": "hard",
+    "question": "In darts, what is the highest possible checkout (finish)?",
+    "options": [
+      "140",
+      "160",
+      "167",
+      "170"
+    ],
+    "correct": 3,
+    "explanation": "170 is the highest possible checkout in darts: treble 20, treble 20, bullseye (60+60+50)."
+  },
+  {
+    "id": "spo_h_12",
+    "difficulty": "hard",
+    "question": "What is the regulation weight of a soccer ball?",
+    "options": [
+      "350-390g",
+      "420-445g",
+      "460-500g",
+      "410-450g"
+    ],
+    "correct": 3,
+    "explanation": "FIFA regulations specify that a soccer ball must weigh between 410 and 450 grams at the start of a match."
+  },
+  {
+    "id": "spo_h_13",
+    "difficulty": "hard",
+    "question": "The term 'Fosbury Flop' is associated with which athletics event?",
+    "options": [
+      "Long jump",
+      "Triple jump",
+      "Pole vault",
+      "High jump"
+    ],
+    "correct": 3,
+    "explanation": "Dick Fosbury revolutionized the high jump at the 1968 Olympics with his back-first technique, now universally used."
+  },
+  {
+    "id": "spo_h_14",
+    "difficulty": "hard",
+    "question": "How many laps make up an Olympic 10,000 meter race on a standard track?",
+    "options": [
+      "20",
+      "30",
+      "15",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "A standard athletic track is 400 meters, so 10,000 meters requires 25 laps."
+  },
+  {
+    "id": "spo_h_15",
+    "difficulty": "hard",
+    "question": "In chess, what opening move is called the 'Sicilian Defence'?",
+    "options": [
+      "1.e4 e6",
+      "1.d4 Nf6",
+      "1.e4 c5",
+      "1.c4 c5"
+    ],
+    "correct": 2,
+    "explanation": "The Sicilian Defence begins 1.e4 c5 — Black responds to 1.e4 with c5, the most popular reply in competitive chess."
+  },
+  {
+    "id": "spo_h_16",
+    "difficulty": "hard",
+    "question": "Which country has won the most Davis Cup titles in tennis?",
+    "options": [
+      "Australia",
+      "France",
+      "Sweden",
+      "USA"
+    ],
+    "correct": 3,
+    "explanation": "The United States has won the Davis Cup 32 times, more than any other country."
+  },
+  {
+    "id": "spo_h_17",
+    "difficulty": "hard",
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "options": [
+      "16 inches",
+      "20 inches",
+      "14 inches",
+      "18 inches"
+    ],
+    "correct": 3,
+    "explanation": "An NBA basketball hoop has an inner diameter of 18 inches (45.7 cm)."
+  },
+  {
+    "id": "spo_h_18",
+    "difficulty": "hard",
+    "question": "In competitive swimming, how many lengths of a 50m pool make an 800m race?",
+    "options": [
+      "12",
+      "18",
+      "10",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "An 800m swimming race requires 16 lengths (laps) of a 50-meter pool."
+  },
+  {
+    "id": "spo_h_19",
+    "difficulty": "hard",
+    "question": "What is the standard length of a rugby union pitch?",
+    "options": [
+      "90m",
+      "95m",
+      "105m",
+      "100m"
+    ],
+    "correct": 3,
+    "explanation": "A rugby union pitch can be up to 100m in length (from try-line to try-line), not including the in-goal areas."
+  },
+  {
+    "id": "spo_h_20",
+    "difficulty": "hard",
+    "question": "Who was the first player to score 100 points in a single NBA game?",
+    "options": [
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "Elgin Baylor",
+      "Wilt Chamberlain"
+    ],
+    "correct": 3,
+    "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks on March 2, 1962."
+  },
+  {
+    "id": "spo_e_61",
+    "difficulty": "easy",
+    "question": "How many players are on a basketball team on the court at one time?",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "Basketball has 5 players per team on court simultaneously (point guard, shooting guard, small forward, power forward, center). NBA teams have 15 roster players but only 13 can dress for a game. The five positions evolved gradually from basketball's invention in 1891."
+  },
+  {
+    "id": "spo_m_61",
+    "difficulty": "medium",
+    "question": "In which sport would you perform a 'Fosbury Flop'?",
+    "options": [
+      "Pole vault",
+      "Triple jump",
+      "Long jump",
+      "High jump"
+    ],
+    "correct": 3,
+    "explanation": "The Fosbury Flop — going over the bar backwards and head-first — was pioneered by Dick Fosbury at the 1968 Mexico City Olympics, where he won gold. Before 1968, athletes used the straddle or Western Roll technique. The Flop has been universal ever since."
+  },
+  {
+    "id": "spo_m_62",
+    "difficulty": "medium",
+    "question": "What is a 'hat-trick' in cricket?",
+    "options": [
+      "Three fours in an over",
+      "Scoring 100 runs",
+      "Catching three consecutive balls",
+      "A bowler taking three wickets on three consecutive deliveries"
+    ],
+    "correct": 3,
+    "explanation": "In cricket, a hat-trick is when a bowler dismisses three batsmen with three successive balls (across overs or even innings). The term originated in cricket before spreading to football and hockey. In Test cricket, hat-tricks are rare achievements."
+  },
+  {
+    "id": "spo_h_61",
+    "difficulty": "hard",
+    "question": "In golf, what is an 'albatross' (also called a double eagle)?",
+    "options": [
+      "Three under par on a hole",
+      "Hitting the pin with a tee shot",
+      "Sinking a putt from beyond 50 feet",
+      "Two under par on a hole — extremely rare, achieved by holing out in one on a par 4 or two on a par 5"
+    ],
+    "correct": 3,
+    "explanation": "An albatross is 3 under par on a single hole (not to be confused: eagle = 2 under, birdie = 1 under, bogey = 1 over). It's among golf's rarest achievements — a hole in one on a par 3 is actually more common than an albatross on a par 5."
+  },
+  {
+    "id": "spo_e_62",
+    "difficulty": "easy",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "Germany",
+      "Argentina",
+      "Italy",
+      "Brazil"
+    ],
+    "correct": 3,
+    "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), the most of any nation. Germany and Italy have 4 each, Argentina 3, France 2. Brazil is the only nation to have played in every World Cup tournament."
+  },
+  {
+    "id": "spo_m_63",
+    "difficulty": "medium",
+    "question": "In tennis, what is a 'tiebreak' typically played to?",
+    "options": [
+      "10 points",
+      "6 points",
+      "12 points",
+      "7 points (must win by 2)"
+    ],
+    "correct": 3,
+    "explanation": "A standard tiebreak is first to 7 points with a 2-point advantage. However, Wimbledon introduced a 'super tiebreak' at 6-6 in the final set (first to 10 with 2-point lead) in 2019. The US Open has used final-set tiebreaks since 1970."
+  },
+  {
+    "id": "spo_h_62",
+    "difficulty": "hard",
+    "question": "What is the 'Elo rating system' and in which sport was it originally developed?",
+    "options": [
+      "A badminton seeding method",
+      "An American football performance metric",
+      "A cricket bowling index",
+      "A chess rating system developed by Arpad Elo, now applied to many competitive sports"
+    ],
+    "correct": 3,
+    "explanation": "Arpad Elo (Hungarian-American physics professor) created the Elo system for FIDE chess ratings in 1960. It calculates expected performance based on rating difference and updates after each game. It's now used in football (FIFA), go, video games, and even academic citation ranking."
+  },
+  {
+    "id": "spo_m_64",
+    "difficulty": "medium",
+    "question": "How long is a marathon race?",
+    "options": [
+      "40 km",
+      "26 miles exactly",
+      "25 miles",
+      "26.2 miles (42.195 km)"
+    ],
+    "correct": 3,
+    "explanation": "The marathon distance was standardized at 26 miles 385 yards (42.195 km) at the 1908 London Olympics to align the start at Windsor Castle with the finish in front of the royal box. The legend of Pheidippides running from Marathon to Athens (490 BC) inspired the event."
+  },
+  {
+    "id": "spo_e_63",
+    "difficulty": "easy",
+    "question": "Which sport uses a 'puck'?",
+    "options": [
+      "Field hockey",
+      "Lacrosse",
+      "Water polo",
+      "Ice hockey"
+    ],
+    "correct": 3,
+    "explanation": "Ice hockey uses a hard vulcanized rubber puck, 1 inch thick and 3 inches in diameter, weighing 5.5–6 oz. Pucks are frozen before games to reduce bouncing. The word 'puck' may derive from the Irish word 'poc' (hit or poke)."
+  },
+  {
+    "id": "spo_h_63",
+    "difficulty": "hard",
+    "question": "What is the 'Calcutta Cup', contested between England and Scotland?",
+    "options": [
+      "The oldest cricket trophy between these nations",
+      "A field hockey championship",
+      "A polo trophy",
+      "A rugby union trophy presented since 1879, made from melted-down silver rupees from the dissolved Calcutta Football Club"
+    ],
+    "correct": 3,
+    "explanation": "The Calcutta Cup is rugby's oldest international trophy. When the Calcutta Football Club in India disbanded in 1878, they melted their remaining silver rupee funds to create the cup. England and Scotland have contested it since 1879 as part of the Six Nations."
+  }
+]

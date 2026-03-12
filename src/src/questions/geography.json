@@ -1,0 +1,912 @@
+[
+  {
+    "id": "geo_e_01",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ],
+    "correct": 0,
+    "explanation": "Paris is the capital and largest city of France, situated on the Seine river."
+  },
+  {
+    "id": "geo_e_02",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correct": 2,
+    "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 30% of Earth's surface."
+  },
+  {
+    "id": "geo_e_03",
+    "difficulty": "easy",
+    "question": "On which continent is Brazil located?",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "correct": 3,
+    "explanation": "Brazil is the largest country in South America, covering nearly half the continent."
+  },
+  {
+    "id": "geo_e_04",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Osaka",
+      "Kyoto",
+      "Tokyo",
+      "Hiroshima"
+    ],
+    "correct": 2,
+    "explanation": "Tokyo is Japan's capital and the world's most populous metropolitan area."
+  },
+  {
+    "id": "geo_e_05",
+    "difficulty": "easy",
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Earth has 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+  },
+  {
+    "id": "geo_e_06",
+    "difficulty": "easy",
+    "question": "Which country is the Great Wall located in?",
+    "options": [
+      "Japan",
+      "India",
+      "China",
+      "South Korea"
+    ],
+    "correct": 2,
+    "explanation": "The Great Wall of China was built along China's northern border to protect against invasions."
+  },
+  {
+    "id": "geo_e_07",
+    "difficulty": "easy",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "correct": 3,
+    "explanation": "Canberra is Australia's capital, chosen as a compromise between rivals Sydney and Melbourne."
+  },
+  {
+    "id": "geo_e_08",
+    "difficulty": "easy",
+    "question": "Which river is the longest in the world?",
+    "options": [
+      "Amazon",
+      "Congo",
+      "Mississippi",
+      "Nile"
+    ],
+    "correct": 3,
+    "explanation": "The Nile, flowing through northeastern Africa, is generally considered the world's longest river at about 6,650 km."
+  },
+  {
+    "id": "geo_e_09",
+    "difficulty": "easy",
+    "question": "What is the smallest country in the world by area?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Vatican City"
+    ],
+    "correct": 3,
+    "explanation": "Vatican City, at just 0.44 km², is the world's smallest independent state."
+  },
+  {
+    "id": "geo_e_10",
+    "difficulty": "easy",
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Arabian",
+      "Antarctic"
+    ],
+    "correct": 3,
+    "explanation": "Antarctica is technically the world's largest desert (cold desert). The Sahara is the largest hot desert."
+  },
+  {
+    "id": "geo_e_11",
+    "difficulty": "easy",
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct": 2,
+    "explanation": "Ottawa is Canada's capital, located in Ontario near the Quebec border."
+  },
+  {
+    "id": "geo_e_12",
+    "difficulty": "easy",
+    "question": "Which ocean lies between Europe and North America?",
+    "options": [
+      "Pacific",
+      "Indian",
+      "Arctic",
+      "Atlantic"
+    ],
+    "correct": 3,
+    "explanation": "The Atlantic Ocean separates the Americas from Europe and Africa."
+  },
+  {
+    "id": "geo_e_13",
+    "difficulty": "easy",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": [
+      "Andes",
+      "Alps",
+      "Rockies",
+      "Himalayas"
+    ],
+    "correct": 3,
+    "explanation": "Mount Everest sits in the Himalayas on the border between Nepal and Tibet, China."
+  },
+  {
+    "id": "geo_e_14",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Berlin"
+    ],
+    "correct": 3,
+    "explanation": "Berlin is Germany's capital and largest city, reunified as the capital after German reunification in 1990."
+  },
+  {
+    "id": "geo_e_15",
+    "difficulty": "easy",
+    "question": "Which country has the most natural lakes?",
+    "options": [
+      "Russia",
+      "USA",
+      "Finland",
+      "Canada"
+    ],
+    "correct": 3,
+    "explanation": "Canada has over 2 million lakes, containing about 9% of the world's fresh water."
+  },
+  {
+    "id": "geo_e_16",
+    "difficulty": "easy",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador",
+      "Brasília"
+    ],
+    "correct": 3,
+    "explanation": "Brasília replaced Rio de Janeiro as Brazil's capital in 1960 — it was purpose-built in the country's interior."
+  },
+  {
+    "id": "geo_e_17",
+    "difficulty": "easy",
+    "question": "Which country is home to the Amazon rainforest?",
+    "options": [
+      "Colombia",
+      "Peru",
+      "Venezuela",
+      "Brazil"
+    ],
+    "correct": 3,
+    "explanation": "About 60% of the Amazon rainforest lies within Brazil, with the remainder in 8 other countries."
+  },
+  {
+    "id": "geo_e_18",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Venice",
+      "Naples",
+      "Rome"
+    ],
+    "correct": 3,
+    "explanation": "Rome has been Italy's capital since unification in 1871 and is also the seat of Vatican City."
+  },
+  {
+    "id": "geo_e_19",
+    "difficulty": "easy",
+    "question": "Which is the largest country in the world by area?",
+    "options": [
+      "China",
+      "Canada",
+      "USA",
+      "Russia"
+    ],
+    "correct": 3,
+    "explanation": "Russia covers about 17.1 million km², making it the world's largest country by land area."
+  },
+  {
+    "id": "geo_e_20",
+    "difficulty": "easy",
+    "question": "The Sahara Desert is located on which continent?",
+    "options": [
+      "Asia",
+      "South America",
+      "Australia",
+      "Africa"
+    ],
+    "correct": 3,
+    "explanation": "The Sahara stretches across northern Africa and is the world's largest hot desert."
+  },
+  {
+    "id": "geo_m_01",
+    "difficulty": "medium",
+    "question": "Which country does the island of Corsica belong to?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Greece",
+      "France"
+    ],
+    "correct": 3,
+    "explanation": "Corsica is a French island in the Mediterranean Sea and was the birthplace of Napoleon Bonaparte."
+  },
+  {
+    "id": "geo_m_02",
+    "difficulty": "medium",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Dunedin",
+      "Wellington"
+    ],
+    "correct": 3,
+    "explanation": "Wellington is New Zealand's capital, located at the southern tip of the North Island."
+  },
+  {
+    "id": "geo_m_03",
+    "difficulty": "medium",
+    "question": "Through how many countries does the Amazon River flow?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "The Amazon flows through Peru and Brazil, with minor portions touching Colombia — primarily 3 countries."
+  },
+  {
+    "id": "geo_m_04",
+    "difficulty": "medium",
+    "question": "Which African country has the most pyramids?",
+    "options": [
+      "Egypt",
+      "Libya",
+      "Algeria",
+      "Sudan"
+    ],
+    "correct": 3,
+    "explanation": "Sudan (ancient Nubia) has about 200–255 known pyramids, more than Egypt's approximately 138."
+  },
+  {
+    "id": "geo_m_05",
+    "difficulty": "medium",
+    "question": "Which country is the world's largest by population?",
+    "options": [
+      "USA",
+      "Russia",
+      "India",
+      "China"
+    ],
+    "correct": 2,
+    "explanation": "India surpassed China in 2023 to become the world's most populous country with over 1.4 billion people."
+  },
+  {
+    "id": "geo_m_06",
+    "difficulty": "medium",
+    "question": "What is the longest mountain range in the world?",
+    "options": [
+      "Rockies",
+      "Himalayas",
+      "Alps",
+      "Andes"
+    ],
+    "correct": 3,
+    "explanation": "The Andes stretch about 7,000 km along South America's western coast — the world's longest continental range."
+  },
+  {
+    "id": "geo_m_07",
+    "difficulty": "medium",
+    "question": "Which country has the longest coastline?",
+    "options": [
+      "Russia",
+      "Australia",
+      "Norway",
+      "Canada"
+    ],
+    "correct": 3,
+    "explanation": "Canada has the world's longest coastline at approximately 202,080 km, including islands."
+  },
+  {
+    "id": "geo_m_08",
+    "difficulty": "medium",
+    "question": "The Strait of Magellan connects which two oceans?",
+    "options": [
+      "Atlantic and Indian",
+      "Pacific and Indian",
+      "Atlantic and Arctic",
+      "Atlantic and Pacific"
+    ],
+    "correct": 3,
+    "explanation": "The Strait of Magellan at the southern tip of South America connects the Atlantic and Pacific Oceans."
+  },
+  {
+    "id": "geo_m_09",
+    "difficulty": "medium",
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Córdoba",
+      "Rosario",
+      "Mendoza",
+      "Buenos Aires"
+    ],
+    "correct": 3,
+    "explanation": "Buenos Aires is Argentina's capital and its most populous city, situated on the Río de la Plata."
+  },
+  {
+    "id": "geo_m_10",
+    "difficulty": "medium",
+    "question": "Which sea lies between Europe and North Africa?",
+    "options": [
+      "Red Sea",
+      "Black Sea",
+      "Caspian Sea",
+      "Mediterranean Sea"
+    ],
+    "correct": 3,
+    "explanation": "The Mediterranean Sea is enclosed by Europe to the north and Africa to the south, connecting to the Atlantic through the Strait of Gibraltar."
+  },
+  {
+    "id": "geo_m_11",
+    "difficulty": "medium",
+    "question": "Lake Titicaca lies on the border of which two countries?",
+    "options": [
+      "Chile and Argentina",
+      "Ecuador and Colombia",
+      "Venezuela and Brazil",
+      "Peru and Bolivia"
+    ],
+    "correct": 3,
+    "explanation": "Lake Titicaca, the world's highest navigable lake, straddles the border of Peru and Bolivia at 3,812 m altitude."
+  },
+  {
+    "id": "geo_m_12",
+    "difficulty": "medium",
+    "question": "Which country is both in Europe and Asia?",
+    "options": [
+      "Georgia",
+      "Azerbaijan",
+      "Armenia",
+      "Turkey"
+    ],
+    "correct": 3,
+    "explanation": "Turkey spans both continents — about 97% in Asia (Anatolia) and 3% in Europe (Eastern Thrace)."
+  },
+  {
+    "id": "geo_m_13",
+    "difficulty": "medium",
+    "question": "What is the capital of South Africa's legislative branch?",
+    "options": [
+      "Johannesburg",
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "correct": 3,
+    "explanation": "South Africa has three capitals: Cape Town (legislative), Pretoria (executive), and Bloemfontein (judicial)."
+  },
+  {
+    "id": "geo_m_14",
+    "difficulty": "medium",
+    "question": "Which country contains most of the Gobi Desert?",
+    "options": [
+      "Russia",
+      "Kazakhstan",
+      "China and Mongolia",
+      "India"
+    ],
+    "correct": 2,
+    "explanation": "The Gobi Desert spans northern and northwestern China and southern Mongolia."
+  },
+  {
+    "id": "geo_m_15",
+    "difficulty": "medium",
+    "question": "What is the deepest lake in the world?",
+    "options": [
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Caspian Sea",
+      "Lake Baikal"
+    ],
+    "correct": 3,
+    "explanation": "Lake Baikal in Siberia, Russia, is the world's deepest lake at 1,642 m and holds about 20% of Earth's unfrozen surface fresh water."
+  },
+  {
+    "id": "geo_m_16",
+    "difficulty": "medium",
+    "question": "Which country is home to Patagonia?",
+    "options": [
+      "Brazil",
+      "Chile and Argentina",
+      "Peru",
+      "Uruguay"
+    ],
+    "correct": 1,
+    "explanation": "Patagonia is a sparsely populated region spanning the southern portions of both Argentina and Chile."
+  },
+  {
+    "id": "geo_m_17",
+    "difficulty": "medium",
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Bursa",
+      "Ankara"
+    ],
+    "correct": 3,
+    "explanation": "Ankara replaced Istanbul as Turkey's capital in 1923 when Mustafa Kemal Atatürk founded the republic."
+  },
+  {
+    "id": "geo_m_18",
+    "difficulty": "medium",
+    "question": "The Maldives are located in which ocean?",
+    "options": [
+      "Pacific",
+      "Atlantic",
+      "Arctic",
+      "Indian"
+    ],
+    "correct": 3,
+    "explanation": "The Maldives is an island nation in the Indian Ocean, southwest of Sri Lanka and India."
+  },
+  {
+    "id": "geo_m_19",
+    "difficulty": "medium",
+    "question": "What is the tallest waterfall in the world?",
+    "options": [
+      "Niagara",
+      "Iguazú",
+      "Victoria",
+      "Angel Falls"
+    ],
+    "correct": 3,
+    "explanation": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall at 979 m (3,212 ft)."
+  },
+  {
+    "id": "geo_m_20",
+    "difficulty": "medium",
+    "question": "Which country shares the longest border with Russia?",
+    "options": [
+      "Ukraine",
+      "Finland",
+      "Mongolia",
+      "Kazakhstan"
+    ],
+    "correct": 3,
+    "explanation": "Kazakhstan shares a 7,644 km border with Russia — the world's second-longest international border."
+  },
+  {
+    "id": "geo_h_01",
+    "difficulty": "hard",
+    "question": "What is the only country to border both the Atlantic and Indian Oceans?",
+    "options": [
+      "Angola",
+      "Mozambique",
+      "Namibia",
+      "South Africa"
+    ],
+    "correct": 3,
+    "explanation": "South Africa's Cape of Good Hope region is where the Atlantic and Indian Oceans meet, making it the only country to border both."
+  },
+  {
+    "id": "geo_h_02",
+    "difficulty": "hard",
+    "question": "Which country is home to the most UNESCO World Heritage Sites?",
+    "options": [
+      "France",
+      "China",
+      "Spain",
+      "Italy"
+    ],
+    "correct": 3,
+    "explanation": "Italy has 58 UNESCO World Heritage Sites, the most of any country in the world."
+  },
+  {
+    "id": "geo_h_03",
+    "difficulty": "hard",
+    "question": "What is the only nation with a non-rectangular flag?",
+    "options": [
+      "Qatar",
+      "Switzerland",
+      "Vatican",
+      "Nepal"
+    ],
+    "correct": 3,
+    "explanation": "Nepal is the only country whose national flag is not a quadrilateral — it consists of two stacked pennons."
+  },
+  {
+    "id": "geo_h_04",
+    "difficulty": "hard",
+    "question": "Which country has the most time zones?",
+    "options": [
+      "USA",
+      "Russia",
+      "China",
+      "France"
+    ],
+    "correct": 3,
+    "explanation": "France has 12 time zones when including its overseas territories, more than any other country."
+  },
+  {
+    "id": "geo_h_05",
+    "difficulty": "hard",
+    "question": "The Tropic of Capricorn passes through how many continents?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "The Tropic of Capricorn passes through three continents: South America, Africa, and Australia."
+  },
+  {
+    "id": "geo_h_06",
+    "difficulty": "hard",
+    "question": "Which African country is completely surrounded by South Africa?",
+    "options": [
+      "Swaziland",
+      "Lesotho",
+      "Zimbabwe",
+      "Botswana"
+    ],
+    "correct": 1,
+    "explanation": "Lesotho is an enclave country entirely surrounded by South Africa — one of only three enclaved countries in the world."
+  },
+  {
+    "id": "geo_h_07",
+    "difficulty": "hard",
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Shymkent",
+      "Karaganda",
+      "Astana"
+    ],
+    "correct": 3,
+    "explanation": "Astana (formerly Nur-Sultan and before that Aqmola) is Kazakhstan's capital since 1997."
+  },
+  {
+    "id": "geo_h_08",
+    "difficulty": "hard",
+    "question": "Which is the only sea without any coasts?",
+    "options": [
+      "Sargasso Sea",
+      "Coral Sea",
+      "Tasman Sea",
+      "Arabian Sea"
+    ],
+    "correct": 0,
+    "explanation": "The Sargasso Sea in the North Atlantic is entirely bounded by ocean currents rather than landmasses, making it the only sea without a land boundary."
+  },
+  {
+    "id": "geo_h_09",
+    "difficulty": "hard",
+    "question": "What is the lowest point on Earth's land surface?",
+    "options": [
+      "Death Valley",
+      "Lake Assal",
+      "Mariana Trench",
+      "Dead Sea shore"
+    ],
+    "correct": 3,
+    "explanation": "The shore of the Dead Sea is approximately 430 m below sea level, making it Earth's lowest exposed land surface."
+  },
+  {
+    "id": "geo_h_10",
+    "difficulty": "hard",
+    "question": "Which country has the most islands?",
+    "options": [
+      "Indonesia",
+      "Canada",
+      "Finland",
+      "Sweden"
+    ],
+    "correct": 3,
+    "explanation": "Sweden has about 267,570 islands, more than any other country, though only about 1,000 are inhabited."
+  },
+  {
+    "id": "geo_h_11",
+    "difficulty": "hard",
+    "question": "The Caspian Sea borders how many countries?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The Caspian Sea borders 5 countries: Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan."
+  },
+  {
+    "id": "geo_h_12",
+    "difficulty": "hard",
+    "question": "Which country contains the most of the world's fresh water?",
+    "options": [
+      "Russia",
+      "Canada",
+      "USA",
+      "Brazil"
+    ],
+    "correct": 3,
+    "explanation": "Brazil holds about 12% of the world's fresh water surface resources, more than any other country."
+  },
+  {
+    "id": "geo_h_13",
+    "difficulty": "hard",
+    "question": "What is the capital of Myanmar?",
+    "options": [
+      "Yangon",
+      "Mandalay",
+      "Bagan",
+      "Naypyidaw"
+    ],
+    "correct": 3,
+    "explanation": "Naypyidaw replaced Yangon as Myanmar's capital in 2006 — it was purpose-built as a new administrative centre."
+  },
+  {
+    "id": "geo_h_14",
+    "difficulty": "hard",
+    "question": "Which two countries share the world's longest international border?",
+    "options": [
+      "Russia and Kazakhstan",
+      "Russia and China",
+      "Brazil and Bolivia",
+      "USA and Canada"
+    ],
+    "correct": 3,
+    "explanation": "The US-Canada border is 8,891 km long — the world's longest international border between two countries."
+  },
+  {
+    "id": "geo_h_15",
+    "difficulty": "hard",
+    "question": "Which continent has no rivers?",
+    "options": [
+      "Antarctica",
+      "Australia",
+      "Arctic",
+      "Greenland"
+    ],
+    "correct": 0,
+    "explanation": "Antarctica has no rivers because water there is locked in ice. Meltwater from glaciers reaches the sea but there are no permanent river systems."
+  },
+  {
+    "id": "geo_h_16",
+    "difficulty": "hard",
+    "question": "What percentage of Earth's surface is covered by water?",
+    "options": [
+      "61%",
+      "65%",
+      "75%",
+      "71%"
+    ],
+    "correct": 3,
+    "explanation": "About 71% of Earth's surface is covered by water, primarily the oceans."
+  },
+  {
+    "id": "geo_h_17",
+    "difficulty": "hard",
+    "question": "Which mountain is the farthest from Earth's center?",
+    "options": [
+      "Mount Everest",
+      "K2",
+      "Mauna Kea",
+      "Mount Chimborazo"
+    ],
+    "correct": 3,
+    "explanation": "Due to Earth's equatorial bulge, Mount Chimborazo in Ecuador, though shorter than Everest, is the farthest point from Earth's center."
+  },
+  {
+    "id": "geo_h_18",
+    "difficulty": "hard",
+    "question": "The Bosporus Strait divides which city between two continents?",
+    "options": [
+      "Athens",
+      "Tehran",
+      "Cairo",
+      "Istanbul"
+    ],
+    "correct": 3,
+    "explanation": "The Bosporus Strait divides Istanbul between Europe and Asia, making it the only city that spans two continents."
+  },
+  {
+    "id": "geo_h_19",
+    "difficulty": "hard",
+    "question": "Which landlocked country is entirely surrounded by another landlocked country?",
+    "options": [
+      "Bhutan",
+      "Luxembourg",
+      "Moldova",
+      "Uzbekistan"
+    ],
+    "correct": 3,
+    "explanation": "Uzbekistan is doubly landlocked — surrounded by landlocked countries (Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Turkmenistan), one of only two such countries globally."
+  },
+  {
+    "id": "geo_h_20",
+    "difficulty": "hard",
+    "question": "What is the name of the tectonic plate under most of the Pacific Ocean?",
+    "options": [
+      "Nazca Plate",
+      "Indo-Australian Plate",
+      "Philippine Plate",
+      "Pacific Plate"
+    ],
+    "correct": 3,
+    "explanation": "The Pacific Plate is the largest tectonic plate, covering most of the Pacific Ocean floor."
+  },
+  {
+    "id": "geo_e_61",
+    "difficulty": "easy",
+    "question": "Which country has the most natural lakes in the world?",
+    "options": [
+      "Russia",
+      "USA",
+      "Finland",
+      "Canada"
+    ],
+    "correct": 3,
+    "explanation": "Canada has over 3 million lakes, more than any other country — roughly 60% of the world's total. This is partly due to glacial activity during the last ice age which carved depressions across the Canadian Shield."
+  },
+  {
+    "id": "geo_m_61",
+    "difficulty": "medium",
+    "question": "Which strait separates the Malay Peninsula from the island of Sumatra?",
+    "options": [
+      "Strait of Hormuz",
+      "Lombok Strait",
+      "Makassar Strait",
+      "Strait of Malacca"
+    ],
+    "correct": 3,
+    "explanation": "The Strait of Malacca is one of the world's most strategically important waterways — about 80,000 ships pass through annually, carrying roughly 25% of global trade between the Indian Ocean and South China Sea."
+  },
+  {
+    "id": "geo_m_62",
+    "difficulty": "medium",
+    "question": "What is the only country in the world to border both the Atlantic and Indian Oceans?",
+    "options": [
+      "Mozambique",
+      "Namibia",
+      "Angola",
+      "South Africa"
+    ],
+    "correct": 3,
+    "explanation": "South Africa's southernmost point, Cape Agulhas (not Cape of Good Hope), is the official dividing line between the two oceans. The Cape of Good Hope is more famous but sits slightly to the west."
+  },
+  {
+    "id": "geo_h_61",
+    "difficulty": "hard",
+    "question": "The Dasht-e Kavir and Dasht-e Lut are vast desert plateaus in which country?",
+    "options": [
+      "Afghanistan",
+      "Saudi Arabia",
+      "Pakistan",
+      "Iran"
+    ],
+    "correct": 3,
+    "explanation": "Iran's two great deserts — Dasht-e Kavir (Great Salt Desert) and Dasht-e Lut (Emptiness Desert) — cover much of the central plateau. Dasht-e Lut holds the record for the hottest land surface temperature ever measured: 70.7°C (159.3°F)."
+  },
+  {
+    "id": "geo_m_63",
+    "difficulty": "medium",
+    "question": "Which river forms the border between the United States and Mexico along Texas?",
+    "options": [
+      "Colorado River",
+      "Pecos River",
+      "Gila River",
+      "Rio Grande"
+    ],
+    "correct": 3,
+    "explanation": "The Rio Grande (called Río Bravo del Norte in Mexico) forms approximately 1,255 miles of the US-Mexico border. It flows from Colorado through New Mexico before reaching the Gulf of Mexico at Brownsville/Matamoros."
+  },
+  {
+    "id": "geo_e_62",
+    "difficulty": "easy",
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Melbourne",
+      "Brisbane",
+      "Sydney",
+      "Canberra"
+    ],
+    "correct": 3,
+    "explanation": "Canberra, not Sydney, is Australia's capital — a deliberate compromise chosen in 1908 because Sydney and Melbourne both wanted the title. Canberra was purpose-built and sits roughly between the two rival cities."
+  },
+  {
+    "id": "geo_h_62",
+    "difficulty": "hard",
+    "question": "The Afar Triangle (Afar Depression) in Ethiopia is geologically significant because it is what?",
+    "options": [
+      "The deepest lake in Africa",
+      "A triple junction where three tectonic plates are separating",
+      "The oldest exposed rock on Earth",
+      "The site of the most active volcanic field in Africa"
+    ],
+    "correct": 1,
+    "explanation": "The Afar Depression is a triple junction where the Arabian, Nubian, and Somali tectonic plates meet and diverge. It sits 125m below sea level in places and is literally creating a new ocean — in millions of years, the Horn of Africa will separate from the mainland."
+  },
+  {
+    "id": "geo_m_64",
+    "difficulty": "medium",
+    "question": "Which landlocked country is entirely surrounded by one other country?",
+    "options": [
+      "Luxembourg",
+      "San Marino",
+      "Vatican City",
+      "Lesotho"
+    ],
+    "correct": 3,
+    "explanation": "Lesotho is entirely surrounded by South Africa — one of only three countries in the world that are completely enclosed by a single nation (along with Vatican City and San Marino, both enclosed by Italy)."
+  },
+  {
+    "id": "geo_e_63",
+    "difficulty": "easy",
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "options": [
+      "Corsica",
+      "Sardinia",
+      "Crete",
+      "Sicily"
+    ],
+    "correct": 3,
+    "explanation": "Sicily is the Mediterranean's largest island at 25,711 km². It's separated from mainland Italy by the Strait of Messina, just 3km wide. Mount Etna, Europe's most active volcano, dominates the island."
+  },
+  {
+    "id": "geo_h_63",
+    "difficulty": "hard",
+    "question": "The Bosporus Strait divides which city between two continents?",
+    "options": [
+      "Athens",
+      "Cairo",
+      "Beirut",
+      "Istanbul"
+    ],
+    "correct": 3,
+    "explanation": "Istanbul (formerly Constantinople) is the only city in the world straddling two continents — Europe and Asia — separated by the Bosporus. Historically controlling this strait meant controlling trade between the Black Sea and Mediterranean."
+  }
+]

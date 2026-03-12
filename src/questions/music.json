@@ -1,0 +1,911 @@
+[
+  {
+    "id": "mus_e_01",
+    "difficulty": "easy",
+    "question": "How many strings does a standard guitar have?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "A standard guitar has 6 strings, typically tuned E-A-D-G-B-E from lowest to highest pitch."
+  },
+  {
+    "id": "mus_e_02",
+    "difficulty": "easy",
+    "question": "Which band recorded the album 'Thriller'?",
+    "options": [
+      "Earth Wind & Fire",
+      "The Jacksons",
+      "Prince",
+      "Michael Jackson (solo)"
+    ],
+    "correct": 3,
+    "explanation": "Thriller (1982) was Michael Jackson's sixth solo studio album and is the best-selling album of all time."
+  },
+  {
+    "id": "mus_e_03",
+    "difficulty": "easy",
+    "question": "How many keys does a standard piano have?",
+    "options": [
+      "76",
+      "84",
+      "72",
+      "88"
+    ],
+    "correct": 3,
+    "explanation": "A standard modern piano has 88 keys — 52 white and 36 black."
+  },
+  {
+    "id": "mus_e_04",
+    "difficulty": "easy",
+    "question": "Which country does reggae music originate from?",
+    "options": [
+      "Cuba",
+      "Trinidad",
+      "Brazil",
+      "Jamaica"
+    ],
+    "correct": 3,
+    "explanation": "Reggae originated in Jamaica in the late 1960s, developed from ska and rocksteady. Bob Marley was its most famous ambassador."
+  },
+  {
+    "id": "mus_e_05",
+    "difficulty": "easy",
+    "question": "What instrument is Yo-Yo Ma famous for playing?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Double bass",
+      "Cello"
+    ],
+    "correct": 3,
+    "explanation": "Yo-Yo Ma is one of the world's most celebrated cellists, known for his recordings of Bach's cello suites."
+  },
+  {
+    "id": "mus_e_06",
+    "difficulty": "easy",
+    "question": "Which band was John Lennon a member of?",
+    "options": [
+      "The Rolling Stones",
+      "The Doors",
+      "The Kinks",
+      "The Beatles"
+    ],
+    "correct": 3,
+    "explanation": "John Lennon was a founding member of The Beatles, alongside Paul McCartney, George Harrison, and Ringo Starr."
+  },
+  {
+    "id": "mus_e_07",
+    "difficulty": "easy",
+    "question": "What does 'BPM' stand for in music?",
+    "options": [
+      "Beats per measure",
+      "Bass per minute",
+      "Bars per movement",
+      "Beats per minute"
+    ],
+    "correct": 3,
+    "explanation": "BPM stands for beats per minute, a measure of the tempo (speed) of a piece of music."
+  },
+  {
+    "id": "mus_e_08",
+    "difficulty": "easy",
+    "question": "Which musical symbol indicates a note should be held longer?",
+    "options": [
+      "Staccato",
+      "Sharp",
+      "Flat",
+      "Fermata"
+    ],
+    "correct": 3,
+    "explanation": "A fermata (pause mark) indicates a note or rest should be held longer than its standard duration."
+  },
+  {
+    "id": "mus_e_09",
+    "difficulty": "easy",
+    "question": "What is the lowest male singing voice called?",
+    "options": [
+      "Baritone",
+      "Tenor",
+      "Countertenor",
+      "Bass"
+    ],
+    "correct": 3,
+    "explanation": "Bass is the lowest male singing voice, typically ranging from E2 to E4."
+  },
+  {
+    "id": "mus_e_10",
+    "difficulty": "easy",
+    "question": "Which city is known as the birthplace of jazz?",
+    "options": [
+      "Chicago",
+      "Memphis",
+      "Atlanta",
+      "New Orleans"
+    ],
+    "correct": 3,
+    "explanation": "New Orleans, Louisiana is widely regarded as the birthplace of jazz in the late 19th and early 20th centuries."
+  },
+  {
+    "id": "mus_e_11",
+    "difficulty": "easy",
+    "question": "How many musicians are in a quartet?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "A quartet consists of exactly four musicians or four vocal parts."
+  },
+  {
+    "id": "mus_e_12",
+    "difficulty": "easy",
+    "question": "What genre of music is associated with DJ culture and turntables?",
+    "options": [
+      "Country",
+      "Classical",
+      "Blues",
+      "Hip-hop"
+    ],
+    "correct": 3,
+    "explanation": "Hip-hop music emerged from New York in the 1970s and is closely associated with DJing, rapping, and turntablism."
+  },
+  {
+    "id": "mus_e_13",
+    "difficulty": "easy",
+    "question": "Which of these is a woodwind instrument?",
+    "options": [
+      "Trumpet",
+      "Tuba",
+      "French horn",
+      "Saxophone"
+    ],
+    "correct": 3,
+    "explanation": "The saxophone is a woodwind instrument despite being made of brass, classified by how sound is produced (via a reed)."
+  },
+  {
+    "id": "mus_e_14",
+    "difficulty": "easy",
+    "question": "Who sang 'Like a Rolling Stone' (1965)?",
+    "options": [
+      "Neil Young",
+      "Tom Petty",
+      "Bruce Springsteen",
+      "Bob Dylan"
+    ],
+    "correct": 3,
+    "explanation": "Bob Dylan recorded 'Like a Rolling Stone' in 1965. Rolling Stone magazine named it the greatest rock song of all time."
+  },
+  {
+    "id": "mus_e_15",
+    "difficulty": "easy",
+    "question": "What is the name of the highest female singing voice?",
+    "options": [
+      "Alto",
+      "Contralto",
+      "Mezzo-soprano",
+      "Soprano"
+    ],
+    "correct": 3,
+    "explanation": "Soprano is the highest female singing voice, typically ranging from C4 to C6 (and beyond)."
+  },
+  {
+    "id": "mus_e_16",
+    "difficulty": "easy",
+    "question": "Which band was formed by Freddie Mercury?",
+    "options": [
+      "Led Zeppelin",
+      "The Who",
+      "Aerosmith",
+      "Queen"
+    ],
+    "correct": 3,
+    "explanation": "Freddie Mercury co-founded Queen in 1970. Other original members were Brian May, Roger Taylor, and John Deacon."
+  },
+  {
+    "id": "mus_e_17",
+    "difficulty": "easy",
+    "question": "What does 'forte' mean in music?",
+    "options": [
+      "Slowly",
+      "Softly",
+      "Moderately",
+      "Loudly"
+    ],
+    "correct": 3,
+    "explanation": "Forte (f) is an Italian musical term meaning 'loud' or 'strong'."
+  },
+  {
+    "id": "mus_e_18",
+    "difficulty": "easy",
+    "question": "How many notes are in a standard musical octave?",
+    "options": [
+      "5",
+      "10",
+      "6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "An octave contains 8 notes (including the starting and ending note) in a diatonic scale, e.g., C-D-E-F-G-A-B-C."
+  },
+  {
+    "id": "mus_e_19",
+    "difficulty": "easy",
+    "question": "What instrument does Carlos Santana play?",
+    "options": [
+      "Drums",
+      "Bass guitar",
+      "Keyboard",
+      "Guitar"
+    ],
+    "correct": 3,
+    "explanation": "Carlos Santana is a legendary Mexican-American guitarist, known for his distinctive tone and Latin rock style."
+  },
+  {
+    "id": "mus_e_20",
+    "difficulty": "easy",
+    "question": "Which music streaming service had the most paid subscribers in 2023?",
+    "options": [
+      "Apple Music",
+      "YouTube Music",
+      "Amazon Music",
+      "Spotify"
+    ],
+    "correct": 3,
+    "explanation": "Spotify is the world's largest music streaming service by subscribers, with over 230 million paid subscribers as of 2023."
+  },
+  {
+    "id": "mus_m_01",
+    "difficulty": "medium",
+    "question": "What is the time signature of a waltz?",
+    "options": [
+      "4/4",
+      "2/4",
+      "6/8",
+      "3/4"
+    ],
+    "correct": 3,
+    "explanation": "Waltzes are written in 3/4 time, with three quarter-note beats per measure, giving it its characteristic 'ONE-two-three' feel."
+  },
+  {
+    "id": "mus_m_02",
+    "difficulty": "medium",
+    "question": "Who composed the Four Seasons?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi"
+    ],
+    "correct": 3,
+    "explanation": "Antonio Vivaldi composed The Four Seasons (1720s), four violin concertos each depicting a different season."
+  },
+  {
+    "id": "mus_m_03",
+    "difficulty": "medium",
+    "question": "The 'Wall of Sound' production technique was pioneered by which producer?",
+    "options": [
+      "Brian Wilson",
+      "George Martin",
+      "Quincy Jones",
+      "Phil Spector"
+    ],
+    "correct": 3,
+    "explanation": "Phil Spector developed the 'Wall of Sound' in the early 1960s, layering multiple instruments to create a dense, powerful sound."
+  },
+  {
+    "id": "mus_m_04",
+    "difficulty": "medium",
+    "question": "Which key is known as the 'home key' in Western music?",
+    "options": [
+      "A major",
+      "G major",
+      "F major",
+      "C major"
+    ],
+    "correct": 3,
+    "explanation": "C major is considered the 'home key' because it uses no sharps or flats, making it the natural starting point for music theory."
+  },
+  {
+    "id": "mus_m_05",
+    "difficulty": "medium",
+    "question": "What is the term for the combination of three or more notes played simultaneously?",
+    "options": [
+      "Melody",
+      "Harmony",
+      "Arpeggio",
+      "Chord"
+    ],
+    "correct": 3,
+    "explanation": "A chord is three or more notes sounded simultaneously. Common chords include major, minor, diminished, and augmented."
+  },
+  {
+    "id": "mus_m_06",
+    "difficulty": "medium",
+    "question": "Beethoven composed how many symphonies?",
+    "options": [
+      "6",
+      "7",
+      "10",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "Ludwig van Beethoven composed 9 numbered symphonies. His Ninth is famous for its choral finale ('Ode to Joy')."
+  },
+  {
+    "id": "mus_m_07",
+    "difficulty": "medium",
+    "question": "Which album by Pink Floyd features 'The Dark Side of the Moon'?",
+    "options": [
+      "The Wall",
+      "Animals",
+      "Wish You Were Here",
+      "The Dark Side of the Moon"
+    ],
+    "correct": 3,
+    "explanation": "The Dark Side of the Moon (1973) by Pink Floyd is one of the best-selling albums ever, with over 45 million copies sold."
+  },
+  {
+    "id": "mus_m_08",
+    "difficulty": "medium",
+    "question": "What key is a guitar normally tuned to from lowest to highest string?",
+    "options": [
+      "D-G-C-F-A-D",
+      "E-B-G-D-A-E",
+      "G-C-F-A-D-G",
+      "E-A-D-G-B-E"
+    ],
+    "correct": 3,
+    "explanation": "Standard guitar tuning from lowest to highest is E-A-D-G-B-E."
+  },
+  {
+    "id": "mus_m_09",
+    "difficulty": "medium",
+    "question": "Which musician was known as 'The Chairman of the Board'?",
+    "options": [
+      "Elvis Presley",
+      "Dean Martin",
+      "Sammy Davis Jr.",
+      "Frank Sinatra"
+    ],
+    "correct": 3,
+    "explanation": "Frank Sinatra was nicknamed 'The Chairman of the Board', reflecting his influence and authority in the music industry."
+  },
+  {
+    "id": "mus_m_10",
+    "difficulty": "medium",
+    "question": "Which music genre originated in Kingston, Jamaica in the 1970s?",
+    "options": [
+      "Soca",
+      "Calypso",
+      "Afrobeat",
+      "Dancehall"
+    ],
+    "correct": 3,
+    "explanation": "Dancehall originated in Jamaica in the late 1970s as a more electronic and deejay-centred successor to roots reggae."
+  },
+  {
+    "id": "mus_m_11",
+    "difficulty": "medium",
+    "question": "What is the name of the technique where a singer rapidly alternates between chest and head voice?",
+    "options": [
+      "Vibrato",
+      "Melisma",
+      "Glissando",
+      "Yodeling"
+    ],
+    "correct": 3,
+    "explanation": "Yodeling is a form of singing that rapidly alternates between normal chest voice and a high-pitched falsetto (head voice)."
+  },
+  {
+    "id": "mus_m_12",
+    "difficulty": "medium",
+    "question": "The Grammy Award for Record of the Year in 2022 went to which artist?",
+    "options": [
+      "Doja Cat",
+      "Drake",
+      "Billie Eilish",
+      "Silk Sonic (Bruno Mars & Anderson .Paak)"
+    ],
+    "correct": 3,
+    "explanation": "Silk Sonic's 'Leave the Door Open' won Record of the Year at the 2022 Grammy Awards."
+  },
+  {
+    "id": "mus_m_13",
+    "difficulty": "medium",
+    "question": "Which music scale uses only the black keys on a piano?",
+    "options": [
+      "Whole tone scale",
+      "Blues scale",
+      "Minor scale",
+      "Pentatonic scale"
+    ],
+    "correct": 3,
+    "explanation": "The pentatonic scale using only black keys (G♭-A♭-B♭-D♭-E♭) is common in folk, blues, and Asian music traditions."
+  },
+  {
+    "id": "mus_m_14",
+    "difficulty": "medium",
+    "question": "'Bohemian Rhapsody' was released in which year?",
+    "options": [
+      "1972",
+      "1977",
+      "1980",
+      "1975"
+    ],
+    "correct": 3,
+    "explanation": "Queen released 'Bohemian Rhapsody' in October 1975. Its operatic rock style and music video were revolutionary."
+  },
+  {
+    "id": "mus_m_15",
+    "difficulty": "medium",
+    "question": "What nationality was composer Frédéric Chopin?",
+    "options": [
+      "German",
+      "French",
+      "Hungarian",
+      "Polish"
+    ],
+    "correct": 3,
+    "explanation": "Frédéric Chopin (1810–1849) was a Polish composer and virtuoso pianist known for his solo piano works."
+  },
+  {
+    "id": "mus_m_16",
+    "difficulty": "medium",
+    "question": "What does 'a cappella' mean in music?",
+    "options": [
+      "With full orchestration",
+      "In a very loud manner",
+      "At a slow pace",
+      "Singing without instrumental accompaniment"
+    ],
+    "correct": 3,
+    "explanation": "A cappella (Italian for 'in the chapel style') refers to vocal music performed without instrumental accompaniment."
+  },
+  {
+    "id": "mus_m_17",
+    "difficulty": "medium",
+    "question": "The electric guitar was commercially popularized in the 1930s by which company?",
+    "options": [
+      "Fender",
+      "Marshall",
+      "Roland",
+      "Gibson"
+    ],
+    "correct": 3,
+    "explanation": "Gibson introduced the first commercially successful hollow-body electric guitar, the ES-150, in 1936."
+  },
+  {
+    "id": "mus_m_18",
+    "difficulty": "medium",
+    "question": "Which singer is known as 'Queen of Soul'?",
+    "options": [
+      "Diana Ross",
+      "Tina Turner",
+      "Whitney Houston",
+      "Aretha Franklin"
+    ],
+    "correct": 3,
+    "explanation": "Aretha Franklin is universally known as the 'Queen of Soul'. She won 18 Grammy Awards and had 112 Billboard Hot 100 entries."
+  },
+  {
+    "id": "mus_m_19",
+    "difficulty": "medium",
+    "question": "What is the lowest note on a standard piano?",
+    "options": [
+      "C1",
+      "E1",
+      "F1",
+      "A0"
+    ],
+    "correct": 3,
+    "explanation": "The lowest note on a standard 88-key piano is A0, the A below the bass clef staff."
+  },
+  {
+    "id": "mus_m_20",
+    "difficulty": "medium",
+    "question": "Bossa nova originated in which country?",
+    "options": [
+      "Cuba",
+      "Argentina",
+      "Mexico",
+      "Brazil"
+    ],
+    "correct": 3,
+    "explanation": "Bossa nova emerged in Brazil in the late 1950s, blending samba rhythms with jazz harmonies. João Gilberto and Antonio Carlos Jobim were pioneers."
+  },
+  {
+    "id": "mus_h_01",
+    "difficulty": "hard",
+    "question": "What is the term for a chromatic scale passage in jazz improvisation connecting two harmonically distant points?",
+    "options": [
+      "Tritone substitution",
+      "Pentatonic run",
+      "Pedal point",
+      "Chromatic approach"
+    ],
+    "correct": 3,
+    "explanation": "A chromatic approach uses semitone steps to connect chord tones, creating tension and smooth voice leading in jazz improvisation."
+  },
+  {
+    "id": "mus_h_02",
+    "difficulty": "hard",
+    "question": "The Rite of Spring caused a riot at its premiere in which city in 1913?",
+    "options": [
+      "Vienna",
+      "London",
+      "Milan",
+      "Paris"
+    ],
+    "correct": 3,
+    "explanation": "Igor Stravinsky's The Rite of Spring premiered at the Théâtre des Champs-Élysées in Paris on May 29, 1913, provoking a notorious riot due to its radical rhythms and dissonance."
+  },
+  {
+    "id": "mus_h_03",
+    "difficulty": "hard",
+    "question": "What is the name of the 12-bar chord progression fundamental to blues music?",
+    "options": [
+      "I–IV–V–I",
+      "I–II–V–I",
+      "ii–V–I",
+      "I–IV–I–V–IV–I"
+    ],
+    "correct": 3,
+    "explanation": "The 12-bar blues typically follows a I–I–I–I–IV–IV–I–I–V–IV–I–I chord progression."
+  },
+  {
+    "id": "mus_h_04",
+    "difficulty": "hard",
+    "question": "What is the Fibonacci sequence's connection to the 'golden ratio' used in music composition?",
+    "options": [
+      "It determines key signatures",
+      "It defines rhythm patterns",
+      "It creates harmonic intervals",
+      "It appears in note frequencies and structural proportions"
+    ],
+    "correct": 3,
+    "explanation": "Composers like Bartók used Fibonacci numbers to structure proportions and phrase lengths; the golden ratio appears in peaks of pieces like Debussy's works."
+  },
+  {
+    "id": "mus_h_05",
+    "difficulty": "hard",
+    "question": "Philip Glass and Steve Reich are associated with which compositional movement?",
+    "options": [
+      "Serialism",
+      "Neo-Romanticism",
+      "Aleatoric music",
+      "Minimalism"
+    ],
+    "correct": 3,
+    "explanation": "Philip Glass and Steve Reich are pioneering figures of musical minimalism, characterized by repetitive patterns and gradual transformation."
+  },
+  {
+    "id": "mus_h_06",
+    "difficulty": "hard",
+    "question": "What interval separates the two notes of a tritone?",
+    "options": [
+      "A major third",
+      "A perfect fourth",
+      "A minor seventh",
+      "An augmented fourth (6 semitones)"
+    ],
+    "correct": 3,
+    "explanation": "A tritone spans 6 semitones (three whole tones), dividing the octave exactly in half. It was historically called 'diabolus in musica'."
+  },
+  {
+    "id": "mus_h_07",
+    "difficulty": "hard",
+    "question": "Scordatura in string playing refers to what technique?",
+    "options": [
+      "Extended bow techniques",
+      "Playing behind the bridge",
+      "Playing harmonics",
+      "Non-standard tuning of the instrument"
+    ],
+    "correct": 3,
+    "explanation": "Scordatura is the practice of re-tuning a stringed instrument from standard tuning to facilitate unusual chord voicings or extended range."
+  },
+  {
+    "id": "mus_h_08",
+    "difficulty": "hard",
+    "question": "What is the Köchel catalogue used to classify?",
+    "options": [
+      "Beethoven's works",
+      "Chopin's works",
+      "Bach's works",
+      "Mozart's works"
+    ],
+    "correct": 3,
+    "explanation": "The Köchel catalogue (K. numbers) is a chronological catalogue of Mozart's compositions, compiled by Ludwig von Köchel in 1862."
+  },
+  {
+    "id": "mus_h_09",
+    "difficulty": "hard",
+    "question": "The term 'musique concrète' refers to music composed using what source material?",
+    "options": [
+      "Computer-generated sounds",
+      "Pre-existing recorded sounds",
+      "Traditional folk melodies",
+      "Live electronic manipulation"
+    ],
+    "correct": 1,
+    "explanation": "Musique concrète, developed by Pierre Schaeffer in 1940s Paris, is composed by recording and manipulating pre-existing sounds (environmental, industrial, etc.)."
+  },
+  {
+    "id": "mus_h_10",
+    "difficulty": "hard",
+    "question": "In what key did Beethoven compose his famous 'Moonlight Sonata'?",
+    "options": [
+      "D minor",
+      "F minor",
+      "E♭ major",
+      "C♯ minor"
+    ],
+    "correct": 3,
+    "explanation": "Beethoven's Piano Sonata No. 14 ('Moonlight Sonata', 1801) is in C♯ minor."
+  },
+  {
+    "id": "mus_h_11",
+    "difficulty": "hard",
+    "question": "What compositional technique involves using the same melody backward?",
+    "options": [
+      "Augmentation",
+      "Stretto",
+      "Inversion",
+      "Retrograde"
+    ],
+    "correct": 3,
+    "explanation": "Retrograde is a contrapuntal technique where a melody is played backwards — used extensively in Bach's fugues and 12-tone music."
+  },
+  {
+    "id": "mus_h_12",
+    "difficulty": "hard",
+    "question": "The opera 'La Traviata' was composed by which composer?",
+    "options": [
+      "Puccini",
+      "Donizetti",
+      "Rossini",
+      "Verdi"
+    ],
+    "correct": 3,
+    "explanation": "Giuseppe Verdi composed La Traviata (1853), based on Alexandre Dumas' novel La Dame aux Camélias."
+  },
+  {
+    "id": "mus_h_13",
+    "difficulty": "hard",
+    "question": "What is the name of the Japanese traditional string instrument with 13 strings?",
+    "options": [
+      "Shamisen",
+      "Biwa",
+      "Shakuhachi",
+      "Koto"
+    ],
+    "correct": 3,
+    "explanation": "The koto is a traditional Japanese stringed instrument with 13 strings stretched over a 180cm body, plucked with picks."
+  },
+  {
+    "id": "mus_h_14",
+    "difficulty": "hard",
+    "question": "Which music theorist developed the system of functional harmony in the 17th century?",
+    "options": [
+      "Johann Fux",
+      "Heinrich Schenker",
+      "Arnold Schoenberg",
+      "Jean-Philippe Rameau"
+    ],
+    "correct": 3,
+    "explanation": "Jean-Philippe Rameau codified functional tonal harmony in his Treatise on Harmony (1722), establishing the foundation of Western music theory."
+  },
+  {
+    "id": "mus_h_15",
+    "difficulty": "hard",
+    "question": "What is the standard concert pitch for the note A above middle C?",
+    "options": [
+      "432 Hz",
+      "438 Hz",
+      "445 Hz",
+      "440 Hz"
+    ],
+    "correct": 3,
+    "explanation": "A440 (440 Hz) is the standard pitch for the A above middle C, adopted internationally in 1955 by ISO."
+  },
+  {
+    "id": "mus_h_16",
+    "difficulty": "hard",
+    "question": "Alban Berg's opera Wozzeck is based on a play by which author?",
+    "options": [
+      "Bertolt Brecht",
+      "Georg Büchner",
+      "Friedrich Schiller",
+      "Hugo von Hofmannsthal"
+    ],
+    "correct": 1,
+    "explanation": "Alban Berg's atonal opera Wozzeck (1925) is based on Georg Büchner's incomplete play Woyzeck (written c.1836)."
+  },
+  {
+    "id": "mus_h_17",
+    "difficulty": "hard",
+    "question": "What is the term for a passage where a soloist pauses to improvise while the orchestra holds?",
+    "options": [
+      "Intermezzo",
+      "Recitativo",
+      "Fantasia",
+      "Cadenza"
+    ],
+    "correct": 3,
+    "explanation": "A cadenza is an unaccompanied virtuosic passage for a soloist in a concerto, typically near the end of a movement."
+  },
+  {
+    "id": "mus_h_18",
+    "difficulty": "hard",
+    "question": "Which composer wrote the Goldberg Variations?",
+    "options": [
+      "Franz Liszt",
+      "Domenico Scarlatti",
+      "George Frideric Handel",
+      "Johann Sebastian Bach"
+    ],
+    "correct": 3,
+    "explanation": "J.S. Bach composed the Goldberg Variations (BWV 988, 1741), 30 variations on a ground bass, originally for harpsichord."
+  },
+  {
+    "id": "mus_h_19",
+    "difficulty": "hard",
+    "question": "What is the correct term for a song-cycle in German Romantic music?",
+    "options": [
+      "Opera",
+      "Lied",
+      "Singspiel",
+      "Liederkreis / Liederabend"
+    ],
+    "correct": 3,
+    "explanation": "A Liederkreis (song cycle) is a connected group of songs for voice and piano. Schubert's Winterreise and Schumann's Dichterliebe are famous examples."
+  },
+  {
+    "id": "mus_h_20",
+    "difficulty": "hard",
+    "question": "What is the approximate frequency range of human hearing?",
+    "options": [
+      "50 Hz – 10,000 Hz",
+      "100 Hz – 15,000 Hz",
+      "500 Hz – 5,000 Hz",
+      "20 Hz – 20,000 Hz"
+    ],
+    "correct": 3,
+    "explanation": "The human ear can typically perceive sounds from about 20 Hz to 20,000 Hz, though the upper limit decreases with age."
+  },
+  {
+    "id": "mus_e_61",
+    "difficulty": "easy",
+    "question": "How many strings does a standard guitar have?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "A standard guitar has 6 strings tuned (from low to high) E-A-D-G-B-E. Bass guitars typically have 4 strings. 12-string guitars double each string for a richer sound. Classical guitars use nylon strings; electric and acoustic use steel."
+  },
+  {
+    "id": "mus_m_61",
+    "difficulty": "medium",
+    "question": "Which Italian composer wrote the Four Seasons (Le quattro stagioni)?",
+    "options": [
+      "Handel",
+      "Monteverdi",
+      "Corelli",
+      "Vivaldi"
+    ],
+    "correct": 3,
+    "explanation": "Antonio Vivaldi composed The Four Seasons (c.1723) as a set of four violin concertos, each depicting the seasons. They are among the most recognizable pieces in classical music. Vivaldi was known as 'The Red Priest' for his red hair and ordained status."
+  },
+  {
+    "id": "mus_m_62",
+    "difficulty": "medium",
+    "question": "What is 'syncopation' in music?",
+    "options": [
+      "Playing in a minor key",
+      "A type of vocal harmony",
+      "A cadence at the end of a phrase",
+      "Placing musical accents on normally weak beats or between beats, creating rhythmic tension"
+    ],
+    "correct": 3,
+    "explanation": "Syncopation is fundamental to jazz, blues, funk, and reggae — it shifts emphasis away from the main beats (1 and 3 in 4/4 time) to create rhythmic surprise. Scott Joplin's ragtime piano pieces built syncopation into an art form."
+  },
+  {
+    "id": "mus_h_61",
+    "difficulty": "hard",
+    "question": "What is the 'prepared piano' technique associated with John Cage?",
+    "options": [
+      "Playing piano with amplification",
+      "Using electronic piano samples",
+      "A modified upright piano",
+      "Inserting objects (bolts, rubber, felt) between piano strings to alter timbre and pitch"
+    ],
+    "correct": 3,
+    "explanation": "John Cage developed the prepared piano in 1938 for dancer Syvilla Fort, transforming a concert grand into a percussion ensemble for one performer. His Sonatas and Interludes (1948) is the masterwork for the medium — each preparation creating unique, non-piano sounds."
+  },
+  {
+    "id": "mus_e_62",
+    "difficulty": "easy",
+    "question": "What does 'BPM' stand for in music?",
+    "options": [
+      "Basic Pitch Measure",
+      "Band Performance Mode",
+      "Bass Playing Method",
+      "Beats Per Minute — the measure of tempo"
+    ],
+    "correct": 3,
+    "explanation": "BPM (Beats Per Minute) measures a song's tempo. A typical resting heart rate is 60-100 BPM. Classical music tempo markings: Larghissimo (<20), Grave (25-45), Adagio (66-76), Andante (76-108), Allegro (120-168), Presto (168-200)."
+  },
+  {
+    "id": "mus_m_63",
+    "difficulty": "medium",
+    "question": "Which musician invented the electric solid-body guitar that popularized rock and roll?",
+    "options": [
+      "Eddie Van Halen",
+      "Chuck Berry",
+      "Les Paul"
+    ],
+    "correct": 2,
+    "explanation": "Les Paul (Lester William Polsfuss) invented the solid-body electric guitar in 1941, first called 'The Log.' Gibson produced the iconic 'Les Paul' guitar from 1952. His invention made electric guitar amplification practical — removing the feedback problems of hollow-body instruments."
+  },
+  {
+    "id": "mus_h_62",
+    "difficulty": "hard",
+    "question": "The '12-bar blues' progression is built on which three chords (in a typical key of E)?",
+    "options": [
+      "I-IV-V-IV (E-A-B-A)",
+      "I-II-V (E-F#-B)",
+      "I-IV-I-V-IV-I (E-A-E-B-A-E)",
+      "I-IV-V (E, A, B7) cycling through a specific 12-bar pattern"
+    ],
+    "correct": 3,
+    "explanation": "The 12-bar blues uses the I (tonic), IV (subdominant), and V (dominant) chords in a 12-bar pattern: bars 1-4 (I), bars 5-6 (IV), bars 7-8 (I), bars 9-10 (V-IV), bars 11-12 (I-V turnaround). In E: E7, A7, B7. This structure underpins thousands of songs."
+  },
+  {
+    "id": "mus_m_64",
+    "difficulty": "medium",
+    "question": "'A cappella' singing means what?",
+    "options": [
+      "Singing with only percussion",
+      "Singing in Italian style",
+      "Singing with piano only",
+      "Singing without instrumental accompaniment"
+    ],
+    "correct": 3,
+    "explanation": "'A cappella' is Italian for 'in the chapel style' (Italian chapels historically sang without instruments). It refers to unaccompanied vocal performance. The human beatbox genre performs percussion vocally within a cappella groups, and choral a cappella includes groups like Pentatonix."
+  },
+  {
+    "id": "mus_e_63",
+    "difficulty": "easy",
+    "question": "What does 'forte' mean in musical notation?",
+    "options": [
+      "Slow",
+      "Quiet",
+      "Soft",
+      "Loud"
+    ],
+    "correct": 3,
+    "explanation": "'Forte' (Italian for 'strong') means loud in music notation, abbreviated 'f'. The dynamic markings from quietest to loudest: ppp (pianissimo possible) → pp → p → mp → mf → f → ff → fff. 'Piano' means soft — hence why the instrument was named for its dynamic range."
+  },
+  {
+    "id": "mus_h_63",
+    "difficulty": "hard",
+    "question": "What is the 'Circle of Fifths' in music theory?",
+    "options": [
+      "A pattern of five chord progressions",
+      "A system for counting beats",
+      "A method of vocal warm-up",
+      "A diagram showing the 12 major (and minor) keys arranged so each adjacent key is a perfect fifth apart, showing key relationships and modulation paths"
+    ],
+    "correct": 3,
+    "explanation": "The Circle of Fifths (invented by Johann David Heinichen, 1728) arranges all 12 keys clockwise in perfect fifth intervals (C-G-D-A-E-B-F#-Db-Ab-Eb-Bb-F-C). Adjacent keys share the most common notes, making modulation between them smooth. It's fundamental to understanding harmony."
+  }
+]

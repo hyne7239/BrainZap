@@ -1,0 +1,912 @@
+[
+  {
+    "id": "tec_e_01",
+    "difficulty": "easy",
+    "question": "What does 'CPU' stand for?",
+    "options": [
+      "Core Processing Utility",
+      "Central Programming Unit",
+      "Computer Performance Unit",
+      "Central Processing Unit"
+    ],
+    "correct": 3,
+    "explanation": "CPU stands for Central Processing Unit — the primary component of a computer that executes instructions."
+  },
+  {
+    "id": "tec_e_02",
+    "difficulty": "easy",
+    "question": "What does 'WWW' stand for?",
+    "options": [
+      "World Wide Windows",
+      "World Web Works",
+      "Wide World Web",
+      "World Wide Web"
+    ],
+    "correct": 3,
+    "explanation": "WWW stands for World Wide Web, the information system of interconnected documents accessed via the internet, invented by Tim Berners-Lee in 1989."
+  },
+  {
+    "id": "tec_e_03",
+    "difficulty": "easy",
+    "question": "Which company makes the iPhone?",
+    "options": [
+      "Samsung",
+      "Google",
+      "Microsoft",
+      "Apple"
+    ],
+    "correct": 3,
+    "explanation": "Apple Inc. introduced the iPhone in 2007. It runs iOS and is one of the best-selling smartphone lines in history."
+  },
+  {
+    "id": "tec_e_04",
+    "difficulty": "easy",
+    "question": "What does 'USB' stand for?",
+    "options": [
+      "Unified System Bus",
+      "Universal Signal Bridge",
+      "Ultra Secure Bandwidth",
+      "Universal Serial Bus"
+    ],
+    "correct": 3,
+    "explanation": "USB stands for Universal Serial Bus, a standard connector for connecting peripherals to computers."
+  },
+  {
+    "id": "tec_e_05",
+    "difficulty": "easy",
+    "question": "Which programming language uses the hashtag '#' symbol for comments?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "C++",
+      "Python"
+    ],
+    "correct": 3,
+    "explanation": "Python uses the # symbol for single-line comments. Python code is widely used in data science, AI, and web development."
+  },
+  {
+    "id": "tec_e_06",
+    "difficulty": "easy",
+    "question": "What does 'RAM' stand for?",
+    "options": [
+      "Read Access Memory",
+      "Rapid Application Module",
+      "Redundant Allocation Memory",
+      "Random Access Memory"
+    ],
+    "correct": 3,
+    "explanation": "RAM (Random Access Memory) is temporary, fast computer memory that stores data for currently running programs."
+  },
+  {
+    "id": "tec_e_07",
+    "difficulty": "easy",
+    "question": "Which company created the Android operating system?",
+    "options": [
+      "Samsung",
+      "Microsoft",
+      "Apple",
+      "Google"
+    ],
+    "correct": 3,
+    "explanation": "Android was developed by Google (originally by Android Inc., acquired by Google in 2005) and is the world's most widely used mobile OS."
+  },
+  {
+    "id": "tec_e_08",
+    "difficulty": "easy",
+    "question": "What does 'PDF' stand for?",
+    "options": [
+      "Printed Document File",
+      "Page Display Format",
+      "Portable Data Format",
+      "Portable Document Format"
+    ],
+    "correct": 3,
+    "explanation": "PDF (Portable Document Format) was developed by Adobe in 1993 to present documents consistently across different devices."
+  },
+  {
+    "id": "tec_e_09",
+    "difficulty": "easy",
+    "question": "How many bits are in one byte?",
+    "options": [
+      "4",
+      "16",
+      "32",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "One byte consists of 8 bits. A bit is the smallest unit of digital data (0 or 1)."
+  },
+  {
+    "id": "tec_e_10",
+    "difficulty": "easy",
+    "question": "Which social media platform uses the 'tweet'?",
+    "options": [
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "Twitter / X"
+    ],
+    "correct": 3,
+    "explanation": "Twitter (now rebranded as X) uses 'tweets' — short posts limited to 280 characters."
+  },
+  {
+    "id": "tec_e_11",
+    "difficulty": "easy",
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Universal Resource Label",
+      "Unified Reference Link",
+      "Unique Route Locator",
+      "Uniform Resource Locator"
+    ],
+    "correct": 3,
+    "explanation": "URL (Uniform Resource Locator) is the address used to access resources on the internet, such as websites."
+  },
+  {
+    "id": "tec_e_12",
+    "difficulty": "easy",
+    "question": "Which tech giant operates the search engine Google?",
+    "options": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Alphabet (Google)"
+    ],
+    "correct": 3,
+    "explanation": "Google Search is operated by Google, a subsidiary of Alphabet Inc. It processes over 8.5 billion searches per day."
+  },
+  {
+    "id": "tec_e_13",
+    "difficulty": "easy",
+    "question": "What is the most popular operating system for personal computers?",
+    "options": [
+      "macOS",
+      "Linux",
+      "ChromeOS",
+      "Windows"
+    ],
+    "correct": 3,
+    "explanation": "Microsoft Windows holds approximately 73% of the global desktop OS market share."
+  },
+  {
+    "id": "tec_e_14",
+    "difficulty": "easy",
+    "question": "What does 'HTML' stand for?",
+    "options": [
+      "Hyperlinked Text Markup Logic",
+      "High Transfer Markup Language",
+      "Hyper Transfer Metadata Language",
+      "HyperText Markup Language"
+    ],
+    "correct": 3,
+    "explanation": "HTML (HyperText Markup Language) is the standard language for creating web pages."
+  },
+  {
+    "id": "tec_e_15",
+    "difficulty": "easy",
+    "question": "Which company produces the PlayStation gaming console?",
+    "options": [
+      "Microsoft",
+      "Sega",
+      "Nintendo",
+      "Sony"
+    ],
+    "correct": 3,
+    "explanation": "Sony Interactive Entertainment produces the PlayStation console. The original PlayStation launched in 1994 in Japan."
+  },
+  {
+    "id": "tec_e_16",
+    "difficulty": "easy",
+    "question": "What does 'GPS' stand for?",
+    "options": [
+      "Ground Positioning Scanner",
+      "Global Pathway System",
+      "General Positioning Satellite",
+      "Global Positioning System"
+    ],
+    "correct": 3,
+    "explanation": "GPS (Global Positioning System) is a satellite-based navigation system operated by the US Space Force, providing location and time information globally."
+  },
+  {
+    "id": "tec_e_17",
+    "difficulty": "easy",
+    "question": "Which company created the Windows operating system?",
+    "options": [
+      "Apple",
+      "Intel",
+      "IBM",
+      "Microsoft"
+    ],
+    "correct": 3,
+    "explanation": "Microsoft introduced Windows in 1985. Bill Gates and Paul Allen founded Microsoft in 1975."
+  },
+  {
+    "id": "tec_e_18",
+    "difficulty": "easy",
+    "question": "What type of device is a Kindle?",
+    "options": [
+      "Laptop",
+      "Smartwatch",
+      "Tablet computer",
+      "E-reader"
+    ],
+    "correct": 3,
+    "explanation": "Amazon's Kindle is a series of e-readers designed primarily for reading digital books using e-ink display technology."
+  },
+  {
+    "id": "tec_e_19",
+    "difficulty": "easy",
+    "question": "What does 'Wi-Fi' allow devices to do?",
+    "options": [
+      "Store data in the cloud",
+      "Charge wirelessly",
+      "Connect to a network without cables",
+      "Communicate via Bluetooth"
+    ],
+    "correct": 2,
+    "explanation": "Wi-Fi allows devices to connect to a local area network and the internet wirelessly using radio waves."
+  },
+  {
+    "id": "tec_e_20",
+    "difficulty": "easy",
+    "question": "Which company developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "IBM",
+      "Apple",
+      "Sun Microsystems"
+    ],
+    "correct": 3,
+    "explanation": "Java was created by James Gosling at Sun Microsystems (now Oracle) and released in 1995."
+  },
+  {
+    "id": "tec_m_01",
+    "difficulty": "medium",
+    "question": "What does 'HTTPS' stand for, and what does the 'S' add?",
+    "options": [
+      "Hyper Transfer Protocol Secure — adds speed",
+      "Hyper Text Protocol System — adds synchronization",
+      "High Transfer Protocol Standard — adds standards",
+      "HyperText Transfer Protocol Secure — adds encryption"
+    ],
+    "correct": 3,
+    "explanation": "HTTPS (HyperText Transfer Protocol Secure) encrypts data between browser and server using TLS/SSL, protecting against eavesdropping."
+  },
+  {
+    "id": "tec_m_02",
+    "difficulty": "medium",
+    "question": "Who is credited with inventing the World Wide Web?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Vint Cerf",
+      "Tim Berners-Lee"
+    ],
+    "correct": 3,
+    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN, publishing his proposal in March 1989."
+  },
+  {
+    "id": "tec_m_03",
+    "difficulty": "medium",
+    "question": "In computing, what does 'open source' mean?",
+    "options": [
+      "Software that is free to use commercially",
+      "Software built by one company only",
+      "Software with no user interface",
+      "Software whose source code is publicly available"
+    ],
+    "correct": 3,
+    "explanation": "Open source software has its source code publicly available for anyone to view, modify, and distribute."
+  },
+  {
+    "id": "tec_m_04",
+    "difficulty": "medium",
+    "question": "What is Moore's Law?",
+    "options": [
+      "Data transmission doubles every 18 months",
+      "Hard drive capacity doubles every year",
+      "Software complexity doubles with each version",
+      "Transistor count doubles roughly every two years"
+    ],
+    "correct": 3,
+    "explanation": "Moore's Law (Gordon Moore, 1965) observed that the number of transistors on a chip doubles approximately every two years, driving computing's exponential growth."
+  },
+  {
+    "id": "tec_m_05",
+    "difficulty": "medium",
+    "question": "Which data structure uses 'Last In, First Out' (LIFO) order?",
+    "options": [
+      "Queue",
+      "Tree",
+      "Linked List",
+      "Stack"
+    ],
+    "correct": 3,
+    "explanation": "A stack is a data structure where the last element added is the first to be removed (LIFO), like a stack of plates."
+  },
+  {
+    "id": "tec_m_06",
+    "difficulty": "medium",
+    "question": "What is the maximum number of connections a single IPv4 address space supports?",
+    "options": [
+      "About 1 billion",
+      "About 4 billion",
+      "About 16 billion",
+      "About 500 million"
+    ],
+    "correct": 1,
+    "explanation": "IPv4 uses 32-bit addresses, providing about 4.3 billion (2³²) unique addresses — a shortage that drove IPv6 adoption."
+  },
+  {
+    "id": "tec_m_07",
+    "difficulty": "medium",
+    "question": "In the context of databases, what does 'SQL' stand for?",
+    "options": [
+      "Structured Query Language",
+      "System Query Logic",
+      "Secure Queue Layer",
+      "Standard Query Link"
+    ],
+    "correct": 0,
+    "explanation": "SQL (Structured Query Language) is the standard language for managing and querying relational databases."
+  },
+  {
+    "id": "tec_m_08",
+    "difficulty": "medium",
+    "question": "What was the name of the first commercially successful personal computer?",
+    "options": [
+      "IBM PC",
+      "Commodore 64",
+      "Altair 8800",
+      "Apple II"
+    ],
+    "correct": 3,
+    "explanation": "The Apple II (1977) was the first highly successful mass-produced personal computer, designed by Steve Wozniak."
+  },
+  {
+    "id": "tec_m_09",
+    "difficulty": "medium",
+    "question": "What does 'AI' stand for in technology?",
+    "options": [
+      "Automated Input",
+      "Adaptive Integration",
+      "Algorithmic Interface",
+      "Artificial Intelligence"
+    ],
+    "correct": 3,
+    "explanation": "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by computer systems."
+  },
+  {
+    "id": "tec_m_10",
+    "difficulty": "medium",
+    "question": "What programming paradigm does Java primarily use?",
+    "options": [
+      "Functional programming",
+      "Procedural programming",
+      "Logic programming",
+      "Object-oriented programming"
+    ],
+    "correct": 3,
+    "explanation": "Java is primarily an object-oriented programming language, organizing code into classes and objects."
+  },
+  {
+    "id": "tec_m_11",
+    "difficulty": "medium",
+    "question": "What is the name of the vulnerability where malicious code is injected into SQL queries?",
+    "options": [
+      "XSS",
+      "CSRF",
+      "Buffer overflow",
+      "SQL injection"
+    ],
+    "correct": 3,
+    "explanation": "SQL injection is a code injection attack that inserts malicious SQL statements into input fields to manipulate databases."
+  },
+  {
+    "id": "tec_m_12",
+    "difficulty": "medium",
+    "question": "Which protocol is used to send email?",
+    "options": [
+      "FTP",
+      "POP3",
+      "HTTP",
+      "SMTP"
+    ],
+    "correct": 3,
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending email between servers."
+  },
+  {
+    "id": "tec_m_13",
+    "difficulty": "medium",
+    "question": "What does 'API' stand for?",
+    "options": [
+      "Automated Programming Interface",
+      "Advanced Protocol Integration",
+      "Application Process Input",
+      "Application Programming Interface"
+    ],
+    "correct": 3,
+    "explanation": "An API (Application Programming Interface) defines how software components interact, allowing different applications to communicate."
+  },
+  {
+    "id": "tec_m_14",
+    "difficulty": "medium",
+    "question": "In what year was the first iPhone released?",
+    "options": [
+      "2005",
+      "2006",
+      "2008",
+      "2007"
+    ],
+    "correct": 3,
+    "explanation": "Apple released the first iPhone on June 29, 2007. Steve Jobs unveiled it on January 9, 2007, calling it 'an iPod, a phone, and an internet communicator.'"
+  },
+  {
+    "id": "tec_m_15",
+    "difficulty": "medium",
+    "question": "What does a 'firewall' do in network security?",
+    "options": [
+      "Encrypts data in transit",
+      "Backs up data automatically",
+      "Stores passwords securely",
+      "Monitors and filters incoming and outgoing network traffic"
+    ],
+    "correct": 3,
+    "explanation": "A firewall monitors and controls network traffic based on security rules, protecting systems from unauthorized access."
+  },
+  {
+    "id": "tec_m_16",
+    "difficulty": "medium",
+    "question": "What does 'SSD' stand for?",
+    "options": [
+      "System Storage Driver",
+      "Secure System Disk",
+      "Standard Serial Drive",
+      "Solid State Drive"
+    ],
+    "correct": 3,
+    "explanation": "SSD (Solid State Drive) stores data using flash memory rather than spinning magnetic disks, making it faster and more durable than HDDs."
+  },
+  {
+    "id": "tec_m_17",
+    "difficulty": "medium",
+    "question": "What is the purpose of a 'cache' in computing?",
+    "options": [
+      "To permanently delete old files",
+      "To compress large files",
+      "To securely encrypt data",
+      "To store frequently accessed data for faster retrieval"
+    ],
+    "correct": 3,
+    "explanation": "A cache stores copies of frequently accessed data in a faster storage layer to reduce access times."
+  },
+  {
+    "id": "tec_m_18",
+    "difficulty": "medium",
+    "question": "Which company developed the Ethernet networking standard?",
+    "options": [
+      "IBM",
+      "Intel",
+      "Microsoft",
+      "Xerox (with Intel and DEC)"
+    ],
+    "correct": 3,
+    "explanation": "Ethernet was developed at Xerox PARC by Robert Metcalfe in 1973, later standardized with Intel and Digital Equipment Corporation."
+  },
+  {
+    "id": "tec_m_19",
+    "difficulty": "medium",
+    "question": "In version control, what is a 'commit'?",
+    "options": [
+      "Deploying code to production",
+      "Merging two branches",
+      "Deleting a repository",
+      "Recording a set of changes to the codebase"
+    ],
+    "correct": 3,
+    "explanation": "A commit in version control (like Git) records a snapshot of changes to the codebase with a message describing what changed."
+  },
+  {
+    "id": "tec_m_20",
+    "difficulty": "medium",
+    "question": "What is 'machine learning'?",
+    "options": [
+      "Teaching computers to physically learn",
+      "Faster traditional programming",
+      "Storing data in patterns",
+      "A subset of AI where systems learn from data without being explicitly programmed"
+    ],
+    "correct": 3,
+    "explanation": "Machine learning is an AI technique where algorithms learn patterns from data to make predictions or decisions without explicit programming."
+  },
+  {
+    "id": "tec_h_01",
+    "difficulty": "hard",
+    "question": "What is the CAP theorem in distributed systems?",
+    "options": [
+      "You can have Capacity, Accuracy, and Performance simultaneously",
+      "Distributed systems must choose two of: Consistency, Availability, Partition tolerance",
+      "Systems must balance Cost, Architecture, and Performance",
+      "Networks balance Connectivity, Accessibility, and Protocol"
+    ],
+    "correct": 1,
+    "explanation": "The CAP theorem (Brewer, 2000) states a distributed system can only guarantee two of three: Consistency, Availability, and Partition tolerance simultaneously."
+  },
+  {
+    "id": "tec_h_02",
+    "difficulty": "hard",
+    "question": "What algorithm does Bitcoin's blockchain use to achieve consensus?",
+    "options": [
+      "Proof of Stake",
+      "Delegated Proof of Stake",
+      "Practical Byzantine Fault Tolerance",
+      "Proof of Work"
+    ],
+    "correct": 3,
+    "explanation": "Bitcoin uses Proof of Work (PoW), where miners compete to solve computationally expensive puzzles to add blocks and earn rewards."
+  },
+  {
+    "id": "tec_h_03",
+    "difficulty": "hard",
+    "question": "In cryptography, what is a 'hash function'?",
+    "options": [
+      "A function that decrypts ciphertext",
+      "A method of symmetric encryption",
+      "A key exchange protocol",
+      "A one-way function mapping arbitrary data to a fixed-size digest"
+    ],
+    "correct": 3,
+    "explanation": "A cryptographic hash function (e.g., SHA-256) maps input data to a fixed-size output. It's one-way (infeasible to reverse) and deterministic."
+  },
+  {
+    "id": "tec_h_04",
+    "difficulty": "hard",
+    "question": "What does 'ACID' stand for in database transactions?",
+    "options": [
+      "Atomic, Complete, Isolated, Distributed",
+      "Advanced Concurrent Integrated Database",
+      "Aggregated, Consistent, Independent, Durable",
+      "Atomicity, Consistency, Isolation, Durability"
+    ],
+    "correct": 3,
+    "explanation": "ACID properties ensure reliable database transactions: Atomicity (all-or-nothing), Consistency (valid state), Isolation (concurrent transactions), Durability (committed = permanent)."
+  },
+  {
+    "id": "tec_h_05",
+    "difficulty": "hard",
+    "question": "What is the time complexity of a binary search algorithm?",
+    "options": [
+      "O(n²)",
+      "O(n)",
+      "O(n log n)",
+      "O(log n)"
+    ],
+    "correct": 3,
+    "explanation": "Binary search has O(log n) time complexity because it halves the search space with each comparison."
+  },
+  {
+    "id": "tec_h_06",
+    "difficulty": "hard",
+    "question": "In networking, what is the purpose of a subnet mask?",
+    "options": [
+      "To assign MAC addresses to devices",
+      "To encrypt data packets",
+      "To prioritize network traffic",
+      "To divide an IP address into network and host portions"
+    ],
+    "correct": 3,
+    "explanation": "A subnet mask (e.g., 255.255.255.0) identifies which bits of an IP address represent the network vs. individual hosts."
+  },
+  {
+    "id": "tec_h_07",
+    "difficulty": "hard",
+    "question": "What does 'RISC' stand for in processor architecture?",
+    "options": [
+      "Reliable Integrated System Chip",
+      "Rapid Instruction Set Circuit",
+      "Random Instruction Set Controller",
+      "Reduced Instruction Set Computer"
+    ],
+    "correct": 3,
+    "explanation": "RISC (Reduced Instruction Set Computer) architecture uses a small set of simple, fast instructions. ARM processors use RISC."
+  },
+  {
+    "id": "tec_h_08",
+    "difficulty": "hard",
+    "question": "What is 'tail call optimization' in programming?",
+    "options": [
+      "Caching the last function result",
+      "Automatically parallelizing recursive functions",
+      "Inlining function code at the call site",
+      "Reusing the current stack frame when a function's last action is another call"
+    ],
+    "correct": 3,
+    "explanation": "Tail call optimization (TCO) replaces the current stack frame with the next when a function's final action is a recursive call, preventing stack overflows in deep recursion."
+  },
+  {
+    "id": "tec_h_09",
+    "difficulty": "hard",
+    "question": "What is the difference between TCP and UDP?",
+    "options": [
+      "TCP is for video, UDP for text",
+      "TCP is wireless, UDP is wired",
+      "TCP and UDP are the same protocol",
+      "TCP guarantees delivery and order; UDP is faster but connectionless with no guarantee"
+    ],
+    "correct": 3,
+    "explanation": "TCP (reliable, ordered, error-checked) is used for web browsing and email; UDP (faster, no guarantee) is used for video streaming and gaming where speed matters more."
+  },
+  {
+    "id": "tec_h_10",
+    "difficulty": "hard",
+    "question": "The Turing Test was proposed to assess what?",
+    "options": [
+      "Whether a computer can process natural language",
+      "Whether a robot can perform physical tasks",
+      "Whether AI will become conscious",
+      "Whether a machine can exhibit intelligent behavior indistinguishable from a human"
+    ],
+    "correct": 3,
+    "explanation": "Alan Turing proposed the Turing Test in his 1950 paper 'Computing Machinery and Intelligence' as a measure of machine intelligence through conversation."
+  },
+  {
+    "id": "tec_h_11",
+    "difficulty": "hard",
+    "question": "What does 'idempotent' mean in the context of HTTP methods?",
+    "options": [
+      "The request always returns the same response",
+      "The request uses encrypted transport",
+      "The request is fast",
+      "Multiple identical requests have the same effect as a single request"
+    ],
+    "correct": 3,
+    "explanation": "An idempotent HTTP method (GET, PUT, DELETE) produces the same server state regardless of how many times it's called. POST is generally not idempotent."
+  },
+  {
+    "id": "tec_h_12",
+    "difficulty": "hard",
+    "question": "What is the P vs NP problem in computer science?",
+    "options": [
+      "Whether procedural code can be converted to parallel code",
+      "Whether processors can run more programs simultaneously",
+      "Whether networks can scale to any size",
+      "Whether problems verifiable in polynomial time are also solvable in polynomial time"
+    ],
+    "correct": 3,
+    "explanation": "P vs NP asks whether every problem whose solution can be quickly verified (NP) can also be quickly solved (P). It is one of the Millennium Prize Problems, worth $1 million."
+  },
+  {
+    "id": "tec_h_13",
+    "difficulty": "hard",
+    "question": "What is 'register renaming' in CPU architecture?",
+    "options": [
+      "Overclocking processor registers",
+      "Assigning variable names to memory",
+      "A technique to eliminate false data dependencies in out-of-order execution",
+      "Renaming CPU cores for parallel processing"
+    ],
+    "correct": 2,
+    "explanation": "Register renaming maps architectural registers to a larger pool of physical registers, eliminating WAR and WAW hazards to enable more aggressive out-of-order execution."
+  },
+  {
+    "id": "tec_h_14",
+    "difficulty": "hard",
+    "question": "In public-key cryptography, what is the RSA algorithm based on?",
+    "options": [
+      "The difficulty of solving the discrete logarithm problem",
+      "The difficulty of finding hash collisions",
+      "The strength of symmetric key encryption",
+      "The computational difficulty of factoring large integers"
+    ],
+    "correct": 3,
+    "explanation": "RSA (Rivest–Shamir–Adleman, 1977) is based on the practical difficulty of factoring the product of two large prime numbers."
+  },
+  {
+    "id": "tec_h_15",
+    "difficulty": "hard",
+    "question": "What is a 'race condition' in concurrent programming?",
+    "options": [
+      "When a program loops infinitely",
+      "When two threads read the same file",
+      "When code executes in alphabetical order",
+      "When program behavior depends on the unpredictable timing of concurrent operations"
+    ],
+    "correct": 3,
+    "explanation": "A race condition occurs when multiple threads access shared resources concurrently and the outcome depends on which thread runs first, often causing bugs."
+  },
+  {
+    "id": "tec_h_16",
+    "difficulty": "hard",
+    "question": "What is the Von Neumann bottleneck?",
+    "options": [
+      "The limit on GPU shader processing",
+      "The maximum CPU clock speed",
+      "The bandwidth limit between CPU registers",
+      "The limited data throughput between CPU and main memory"
+    ],
+    "correct": 3,
+    "explanation": "The Von Neumann bottleneck refers to the limited bandwidth between the CPU and RAM in the Von Neumann architecture, where both instructions and data share the same bus."
+  },
+  {
+    "id": "tec_h_17",
+    "difficulty": "hard",
+    "question": "In machine learning, what is 'overfitting'?",
+    "options": [
+      "When a model is too computationally expensive",
+      "When a model learns random noise in training data and fails to generalize",
+      "When training data is too small",
+      "When a model ignores its training data"
+    ],
+    "correct": 1,
+    "explanation": "Overfitting occurs when a model learns the noise and specific details of training data rather than the underlying pattern, performing poorly on new data."
+  },
+  {
+    "id": "tec_h_18",
+    "difficulty": "hard",
+    "question": "What is the purpose of a 'garbage collector' in programming languages?",
+    "options": [
+      "To remove malware from memory",
+      "To compress memory data",
+      "To optimize CPU cache usage",
+      "To automatically reclaim memory occupied by objects no longer in use"
+    ],
+    "correct": 3,
+    "explanation": "Garbage collection automatically manages memory by detecting and freeing objects that are no longer reachable, preventing memory leaks. Used in Java, Python, JavaScript, and others."
+  },
+  {
+    "id": "tec_h_19",
+    "difficulty": "hard",
+    "question": "What does the Bellman-Ford algorithm compute?",
+    "options": [
+      "The minimum spanning tree of a graph",
+      "Whether a graph contains cycles",
+      "The maximum flow in a network",
+      "Shortest paths in a weighted graph, even with negative edge weights"
+    ],
+    "correct": 3,
+    "explanation": "Bellman-Ford computes shortest paths from a source to all vertices in a weighted graph, handling negative edge weights (unlike Dijkstra's) but running in O(VE) time."
+  },
+  {
+    "id": "tec_h_20",
+    "difficulty": "hard",
+    "question": "What is 'speculative execution' in modern CPUs?",
+    "options": [
+      "Predicting future hardware failures",
+      "Running multiple operating systems simultaneously",
+      "Caching frequently used instructions",
+      "Executing instructions before it's confirmed they're needed, to improve performance"
+    ],
+    "correct": 3,
+    "explanation": "Speculative execution is a performance optimization where a CPU executes instructions before knowing if they're needed. It was central to the Spectre and Meltdown vulnerabilities (2018)."
+  },
+  {
+    "id": "tec_e_61",
+    "difficulty": "easy",
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Universal Reading Link",
+      "Uniform Resource Language",
+      "Universal Registry Label",
+      "Uniform Resource Locator"
+    ],
+    "correct": 3,
+    "explanation": "URL (Uniform Resource Locator) is a web address that specifies both the location of a resource and the protocol to access it (e.g., https://www.example.com/page). Tim Berners-Lee developed URLs in 1990 as part of his World Wide Web proposal."
+  },
+  {
+    "id": "tec_m_61",
+    "difficulty": "medium",
+    "question": "In computing, what is 'Moore's Law'?",
+    "options": [
+      "The law of diminishing returns in software development",
+      "The principle that larger codebases have more bugs",
+      "A formula for calculating CPU clock speed",
+      "Gordon Moore's 1965 observation that the number of transistors on microchips doubles roughly every two years"
+    ],
+    "correct": 3,
+    "explanation": "Moore's Law (Gordon Moore, Intel co-founder, 1965) predicted transistor density would double every 2 years — and held remarkably true for ~50 years. Modern chips have billions of transistors. Physical limits (quantum effects, heat) are slowing the pace, but it drove the entire digital revolution."
+  },
+  {
+    "id": "tec_m_62",
+    "difficulty": "medium",
+    "question": "What is 'containerization' in software deployment (e.g., Docker)?",
+    "options": [
+      "A method of encrypting code",
+      "A type of database indexing",
+      "A virtual machine architecture",
+      "Packaging an application with all its dependencies into a standardized container that runs consistently across environments"
+    ],
+    "correct": 3,
+    "explanation": "Containers (popularized by Docker in 2013) solve the 'it works on my machine' problem by bundling code, runtime, libraries, and config together. Unlike VMs, containers share the host OS kernel, making them lightweight. Kubernetes then orchestrates containers at scale."
+  },
+  {
+    "id": "tec_h_61",
+    "difficulty": "hard",
+    "question": "What is 'gradient descent' in machine learning?",
+    "options": [
+      "A technique for compressing neural network weights",
+      "A method for reducing model complexity",
+      "A type of activation function",
+      "An optimization algorithm that iteratively adjusts model parameters in the direction that minimizes a loss function, like descending a hill toward its lowest point"
+    ],
+    "correct": 3,
+    "explanation": "Gradient descent computes the gradient (slope) of the loss function with respect to parameters and moves parameters in the opposite direction. Variants: batch GD (all data), stochastic GD (one sample), mini-batch GD (subset). Most deep learning relies on variants like Adam optimizer that adapt learning rates."
+  },
+  {
+    "id": "tec_e_62",
+    "difficulty": "easy",
+    "question": "What does 'RAM' stand for in computing?",
+    "options": [
+      "Read-Access Memory",
+      "Random-Access Module",
+      "Rapid Application Memory",
+      "Random-Access Memory"
+    ],
+    "correct": 3,
+    "explanation": "RAM (Random-Access Memory) is the computer's short-term memory — data currently in use. Unlike storage (HDD/SSD), RAM is volatile (clears when power is off) but extremely fast. 'Random access' means any byte can be accessed directly without reading preceding data, unlike older tape storage."
+  },
+  {
+    "id": "tec_m_63",
+    "difficulty": "medium",
+    "question": "What is the purpose of a 'hash function' in cryptography and data structures?",
+    "options": [
+      "To compress files for storage",
+      "To generate random numbers",
+      "To encrypt messages for secure transmission",
+      "To map data of any size to a fixed-size output, used for data integrity, password storage, and digital signatures"
+    ],
+    "correct": 3,
+    "explanation": "A hash function (e.g., SHA-256) takes any input and produces a fixed-length fingerprint. Good hash functions are: deterministic (same input → same output), one-way (can't reverse), and collision-resistant (different inputs → different outputs). Passwords should always be stored as hashed values, never plaintext."
+  },
+  {
+    "id": "tec_h_62",
+    "difficulty": "hard",
+    "question": "What is the CAP theorem in distributed systems?",
+    "options": [
+      "Cache-Availability-Performance",
+      "Compute-Access-Persistence",
+      "Concurrency-Atomicity-Persistence",
+      "A proof that distributed databases can guarantee at most two of three: Consistency, Availability, and Partition tolerance — not all three simultaneously"
+    ],
+    "correct": 3,
+    "explanation": "Brewer's CAP theorem (2000, proven by Gilbert & Lynch 2002): in a networked system subject to partition (network failures), you must choose between consistency (all nodes see same data) and availability (every request gets a response). Real systems choose their trade-off: MongoDB (CP), Cassandra (AP), traditional RDBMS (CA, assumes no partition)."
+  },
+  {
+    "id": "tec_m_64",
+    "difficulty": "medium",
+    "question": "What is 'latency' in networking, and how is it different from 'bandwidth'?",
+    "options": [
+      "Latency is data speed; bandwidth is connection type",
+      "They are synonyms for network performance",
+      "Latency is packet size; bandwidth is network capacity",
+      "Latency is the delay (time) for data to travel from source to destination; bandwidth is the volume of data that can be transmitted per second"
+    ],
+    "correct": 3,
+    "explanation": "Latency (measured in milliseconds) determines responsiveness — critical for gaming, VoIP, and real-time applications. Bandwidth (measured in Mbps/Gbps) determines throughput — critical for streaming and downloads. A satellite connection may have high bandwidth but terrible latency (~600ms delay) due to distance."
+  },
+  {
+    "id": "tec_e_63",
+    "difficulty": "easy",
+    "question": "What programming language was created by Guido van Rossum and first released in 1991?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Perl",
+      "Python"
+    ],
+    "correct": 3,
+    "explanation": "Python was named after Monty Python's Flying Circus, not the snake. Guido van Rossum designed it for readability, using indentation for code blocks. It's now the world's most popular language for data science, ML, automation, and web development (Django, Flask)."
+  },
+  {
+    "id": "tec_h_63",
+    "difficulty": "hard",
+    "question": "What is 'zero-knowledge proof' in cryptography?",
+    "options": [
+      "A proof that requires no mathematical computation",
+      "A proof that relies on quantum uncertainty",
+      "A method of securing public key exchange",
+      "A method by which one party (the prover) can convince another party (the verifier) that a statement is true without revealing any information beyond the truth of that statement"
+    ],
+    "correct": 3,
+    "explanation": "ZK-proofs (Goldwasser, Micali, Rackoff, 1989) allow proving knowledge (e.g., 'I know this password') without revealing the secret itself. Used in blockchain privacy (Zcash), digital identity verification, and secure authentication — solving the paradox of proving knowledge without revealing it."
+  }
+]

@@ -1,0 +1,17 @@
+services:
+  brainzap:
+    build:
+      context:    .
+      dockerfile: Dockerfile
+    container_name: brainzap
+    restart:        unless-stopped
+    ports:
+      - "3444:3444"
+    environment:
+      - NODE_ENV=production
+    # No extra_hosts, no external network — app is 100% offline
+    healthcheck:
+      test:     ["CMD", "wget", "-qO-", "http://localhost:3444/"]
+      interval: 30s
+      timeout:  5s
+      retries:  3

@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "mat_e_01",
+    "difficulty": "easy",
+    "question": "What is 12 × 12?",
+    "options": [
+      "124",
+      "132",
+      "148",
+      "144"
+    ],
+    "correct": 3,
+    "explanation": "12 × 12 = 144. This is a common multiplication fact worth memorizing."
+  },
+  {
+    "id": "mat_e_02",
+    "difficulty": "easy",
+    "question": "What is 25% of 200?",
+    "options": [
+      "40",
+      "60",
+      "25",
+      "50"
+    ],
+    "correct": 3,
+    "explanation": "25% of 200 = 0.25 × 200 = 50."
+  },
+  {
+    "id": "mat_e_03",
+    "difficulty": "easy",
+    "question": "What is the square root of 81?",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "√81 = 9, because 9 × 9 = 81."
+  },
+  {
+    "id": "mat_e_04",
+    "difficulty": "easy",
+    "question": "What is 7 + 8 × 2?",
+    "options": [
+      "30",
+      "16",
+      "15",
+      "23"
+    ],
+    "correct": 3,
+    "explanation": "Following order of operations (BODMAS/PEMDAS): 8 × 2 = 16, then 7 + 16 = 23."
+  },
+  {
+    "id": "mat_e_05",
+    "difficulty": "easy",
+    "question": "How many degrees are in a right angle?",
+    "options": [
+      "45",
+      "60",
+      "180",
+      "90"
+    ],
+    "correct": 3,
+    "explanation": "A right angle is exactly 90 degrees. It is typically indicated by a small square in diagrams."
+  },
+  {
+    "id": "mat_e_06",
+    "difficulty": "easy",
+    "question": "What is the perimeter of a square with side length 5?",
+    "options": [
+      "10",
+      "15",
+      "25",
+      "20"
+    ],
+    "correct": 3,
+    "explanation": "Perimeter of a square = 4 × side = 4 × 5 = 20."
+  },
+  {
+    "id": "mat_e_07",
+    "difficulty": "easy",
+    "question": "What is 100 ÷ 4?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "100 ÷ 4 = 25. You can verify: 4 × 25 = 100. Division by 4 is the same as multiplying by 0.25."
+  },
+  {
+    "id": "mat_e_08",
+    "difficulty": "easy",
+    "question": "What is the next prime number after 7?",
+    "options": [
+      "8",
+      "9",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime number after 7. (8=2³, 9=3², 10=2×5 are all composite; 11 has no divisors other than 1 and itself.)"
+  },
+  {
+    "id": "mat_e_09",
+    "difficulty": "easy",
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "A hexagon has 6 sides. Common examples include honeycomb cells and nuts for bolts."
+  },
+  {
+    "id": "mat_e_10",
+    "difficulty": "easy",
+    "question": "What is 3² + 4²?",
+    "options": [
+      "14",
+      "20",
+      "30",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "3² + 4² = 9 + 16 = 25. This is a Pythagorean triple: 3² + 4² = 5²."
+  },
+  {
+    "id": "mat_e_11",
+    "difficulty": "easy",
+    "question": "What is half of 3/4?",
+    "options": [
+      "1/4",
+      "2/3",
+      "1/2",
+      "3/8"
+    ],
+    "correct": 3,
+    "explanation": "Half of 3/4 = (3/4) ÷ 2 = 3/8."
+  },
+  {
+    "id": "mat_e_12",
+    "difficulty": "easy",
+    "question": "What is the area of a rectangle with length 8 and width 5?",
+    "options": [
+      "26",
+      "35",
+      "16",
+      "40"
+    ],
+    "correct": 3,
+    "explanation": "Area of a rectangle = length × width = 8 × 5 = 40."
+  },
+  {
+    "id": "mat_e_13",
+    "difficulty": "easy",
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": [
+      "3.41",
+      "2.14",
+      "3.41",
+      "3.14"
+    ],
+    "correct": 3,
+    "explanation": "π ≈ 3.14159... Rounded to two decimal places, π ≈ 3.14."
+  },
+  {
+    "id": "mat_e_14",
+    "difficulty": "easy",
+    "question": "What is 15% of 60?",
+    "options": [
+      "6",
+      "12",
+      "15",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "15% of 60 = 0.15 × 60 = 9."
+  },
+  {
+    "id": "mat_e_15",
+    "difficulty": "easy",
+    "question": "How many edges does a cube have?",
+    "options": [
+      "6",
+      "8",
+      "16",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "A cube has 12 edges (4 top + 4 bottom + 4 vertical sides)."
+  },
+  {
+    "id": "mat_e_16",
+    "difficulty": "easy",
+    "question": "What is the value of 2⁸?",
+    "options": [
+      "64",
+      "128",
+      "512",
+      "256"
+    ],
+    "correct": 3,
+    "explanation": "2⁸ = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 256."
+  },
+  {
+    "id": "mat_e_17",
+    "difficulty": "easy",
+    "question": "What is the sum of the interior angles of a triangle?",
+    "options": [
+      "90°",
+      "270°",
+      "360°",
+      "180°"
+    ],
+    "correct": 3,
+    "explanation": "The sum of interior angles in any triangle is always 180°."
+  },
+  {
+    "id": "mat_e_18",
+    "difficulty": "easy",
+    "question": "What is the LCM (Lowest Common Multiple) of 4 and 6?",
+    "options": [
+      "12",
+      "24",
+      "8",
+      "10"
+    ],
+    "correct": 0,
+    "explanation": "LCM(4,6) = 12. The multiples of 4 are 4,8,12… and multiples of 6 are 6,12… The lowest common multiple is 12."
+  },
+  {
+    "id": "mat_e_19",
+    "difficulty": "easy",
+    "question": "What is 0.5 expressed as a fraction?",
+    "options": [
+      "1/4",
+      "2/5",
+      "1/3",
+      "1/2"
+    ],
+    "correct": 3,
+    "explanation": "0.5 = 5/10 = 1/2. Moving the decimal point gives us the fraction 5/10, which simplifies by dividing numerator and denominator by 5."
+  },
+  {
+    "id": "mat_e_20",
+    "difficulty": "easy",
+    "question": "How many minutes are in 2.5 hours?",
+    "options": [
+      "120",
+      "130",
+      "160",
+      "150"
+    ],
+    "correct": 3,
+    "explanation": "2.5 hours × 60 minutes/hour = 150 minutes."
+  },
+  {
+    "id": "mat_m_01",
+    "difficulty": "medium",
+    "question": "What is the slope of a line passing through (2,3) and (6,11)?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "Slope = (y₂-y₁)/(x₂-x₁) = (11-3)/(6-2) = 8/4 = 2."
+  },
+  {
+    "id": "mat_m_02",
+    "difficulty": "medium",
+    "question": "What is the value of log₂(64)?",
+    "options": [
+      "5",
+      "8",
+      "4",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "log₂(64) = 6, because 2⁶ = 64."
+  },
+  {
+    "id": "mat_m_03",
+    "difficulty": "medium",
+    "question": "If a triangle has sides 5, 12, and 13, what type is it?",
+    "options": [
+      "Obtuse triangle",
+      "Equilateral triangle",
+      "Acute triangle",
+      "Right triangle"
+    ],
+    "correct": 3,
+    "explanation": "5² + 12² = 25 + 144 = 169 = 13², so by the Pythagorean theorem, this is a right triangle."
+  },
+  {
+    "id": "mat_m_04",
+    "difficulty": "medium",
+    "question": "What is the quadratic formula for ax² + bx + c = 0?",
+    "options": [
+      "x = (-b ± √b²-4ac) / 2a",
+      "x = (-b ± √b²+4ac) / 2a",
+      "x = (b ± √b²-4ac) / 2a",
+      "x = (b ± √b²+4ac) / a"
+    ],
+    "correct": 0,
+    "explanation": "The quadratic formula is x = (-b ± √(b²-4ac)) / 2a. The expression b²-4ac is called the discriminant."
+  },
+  {
+    "id": "mat_m_05",
+    "difficulty": "medium",
+    "question": "What is the sum of the first 100 positive integers?",
+    "options": [
+      "4950",
+      "5050",
+      "5100",
+      "5000"
+    ],
+    "correct": 1,
+    "explanation": "Using Gauss's formula: n(n+1)/2 = 100×101/2 = 5050. Young Gauss famously computed this instantly."
+  },
+  {
+    "id": "mat_m_06",
+    "difficulty": "medium",
+    "question": "A circle has radius 7. What is its area? (Use π ≈ 22/7)",
+    "options": [
+      "154",
+      "44",
+      "49",
+      "143"
+    ],
+    "correct": 0,
+    "explanation": "Area = πr² = (22/7) × 7² = (22/7) × 49 = 22 × 7 = 154."
+  },
+  {
+    "id": "mat_m_07",
+    "difficulty": "medium",
+    "question": "What is the derivative of x³?",
+    "options": [
+      "x²",
+      "2x²",
+      "x⁴/4",
+      "3x²"
+    ],
+    "correct": 3,
+    "explanation": "Using the power rule: d/dx(xⁿ) = nxⁿ⁻¹. So d/dx(x³) = 3x²."
+  },
+  {
+    "id": "mat_m_08",
+    "difficulty": "medium",
+    "question": "Two dice are rolled. What is the probability of getting a sum of 7?",
+    "options": [
+      "1/12",
+      "1/4",
+      "1/9",
+      "1/6"
+    ],
+    "correct": 3,
+    "explanation": "There are 36 equally likely outcomes (6×6). Combinations summing to 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 outcomes. P = 6/36 = 1/6."
+  },
+  {
+    "id": "mat_m_09",
+    "difficulty": "medium",
+    "question": "What is the factorial of 6 (6!)?",
+    "options": [
+      "360",
+      "480",
+      "840",
+      "720"
+    ],
+    "correct": 3,
+    "explanation": "6! = 6 × 5 × 4 × 3 × 2 × 1 = 720."
+  },
+  {
+    "id": "mat_m_10",
+    "difficulty": "medium",
+    "question": "In a right triangle, if one leg is 9 and the hypotenuse is 15, what is the other leg?",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "By Pythagorean theorem: b² = c² - a² = 15² - 9² = 225 - 81 = 144. b = √144 = 12."
+  },
+  {
+    "id": "mat_m_11",
+    "difficulty": "medium",
+    "question": "What is the value of sin(90°)?",
+    "options": [
+      "0",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correct": 3,
+    "explanation": "sin(90°) = 1. This is a fundamental trigonometry value."
+  },
+  {
+    "id": "mat_m_12",
+    "difficulty": "medium",
+    "question": "If f(x) = 2x + 5, what is f⁻¹(x) (the inverse function)?",
+    "options": [
+      "2x - 5",
+      "(x+5)/2",
+      "(x-5)/2",
+      "5 - 2x"
+    ],
+    "correct": 2,
+    "explanation": "To find the inverse, swap x and y: x = 2y + 5 → 2y = x - 5 → y = (x-5)/2. So f⁻¹(x) = (x-5)/2."
+  },
+  {
+    "id": "mat_m_13",
+    "difficulty": "medium",
+    "question": "What is the geometric mean of 4 and 16?",
+    "options": [
+      "10",
+      "6",
+      "12",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Geometric mean = √(a×b) = √(4×16) = √64 = 8."
+  },
+  {
+    "id": "mat_m_14",
+    "difficulty": "medium",
+    "question": "In how many ways can 5 people be arranged in a line?",
+    "options": [
+      "25",
+      "100",
+      "60",
+      "120"
+    ],
+    "correct": 3,
+    "explanation": "This is 5! (5 factorial) = 5 × 4 × 3 × 2 × 1 = 120 permutations."
+  },
+  {
+    "id": "mat_m_15",
+    "difficulty": "medium",
+    "question": "What is the 10th Fibonacci number (starting 1, 1, 2, 3, 5...)?",
+    "options": [
+      "34",
+      "55",
+      "89",
+      "55"
+    ],
+    "correct": 1,
+    "explanation": "The Fibonacci sequence: 1,1,2,3,5,8,13,21,34,55. The 10th term is 55."
+  },
+  {
+    "id": "mat_m_16",
+    "difficulty": "medium",
+    "question": "What is 15% expressed as a fraction in simplest form?",
+    "options": [
+      "15/100",
+      "3/25",
+      "3/20",
+      "1/7"
+    ],
+    "correct": 2,
+    "explanation": "15% = 15/100 = 3/20. (GCD of 15 and 100 is 5.)"
+  },
+  {
+    "id": "mat_m_17",
+    "difficulty": "medium",
+    "question": "If a cylinder has radius 3 and height 5, what is its volume? (π ≈ 3.14)",
+    "options": [
+      "94.2",
+      "47.1",
+      "141.3",
+      "188.4"
+    ],
+    "correct": 2,
+    "explanation": "Volume = πr²h = 3.14 × 3² × 5 = 3.14 × 9 × 5 = 3.14 × 45 = 141.3. Wait — let me recompute: 3.14 × 9 = 28.26, × 5 = 141.3. The answer is 141.3."
+  },
+  {
+    "id": "mat_m_18",
+    "difficulty": "medium",
+    "question": "What is the remainder when 100 is divided by 7?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "100 ÷ 7 = 14 remainder 2. 7 × 14 = 98. 100 - 98 = 2. The remainder is 2."
+  },
+  {
+    "id": "mat_m_19",
+    "difficulty": "medium",
+    "question": "What is the standard deviation of {2, 4, 4, 4, 5, 5, 7, 9}?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "Mean = 40/8 = 5. Variance = [(9+1+1+1+0+0+4+16)/8] = 32/8 = 4. Standard deviation = √4 = 2."
+  },
+  {
+    "id": "mat_m_20",
+    "difficulty": "medium",
+    "question": "What is the value of i² in complex numbers (where i = √-1)?",
+    "options": [
+      "1",
+      "√-1",
+      "0",
+      "-1"
+    ],
+    "correct": 3,
+    "explanation": "By definition, i = √(-1), so i² = (√(-1))² = -1. This is the foundational property of imaginary numbers."
+  },
+  {
+    "id": "mat_h_01",
+    "difficulty": "hard",
+    "question": "What does Euler's Identity e^(iπ) + 1 = 0 connect?",
+    "options": [
+      "e, π, and 0",
+      "e, i, and the integers 0 and 1",
+      "e, i, π, 0, and 1 — the five most important constants in mathematics",
+      "Trigonometric functions and exponential functions only"
+    ],
+    "correct": 2,
+    "explanation": "Euler's Identity e^(iπ) + 1 = 0 elegantly connects the five most important constants: e (natural log base), i (imaginary unit), π (circle ratio), 1 (multiplicative identity), and 0 (additive identity)."
+  },
+  {
+    "id": "mat_h_02",
+    "difficulty": "hard",
+    "question": "What is the integral ∫ x·eˣ dx?",
+    "options": [
+      "eˣ(x-1) + C",
+      "xeˣ + C",
+      "eˣ/x + C",
+      "eˣ(x+1) + C"
+    ],
+    "correct": 0,
+    "explanation": "Using integration by parts (u=x, dv=eˣdx): ∫xeˣdx = xeˣ - ∫eˣdx = xeˣ - eˣ + C = eˣ(x-1) + C. Wait — eˣ(x-1) is option A. The correct answer is A: eˣ(x-1)+C."
+  },
+  {
+    "id": "mat_h_03",
+    "difficulty": "hard",
+    "question": "How many ways can 3 items be chosen from 10 (combination)?",
+    "options": [
+      "720",
+      "90",
+      "210",
+      "120"
+    ],
+    "correct": 3,
+    "explanation": "C(10,3) = 10! / (3! × 7!) = (10×9×8) / (3×2×1) = 720/6 = 120."
+  },
+  {
+    "id": "mat_h_04",
+    "difficulty": "hard",
+    "question": "What does the Fundamental Theorem of Calculus state?",
+    "options": [
+      "Differentiation and integration are inverse operations",
+      "The limit of a function equals its derivative",
+      "Every continuous function has an antiderivative",
+      "All integrals converge to zero"
+    ],
+    "correct": 0,
+    "explanation": "The Fundamental Theorem of Calculus establishes that differentiation and integration are inverse operations, and that the definite integral of a function can be computed using its antiderivative."
+  },
+  {
+    "id": "mat_h_05",
+    "difficulty": "hard",
+    "question": "What is the Riemann Hypothesis about?",
+    "options": [
+      "The distribution of prime numbers relates to the zeros of the Riemann zeta function",
+      "The sum of all positive integers equals -1/12",
+      "Every even number greater than 2 is the sum of two primes",
+      "Every polynomial equation has a complex root"
+    ],
+    "correct": 0,
+    "explanation": "The Riemann Hypothesis (1859) conjectures that all non-trivial zeros of the Riemann zeta function have real part 1/2 — with profound implications for the distribution of prime numbers. It remains unsolved."
+  },
+  {
+    "id": "mat_h_06",
+    "difficulty": "hard",
+    "question": "If the matrix A = [[1,2],[3,4]], what is det(A)?",
+    "options": [
+      "2",
+      "-4",
+      "4",
+      "-2"
+    ],
+    "correct": 3,
+    "explanation": "det([[1,2],[3,4]]) = (1×4) - (2×3) = 4 - 6 = -2."
+  },
+  {
+    "id": "mat_h_07",
+    "difficulty": "hard",
+    "question": "What is the Taylor series expansion of sin(x) centered at 0?",
+    "options": [
+      "1 - x²/2! + x⁴/4! - ...",
+      "x - x³/3! + x⁵/5! - ...",
+      "x + x³/3! + x⁵/5! + ...",
+      "1 + x + x²/2! + x³/3! + ..."
+    ],
+    "correct": 1,
+    "explanation": "The Maclaurin (Taylor at 0) series for sin(x) = x - x³/3! + x⁵/5! - x⁷/7! + ... This converges for all real x."
+  },
+  {
+    "id": "mat_h_08",
+    "difficulty": "hard",
+    "question": "What is the Pigeonhole Principle?",
+    "options": [
+      "Any function can be graphed",
+      "Integers are countable",
+      "If n items fit into fewer than n containers, at least one container holds more than one item",
+      "Every sequence has a convergent subsequence"
+    ],
+    "correct": 2,
+    "explanation": "The Pigeonhole Principle: if n+1 objects are distributed into n categories, at least one category contains two or more objects. Simple but powerful in combinatorics and number theory."
+  },
+  {
+    "id": "mat_h_09",
+    "difficulty": "hard",
+    "question": "What does Bayes' Theorem calculate?",
+    "options": [
+      "The combined probability of independent events",
+      "The standard deviation of a probability distribution",
+      "The expected value of a random variable",
+      "The conditional probability P(A|B) using P(B|A), P(A), and P(B)"
+    ],
+    "correct": 3,
+    "explanation": "Bayes' Theorem: P(A|B) = P(B|A)·P(A)/P(B). It updates the probability of a hypothesis given new evidence and is foundational to statistics, machine learning, and medical diagnostics."
+  },
+  {
+    "id": "mat_h_10",
+    "difficulty": "hard",
+    "question": "What is the sum of an infinite geometric series with first term 1 and ratio 1/2?",
+    "options": [
+      "∞",
+      "1",
+      "3",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "Sum of infinite geometric series = a/(1-r) = 1/(1-½) = 1/(½) = 2. Valid when |r| < 1."
+  },
+  {
+    "id": "mat_h_11",
+    "difficulty": "hard",
+    "question": "What is the Cauchy-Schwarz inequality?",
+    "options": [
+      "|a+b| ≤ |a| + |b|",
+      "(Σaᵢbᵢ)² ≤ (Σaᵢ²)(Σbᵢ²)",
+      "(Σaᵢ)² ≥ n·Σaᵢ²",
+      "Every inner product satisfies linearity"
+    ],
+    "correct": 1,
+    "explanation": "The Cauchy-Schwarz inequality states (Σaᵢbᵢ)² ≤ (Σaᵢ²)(Σbᵢ²). It's fundamental in linear algebra, real analysis, and probability theory."
+  },
+  {
+    "id": "mat_h_12",
+    "difficulty": "hard",
+    "question": "In modular arithmetic, what is 17 mod 5?",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "17 mod 5: 5×3=15, 17-15=2. So 17 ≡ 2 (mod 5)."
+  },
+  {
+    "id": "mat_h_13",
+    "difficulty": "hard",
+    "question": "Fermat's Last Theorem states that for n > 2, there are no positive integers satisfying which equation?",
+    "options": [
+      "aⁿ + bⁿ = 2cⁿ",
+      "aⁿ · bⁿ = cⁿ",
+      "aⁿ - bⁿ = cⁿ",
+      "aⁿ + bⁿ = cⁿ"
+    ],
+    "correct": 3,
+    "explanation": "Fermat's Last Theorem: xⁿ + yⁿ = zⁿ has no positive integer solutions for n > 2. Fermat claimed proof in 1637; Andrew Wiles finally proved it in 1995 using elliptic curves."
+  },
+  {
+    "id": "mat_h_14",
+    "difficulty": "hard",
+    "question": "What is the Golden Ratio φ approximately equal to?",
+    "options": [
+      "1.5",
+      "1.414",
+      "1.732",
+      "1.618"
+    ],
+    "correct": 3,
+    "explanation": "The Golden Ratio φ = (1+√5)/2 ≈ 1.618. It satisfies φ² = φ+1 and appears in pentagons, Fibonacci sequence ratios, and art/architecture."
+  },
+  {
+    "id": "mat_h_15",
+    "difficulty": "hard",
+    "question": "What does the Central Limit Theorem state?",
+    "options": [
+      "All data follows a normal distribution",
+      "Large samples have less variance",
+      "Random samples always produce a bell curve",
+      "The sum of many independent random variables approaches a normal distribution as sample size grows"
+    ],
+    "correct": 3,
+    "explanation": "The Central Limit Theorem states that the sampling distribution of the mean approaches a normal distribution as sample size increases, regardless of the underlying distribution's shape."
+  },
+  {
+    "id": "mat_h_16",
+    "difficulty": "hard",
+    "question": "What is the value of 0! (zero factorial)?",
+    "options": [
+      "0",
+      "∞",
+      "Undefined",
+      "1"
+    ],
+    "correct": 3,
+    "explanation": "0! = 1 by definition. This is consistent with the formula n! = n×(n-1)! and is required for combinatorial formulas like C(n,0) = 1."
+  },
+  {
+    "id": "mat_h_17",
+    "difficulty": "hard",
+    "question": "What is ∇ (nabla/del operator) used for in vector calculus?",
+    "options": [
+      "Computing eigenvalues of matrices",
+      "Calculating scalar products only",
+      "Denoting matrix transposition",
+      "Gradient, divergence, and curl operations on scalar and vector fields"
+    ],
+    "correct": 3,
+    "explanation": "The nabla operator ∇ represents the gradient when applied to a scalar (∇f), divergence when dotted with a vector (∇·F), and curl when crossed with a vector (∇×F)."
+  },
+  {
+    "id": "mat_h_18",
+    "difficulty": "hard",
+    "question": "How many prime numbers are there below 100?",
+    "options": [
+      "21",
+      "28",
+      "30",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "There are 25 prime numbers below 100: 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97."
+  },
+  {
+    "id": "mat_h_19",
+    "difficulty": "hard",
+    "question": "What is the result of the matrix multiplication [[1,0],[0,1]] × [[3,4],[5,6]]?",
+    "options": [
+      "[[3,0],[0,6]]",
+      "[[4,3],[6,5]]",
+      "[[8,10],[5,6]]",
+      "[[3,4],[5,6]]"
+    ],
+    "correct": 3,
+    "explanation": "The identity matrix [[1,0],[0,1]] times any matrix A equals A itself. So [[1,0],[0,1]] × [[3,4],[5,6]] = [[3,4],[5,6]]."
+  },
+  {
+    "id": "mat_h_20",
+    "difficulty": "hard",
+    "question": "What is the inverse Laplace transform of 1/(s²+1)?",
+    "options": [
+      "cos(t)",
+      "eˢ",
+      "t",
+      "sin(t)"
+    ],
+    "correct": 3,
+    "explanation": "L⁻¹{1/(s²+1)} = sin(t). This is a fundamental Laplace transform pair used in differential equations and control systems."
+  },
+  {
+    "id": "mat_e_21",
+    "difficulty": "easy",
+    "question": "How many sides does a heptagon have?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "A heptagon has 7 sides (hepta = 7 in Greek). A pentagon has 5, hexagon 6, and octagon 8. The interior angles of a regular heptagon each measure approximately 128.57°."
+  },
+  {
+    "id": "mat_e_22",
+    "difficulty": "easy",
+    "question": "What is the value of 2 to the power of 10 (2¹⁰)?",
+    "options": [
+      "512",
+      "2048",
+      "256",
+      "1024"
+    ],
+    "correct": 3,
+    "explanation": "2¹⁰ = 1024. This is a key value in computing — 1 kilobyte is 1024 bytes, not 1000. The powers of 2 double each time: 1,2,4,8,16,32,64,128,256,512,1024."
+  },
+  {
+    "id": "mat_e_23",
+    "difficulty": "easy",
+    "question": "What is 3! (three factorial)?",
+    "options": [
+      "9",
+      "3",
+      "1",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "3! = 3 × 2 × 1 = 6. Factorial counts the number of ways to arrange items: 3 objects can be arranged in 6 different orders. 0! = 1 by convention."
+  },
+  {
+    "id": "mat_e_24",
+    "difficulty": "easy",
+    "question": "What is the LCM (Least Common Multiple) of 4 and 6?",
+    "options": [
+      "24",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "The LCM of 4 and 6 is 12 — the smallest number divisible by both. List multiples: 4,8,12,16... and 6,12,18... The first common value is 12. LCM is useful for adding fractions with different denominators."
+  },
+  {
+    "id": "mat_e_25",
+    "difficulty": "easy",
+    "question": "If a regular hexagon has all sides equal to 5 cm, what is its perimeter?",
+    "options": [
+      "25 cm",
+      "35 cm",
+      "20 cm",
+      "30 cm"
+    ],
+    "correct": 3,
+    "explanation": "Perimeter = number of sides × side length = 6 × 5 = 30 cm. A regular hexagon has 6 equal sides. This is why honeycomb cells (hexagons) tile perfectly — maximum area for a given perimeter."
+  },
+  {
+    "id": "mat_e_26",
+    "difficulty": "easy",
+    "question": "What is the next prime number after 7?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is prime — only divisible by 1 and itself. 8 = 2³, 9 = 3², 10 = 2×5 are all composite. The primes: 2, 3, 5, 7, 11, 13, 17, 19, 23..."
+  },
+  {
+    "id": "mat_e_27",
+    "difficulty": "easy",
+    "question": "What is 15% of 80?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "15% of 80 = 0.15 × 80 = 12. A mental math trick: 10% of 80 = 8, then 5% = 4, so 15% = 8 + 4 = 12. Percentages are just hundredths: 15% = 15/100."
+  },
+  {
+    "id": "mat_e_28",
+    "difficulty": "easy",
+    "question": "A triangle has angles of 60° and 80°. What is the third angle?",
+    "options": [
+      "50°",
+      "30°",
+      "60°",
+      "40°"
+    ],
+    "correct": 3,
+    "explanation": "Angles in a triangle always sum to 180°. So the third angle = 180° − 60° − 80° = 40°. This is true for any triangle in flat (Euclidean) geometry — one of Euclid's fundamental theorems."
+  },
+  {
+    "id": "mat_e_29",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 500?",
+    "options": [
+      "C",
+      "M",
+      "L",
+      "D"
+    ],
+    "correct": 3,
+    "explanation": "D = 500 in Roman numerals. The key values: I=1, V=5, X=10, L=50, C=100, D=500, M=1000. D is thought to derive from the letter Ф (half of 1000's symbol)."
+  },
+  {
+    "id": "mat_e_30",
+    "difficulty": "easy",
+    "question": "What is the sum of the first 10 natural numbers (1 through 10)?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "55"
+    ],
+    "correct": 2,
+    "explanation": "1+2+3+...+10 = 55. The formula is n(n+1)/2 = 10×11/2 = 55. Gauss reportedly solved this at age 7 by pairing: (1+10)+(2+9)+(3+8)+(4+7)+(5+6) = 5×11 = 55."
+  },
+  {
+    "id": "mat_m_21",
+    "difficulty": "medium",
+    "question": "The Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13... What is the 9th term?",
+    "options": [
+      "21",
+      "34",
+      "55",
+      "34"
+    ],
+    "correct": 1,
+    "explanation": "The Fibonacci sequence: 1,1,2,3,5,8,13,21,34. Each term is the sum of the two preceding terms. The 9th term is 34. The ratio of consecutive Fibonacci numbers approaches the Golden Ratio φ ≈ 1.618."
+  },
+  {
+    "id": "mat_m_22",
+    "difficulty": "medium",
+    "question": "What is log₂(64)?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "log₂(64) = 6, because 2⁶ = 64. Logarithm asks: 'what power do I raise the base to get this number?' Since 2¹=2, 2²=4, 2³=8, 2⁴=16, 2⁵=32, 2⁶=64."
+  },
+  {
+    "id": "mat_m_23",
+    "difficulty": "medium",
+    "question": "What is the probability of rolling a total of 7 with two standard dice?",
+    "options": [
+      "1/36",
+      "2/36",
+      "5/36",
+      "6/36"
+    ],
+    "correct": 3,
+    "explanation": "There are 36 equally likely outcomes. Six pairs sum to 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1). P = 6/36 = 1/6 ≈ 16.7%. That's why 7 is the most likely total with two dice."
+  },
+  {
+    "id": "mat_m_24",
+    "difficulty": "medium",
+    "question": "What is the smallest 'perfect number'?",
+    "options": [
+      "3",
+      "12",
+      "28",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "6 is perfect: its proper divisors (1,2,3) sum to exactly 6 (1+2+3=6). Perfect numbers are rare — only 51 are known. The next is 28 (1+2+4+7+14=28), then 496, then 8128."
+  },
+  {
+    "id": "mat_m_25",
+    "difficulty": "medium",
+    "question": "In how many ways can 5 different books be arranged on a shelf?",
+    "options": [
+      "25",
+      "60",
+      "100",
+      "120"
+    ],
+    "correct": 3,
+    "explanation": "5! = 5×4×3×2×1 = 120. Permutations count ordered arrangements: 5 choices for the first slot, 4 for the second, etc. Factorial grows surprisingly fast: 10! = 3,628,800."
+  },
+  {
+    "id": "mat_m_26",
+    "difficulty": "medium",
+    "question": "What is the area of a circle whose circumference is 2π?",
+    "options": [
+      "4π",
+      "2π",
+      "1",
+      "π"
+    ],
+    "correct": 3,
+    "explanation": "C = 2πr = 2π, so r = 1. Area = πr² = π(1)² = π ≈ 3.14159. A unit circle (radius 1) is fundamental to trigonometry — all sine and cosine values are its coordinates."
+  },
+  {
+    "id": "mat_m_27",
+    "difficulty": "medium",
+    "question": "A number is divisible by 9 if the sum of its digits is divisible by 9. Which of these is divisible by 9?",
+    "options": [
+      "123",
+      "237",
+      "549",
+      "824"
+    ],
+    "correct": 2,
+    "explanation": "Check digit sums: 1+2+3=6, 2+3+7=12, 5+4+9=18✓ (18÷9=2), 8+2+4=14. So 549 is divisible by 9 (549÷9=61). The same rule applies for divisibility by 3 (digit sum divisible by 3)."
+  },
+  {
+    "id": "mat_m_28",
+    "difficulty": "medium",
+    "question": "The Golden Ratio φ (phi) ≈ 1.618. What is the value of φ²?",
+    "options": [
+      "2.618",
+      "2.000",
+      "2.414",
+      "1.618"
+    ],
+    "correct": 0,
+    "explanation": "φ² = φ + 1 ≈ 2.618. This is a unique property of the golden ratio: it satisfies x² = x + 1. φ = (1 + √5)/2. The golden ratio appears in art, architecture, the Fibonacci sequence, and nature."
+  },
+  {
+    "id": "mat_m_29",
+    "difficulty": "medium",
+    "question": "If f(x) = 2x² − 3x + 1, what is f(3)?",
+    "options": [
+      "16",
+      "18",
+      "10",
+      "10"
+    ],
+    "correct": 0,
+    "explanation": "f(3) = 2(3)² − 3(3) + 1 = 2(9) − 9 + 1 = 18 − 9 + 1 = 10. Wait — recalculating: 18−9+1 = 10. The correct answer is 10. This tests substituting values into a quadratic function."
+  },
+  {
+    "id": "mat_m_30",
+    "difficulty": "medium",
+    "question": "What is the distance between points (0,0) and (3,4) on a coordinate plane?",
+    "options": [
+      "7",
+      "6",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "Distance = √((3−0)² + (4−0)²) = √(9+16) = √25 = 5. This is the Pythagorean theorem applied to coordinates. The 3-4-5 right triangle is the simplest Pythagorean triple."
+  }
+]

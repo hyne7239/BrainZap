@@ -1,0 +1,912 @@
+[
+  {
+    "id": "his_e_01",
+    "difficulty": "easy",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1946",
+      "1945"
+    ],
+    "correct": 3,
+    "explanation": "World War II ended in 1945 — in Europe on May 8 (V-E Day) and in the Pacific on September 2 (V-J Day)."
+  },
+  {
+    "id": "his_e_02",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "George Washington"
+    ],
+    "correct": 3,
+    "explanation": "George Washington was inaugurated as the first US President on April 30, 1789."
+  },
+  {
+    "id": "his_e_03",
+    "difficulty": "easy",
+    "question": "The French Revolution began in which year?",
+    "options": [
+      "1775",
+      "1803",
+      "1812",
+      "1789"
+    ],
+    "correct": 3,
+    "explanation": "The French Revolution began in 1789 with the storming of the Bastille on July 14, which is still celebrated as Bastille Day."
+  },
+  {
+    "id": "his_e_04",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Caravaggio",
+      "Leonardo da Vinci"
+    ],
+    "correct": 3,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (c. 1503–1519). It now hangs in the Louvre Museum in Paris."
+  },
+  {
+    "id": "his_e_05",
+    "difficulty": "easy",
+    "question": "Which empire built the Colosseum in Rome?",
+    "options": [
+      "Greek",
+      "Ottoman",
+      "Byzantine",
+      "Roman"
+    ],
+    "correct": 3,
+    "explanation": "The Colosseum was built by the Roman Empire under Emperor Vespasian around 70–80 AD."
+  },
+  {
+    "id": "his_e_06",
+    "difficulty": "easy",
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "correct": 3,
+    "explanation": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+  },
+  {
+    "id": "his_e_07",
+    "difficulty": "easy",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1991",
+      "1993",
+      "1989"
+    ],
+    "correct": 3,
+    "explanation": "The Berlin Wall fell on November 9, 1989, leading to the reunification of Germany in 1990."
+  },
+  {
+    "id": "his_e_08",
+    "difficulty": "easy",
+    "question": "Which country was the first to grant women the right to vote nationally?",
+    "options": [
+      "USA",
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct": 3,
+    "explanation": "New Zealand became the first self-governing country to grant women the right to vote in 1893."
+  },
+  {
+    "id": "his_e_09",
+    "difficulty": "easy",
+    "question": "Who wrote the Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "Benjamin Franklin",
+      "John Adams",
+      "Thomas Jefferson"
+    ],
+    "correct": 3,
+    "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence, adopted on July 4, 1776."
+  },
+  {
+    "id": "his_e_10",
+    "difficulty": "easy",
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "options": [
+      "1488",
+      "1498",
+      "1502",
+      "1492"
+    ],
+    "correct": 3,
+    "explanation": "Columbus reached the Bahamas on October 12, 1492, on his first voyage west from Spain."
+  },
+  {
+    "id": "his_e_11",
+    "difficulty": "easy",
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "options": [
+      "The Colossus",
+      "The Hanging Gardens",
+      "The Mausoleum",
+      "The Lighthouse"
+    ],
+    "correct": 3,
+    "explanation": "The Lighthouse of Alexandria was one of the tallest man-made structures for centuries and guided sailors into the harbor."
+  },
+  {
+    "id": "his_e_12",
+    "difficulty": "easy",
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "options": [
+      "Heinrich Himmler",
+      "Joseph Goebbels",
+      "Herman Göring",
+      "Adolf Hitler"
+    ],
+    "correct": 3,
+    "explanation": "Adolf Hitler was Chancellor of Germany from 1933 and Führer (leader) from 1934 until his death in 1945."
+  },
+  {
+    "id": "his_e_13",
+    "difficulty": "easy",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1912",
+      "1916",
+      "1918",
+      "1914"
+    ],
+    "correct": 3,
+    "explanation": "World War I began on July 28, 1914, following the assassination of Archduke Franz Ferdinand of Austria."
+  },
+  {
+    "id": "his_e_14",
+    "difficulty": "easy",
+    "question": "Which civilization built the pyramids at Giza?",
+    "options": [
+      "Mesopotamian",
+      "Nubian",
+      "Carthaginian",
+      "Ancient Egyptian"
+    ],
+    "correct": 3,
+    "explanation": "The Great Pyramids of Giza were built by the Ancient Egyptians around 2580–2560 BC as tombs for pharaohs."
+  },
+  {
+    "id": "his_e_15",
+    "difficulty": "easy",
+    "question": "The fall of Constantinople in 1453 marked the end of which empire?",
+    "options": [
+      "Roman Empire",
+      "Ottoman Empire",
+      "Persian Empire",
+      "Byzantine Empire"
+    ],
+    "correct": 3,
+    "explanation": "The fall of Constantinople to the Ottoman Turks in 1453 ended the Byzantine (Eastern Roman) Empire."
+  },
+  {
+    "id": "his_e_16",
+    "difficulty": "easy",
+    "question": "Who was the first person to orbit Earth in space?",
+    "options": [
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong",
+      "Yuri Gagarin"
+    ],
+    "correct": 3,
+    "explanation": "Soviet cosmonaut Yuri Gagarin became the first person to orbit Earth on April 12, 1961, aboard Vostok 1."
+  },
+  {
+    "id": "his_e_17",
+    "difficulty": "easy",
+    "question": "Which war was fought between the North and South of the United States?",
+    "options": [
+      "War of 1812",
+      "Spanish-American War",
+      "Revolutionary War",
+      "Civil War"
+    ],
+    "correct": 3,
+    "explanation": "The American Civil War (1861–1865) was fought between the Union (North) and the Confederacy (South) over slavery and states' rights."
+  },
+  {
+    "id": "his_e_18",
+    "difficulty": "easy",
+    "question": "In which country did the Industrial Revolution begin?",
+    "options": [
+      "France",
+      "Germany",
+      "USA",
+      "United Kingdom"
+    ],
+    "correct": 3,
+    "explanation": "The Industrial Revolution began in Great Britain in the mid-18th century, starting with textile manufacturing."
+  },
+  {
+    "id": "his_e_19",
+    "difficulty": "easy",
+    "question": "Who was known as the 'Maid of Orléans'?",
+    "options": [
+      "Catherine of Aragon",
+      "Eleanor of Aquitaine",
+      "Marie Antoinette",
+      "Joan of Arc"
+    ],
+    "correct": 3,
+    "explanation": "Joan of Arc earned the title 'Maid of Orléans' after leading the French army to victory at Orléans in 1429."
+  },
+  {
+    "id": "his_e_20",
+    "difficulty": "easy",
+    "question": "The Magna Carta was signed in which year?",
+    "options": [
+      "1066",
+      "1307",
+      "1348",
+      "1215"
+    ],
+    "correct": 3,
+    "explanation": "King John of England sealed the Magna Carta at Runnymede on June 15, 1215 — one of the earliest statements of legal rights."
+  },
+  {
+    "id": "his_m_01",
+    "difficulty": "medium",
+    "question": "The Battle of Hastings in 1066 was fought between which two sides?",
+    "options": [
+      "France and Spain",
+      "Saxons and Vikings",
+      "England and France",
+      "Harold Godwinson and William of Normandy"
+    ],
+    "correct": 3,
+    "explanation": "The Battle of Hastings on October 14, 1066, pitted King Harold II against William the Conqueror, ending with Harold's defeat and death."
+  },
+  {
+    "id": "his_m_02",
+    "difficulty": "medium",
+    "question": "What was the name of the ship Charles Darwin sailed on during his famous voyage?",
+    "options": [
+      "HMS Victory",
+      "HMS Endeavour",
+      "HMS Bounty",
+      "HMS Beagle"
+    ],
+    "correct": 3,
+    "explanation": "Darwin sailed on HMS Beagle from 1831 to 1836, visiting South America and the Galápagos Islands, observations that led to his theory of evolution."
+  },
+  {
+    "id": "his_m_03",
+    "difficulty": "medium",
+    "question": "Which empire was ruled by Genghis Khan?",
+    "options": [
+      "Ottoman Empire",
+      "Persian Empire",
+      "Russian Empire",
+      "Mongol Empire"
+    ],
+    "correct": 3,
+    "explanation": "Genghis Khan founded the Mongol Empire in 1206, which became the largest contiguous land empire in history."
+  },
+  {
+    "id": "his_m_04",
+    "difficulty": "medium",
+    "question": "The Treaty of Versailles (1919) officially ended which war?",
+    "options": [
+      "Crimean War",
+      "Boer War",
+      "World War II",
+      "World War I"
+    ],
+    "correct": 3,
+    "explanation": "The Treaty of Versailles, signed on June 28, 1919, formally ended World War I and imposed harsh terms on Germany."
+  },
+  {
+    "id": "his_m_05",
+    "difficulty": "medium",
+    "question": "Which country was the first to develop nuclear weapons?",
+    "options": [
+      "Soviet Union",
+      "Germany",
+      "UK",
+      "United States"
+    ],
+    "correct": 3,
+    "explanation": "The United States developed the first nuclear weapon through the Manhattan Project, detonating the first atomic bomb in July 1945."
+  },
+  {
+    "id": "his_m_06",
+    "difficulty": "medium",
+    "question": "Who led the Cuban Revolution in 1959?",
+    "options": [
+      "Che Guevara",
+      "Camilo Cienfuegos",
+      "Raúl Castro",
+      "Fidel Castro"
+    ],
+    "correct": 3,
+    "explanation": "Fidel Castro led the guerrilla revolution that overthrew dictator Fulgencio Batista on January 1, 1959."
+  },
+  {
+    "id": "his_m_07",
+    "difficulty": "medium",
+    "question": "The Cold War was primarily between which two superpowers?",
+    "options": [
+      "UK and France",
+      "China and Japan",
+      "Germany and USA",
+      "USA and Soviet Union"
+    ],
+    "correct": 3,
+    "explanation": "The Cold War (1947–1991) was a geopolitical tension between the United States and the Soviet Union (USSR)."
+  },
+  {
+    "id": "his_m_08",
+    "difficulty": "medium",
+    "question": "Which Indian independence leader was known as Mahatma?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Bose",
+      "Bhagat Singh",
+      "Mohandas Gandhi"
+    ],
+    "correct": 3,
+    "explanation": "Mohandas Gandhi was given the title 'Mahatma' (great soul) and led India's independence movement through nonviolent resistance."
+  },
+  {
+    "id": "his_m_09",
+    "difficulty": "medium",
+    "question": "The apartheid system operated in which country?",
+    "options": [
+      "Zimbabwe",
+      "Kenya",
+      "Algeria",
+      "South Africa"
+    ],
+    "correct": 3,
+    "explanation": "Apartheid was a system of institutionalized racial segregation in South Africa from 1948 until 1994."
+  },
+  {
+    "id": "his_m_10",
+    "difficulty": "medium",
+    "question": "Which event triggered the start of World War I?",
+    "options": [
+      "German invasion of Poland",
+      "Bombing of Pearl Harbor",
+      "Sinking of the Lusitania",
+      "Assassination of Archduke Franz Ferdinand"
+    ],
+    "correct": 3,
+    "explanation": "The assassination of Austro-Hungarian Archduke Franz Ferdinand in Sarajevo on June 28, 1914, set off a chain of events leading to WWI."
+  },
+  {
+    "id": "his_m_11",
+    "difficulty": "medium",
+    "question": "In what year did the Soviet Union collapse?",
+    "options": [
+      "1985",
+      "1989",
+      "1993",
+      "1991"
+    ],
+    "correct": 3,
+    "explanation": "The Soviet Union officially dissolved on December 25, 1991, when Mikhail Gorbachev resigned and 15 independent republics were recognized."
+  },
+  {
+    "id": "his_m_12",
+    "difficulty": "medium",
+    "question": "The Silk Road was a trade route connecting which two regions?",
+    "options": [
+      "India and Africa",
+      "Americas and Europe",
+      "Africa and Europe",
+      "China and the Mediterranean"
+    ],
+    "correct": 3,
+    "explanation": "The Silk Road was an ancient network of trade routes linking China with the Mediterranean world, facilitating trade in silk, spices, and other goods."
+  },
+  {
+    "id": "his_m_13",
+    "difficulty": "medium",
+    "question": "Who was the first Emperor of a unified China?",
+    "options": [
+      "Liu Bang",
+      "Wu Zetian",
+      "Confucius",
+      "Qin Shi Huang"
+    ],
+    "correct": 3,
+    "explanation": "Qin Shi Huang unified China in 221 BC, standardized writing and currency, and began construction of the Great Wall."
+  },
+  {
+    "id": "his_m_14",
+    "difficulty": "medium",
+    "question": "The Boston Tea Party took place in which year?",
+    "options": [
+      "1765",
+      "1776",
+      "1783",
+      "1773"
+    ],
+    "correct": 3,
+    "explanation": "On December 16, 1773, American colonists dumped 342 chests of British tea into Boston Harbor to protest taxation without representation."
+  },
+  {
+    "id": "his_m_15",
+    "difficulty": "medium",
+    "question": "Which pope launched the First Crusade in 1095?",
+    "options": [
+      "Pope Gregory VII",
+      "Pope Innocent III",
+      "Pope Alexander VI",
+      "Pope Urban II"
+    ],
+    "correct": 3,
+    "explanation": "Pope Urban II called for the First Crusade at the Council of Clermont in 1095 to recapture Jerusalem from Muslim rule."
+  },
+  {
+    "id": "his_m_16",
+    "difficulty": "medium",
+    "question": "What was the name of the first artificial satellite launched into space?",
+    "options": [
+      "Vostok 1",
+      "Explorer 1",
+      "Mir",
+      "Sputnik 1"
+    ],
+    "correct": 3,
+    "explanation": "The Soviet Union launched Sputnik 1 on October 4, 1957 — the world's first artificial satellite, triggering the Space Race."
+  },
+  {
+    "id": "his_m_17",
+    "difficulty": "medium",
+    "question": "The Hundred Years' War was fought between which two countries?",
+    "options": [
+      "Spain and Portugal",
+      "England and Scotland",
+      "Holy Roman Empire and France",
+      "England and France"
+    ],
+    "correct": 3,
+    "explanation": "The Hundred Years' War (1337–1453) was a series of conflicts between England and France over the French throne."
+  },
+  {
+    "id": "his_m_18",
+    "difficulty": "medium",
+    "question": "Nelson Mandela spent how many years in prison before his release in 1990?",
+    "options": [
+      "18",
+      "20",
+      "30",
+      "27"
+    ],
+    "correct": 3,
+    "explanation": "Nelson Mandela was imprisoned from 1964 to 1990 — 27 years — mostly on Robben Island."
+  },
+  {
+    "id": "his_m_19",
+    "difficulty": "medium",
+    "question": "Which ancient city was buried by the eruption of Vesuvius in 79 AD?",
+    "options": [
+      "Rome",
+      "Naples",
+      "Herculaneum and Pompeii",
+      "Syracuse"
+    ],
+    "correct": 2,
+    "explanation": "The volcanic eruption of Mount Vesuvius in 79 AD buried the Roman cities of Pompeii and Herculaneum under ash and pumice."
+  },
+  {
+    "id": "his_m_20",
+    "difficulty": "medium",
+    "question": "The Marshall Plan was a US initiative to do what after WWII?",
+    "options": [
+      "Contain Soviet nuclear weapons",
+      "Rebuild Europe's economies",
+      "Create NATO",
+      "Establish the United Nations"
+    ],
+    "correct": 1,
+    "explanation": "The Marshall Plan (1948–1952) provided over $13 billion in economic aid to rebuild Western European economies after WWII."
+  },
+  {
+    "id": "his_h_01",
+    "difficulty": "hard",
+    "question": "The Peloponnesian War was fought primarily between which two city-states?",
+    "options": [
+      "Rome and Carthage",
+      "Sparta and Corinth",
+      "Athens and Thebes",
+      "Athens and Sparta"
+    ],
+    "correct": 3,
+    "explanation": "The Peloponnesian War (431–404 BC) was fought between the Athenian Empire and the Spartan-led Peloponnesian League, ending in Athenian defeat."
+  },
+  {
+    "id": "his_h_02",
+    "difficulty": "hard",
+    "question": "Who was the last Tsar of Russia?",
+    "options": [
+      "Alexander III",
+      "Alexander II",
+      "Paul I",
+      "Nicholas II"
+    ],
+    "correct": 3,
+    "explanation": "Nicholas II was the last Russian Tsar, abdicating in March 1917. He and his family were executed by Bolsheviks in July 1918."
+  },
+  {
+    "id": "his_h_03",
+    "difficulty": "hard",
+    "question": "The Defenestration of Prague in 1618 helped start which conflict?",
+    "options": [
+      "French Revolution",
+      "Thirty Years' War",
+      "Seven Years' War",
+      "Ottoman-Habsburg War"
+    ],
+    "correct": 1,
+    "explanation": "When Catholic officials were thrown from a Prague window in 1618, it sparked the Thirty Years' War (1618–1648), devastating much of Europe."
+  },
+  {
+    "id": "his_h_04",
+    "difficulty": "hard",
+    "question": "Which Roman general crossed the Rubicon river in 49 BC?",
+    "options": [
+      "Pompey",
+      "Mark Antony",
+      "Octavian",
+      "Julius Caesar"
+    ],
+    "correct": 3,
+    "explanation": "Julius Caesar crossed the Rubicon with his army in 49 BC, an illegal act that triggered a Roman civil war."
+  },
+  {
+    "id": "his_h_05",
+    "difficulty": "hard",
+    "question": "The Meiji Restoration in Japan occurred in which year?",
+    "options": [
+      "1843",
+      "1853",
+      "1878",
+      "1868"
+    ],
+    "correct": 3,
+    "explanation": "The Meiji Restoration of 1868 abolished the Shogunate and restored imperial rule, rapidly modernizing Japan after Western contact."
+  },
+  {
+    "id": "his_h_06",
+    "difficulty": "hard",
+    "question": "What was the name of the economic policy introduced in the Soviet Union by Lenin in 1921?",
+    "options": [
+      "Five-Year Plan",
+      "Collectivization",
+      "Perestroika",
+      "New Economic Policy (NEP)"
+    ],
+    "correct": 3,
+    "explanation": "Lenin's New Economic Policy (NEP) partially re-introduced market economics to stabilize the Soviet economy after War Communism's failures."
+  },
+  {
+    "id": "his_h_07",
+    "difficulty": "hard",
+    "question": "The Scramble for Africa occurred primarily during which decades?",
+    "options": [
+      "1820s–1840s",
+      "1910s–1930s",
+      "1850s–1870s",
+      "1880s–1900s"
+    ],
+    "correct": 3,
+    "explanation": "The Scramble for Africa (c. 1881–1914) saw European powers rapidly colonize most of Africa, formalized at the Berlin Conference of 1884–85."
+  },
+  {
+    "id": "his_h_08",
+    "difficulty": "hard",
+    "question": "Who was the Byzantine Emperor during the fall of Constantinople in 1453?",
+    "options": [
+      "Michael VIII Palaiologos",
+      "John VIII Palaiologos",
+      "Alexios I Komnenos",
+      "Constantine XI Palaiologos"
+    ],
+    "correct": 3,
+    "explanation": "Constantine XI Palaiologos was the last Byzantine emperor, dying in the final defense of Constantinople against Ottoman forces."
+  },
+  {
+    "id": "his_h_09",
+    "difficulty": "hard",
+    "question": "The Haitian Revolution of 1791–1804 resulted in what?",
+    "options": [
+      "French colonial expansion",
+      "Spanish annexation of Haiti",
+      "US takeover of Saint-Domingue",
+      "The world's first successful slave revolt and Black republic"
+    ],
+    "correct": 3,
+    "explanation": "The Haitian Revolution produced the world's first independent Black republic when enslaved Africans defeated French, Spanish, and British forces."
+  },
+  {
+    "id": "his_h_10",
+    "difficulty": "hard",
+    "question": "Which treaty ended the Seven Years' War in 1763?",
+    "options": [
+      "Treaty of Westphalia",
+      "Treaty of Utrecht",
+      "Treaty of Vienna",
+      "Treaty of Paris"
+    ],
+    "correct": 3,
+    "explanation": "The Treaty of Paris (1763) ended the Seven Years' War, with Britain gaining Canada from France and Florida from Spain."
+  },
+  {
+    "id": "his_h_11",
+    "difficulty": "hard",
+    "question": "The Rashidun Caliphate was the first Islamic state. Who was its first caliph?",
+    "options": [
+      "Ali ibn Abi Talib",
+      "Uthman ibn Affan",
+      "Umar ibn al-Khattab",
+      "Abu Bakr"
+    ],
+    "correct": 3,
+    "explanation": "Abu Bakr became the first caliph after Muhammad's death in 632 AD, unifying the Arabian Peninsula under Islam."
+  },
+  {
+    "id": "his_h_12",
+    "difficulty": "hard",
+    "question": "The Congress of Vienna (1814–15) was called primarily to do what?",
+    "options": [
+      "Create the League of Nations",
+      "Negotiate peace after the Crimean War",
+      "Divide the Ottoman Empire",
+      "Redraw European borders after the Napoleonic Wars"
+    ],
+    "correct": 3,
+    "explanation": "The Congress of Vienna restructured Europe after Napoleon's defeats, establishing a balance of power that maintained general peace for nearly a century."
+  },
+  {
+    "id": "his_h_13",
+    "difficulty": "hard",
+    "question": "The Opium Wars were fought between Britain and which country?",
+    "options": [
+      "India",
+      "Japan",
+      "Korea",
+      "China"
+    ],
+    "correct": 3,
+    "explanation": "Britain fought two Opium Wars against China (1839–42 and 1856–60) over trade rights, resulting in Chinese territorial concessions including Hong Kong."
+  },
+  {
+    "id": "his_h_14",
+    "difficulty": "hard",
+    "question": "Which battle in 1805 confirmed Napoleon's naval defeat and British naval dominance?",
+    "options": [
+      "Battle of the Nile",
+      "Battle of Copenhagen",
+      "Battle of Jutland",
+      "Battle of Trafalgar"
+    ],
+    "correct": 3,
+    "explanation": "At the Battle of Trafalgar (1805), British Admiral Horatio Nelson defeated the combined French-Spanish fleet, but died in the battle."
+  },
+  {
+    "id": "his_h_15",
+    "difficulty": "hard",
+    "question": "The Mau Mau Uprising was a revolt against colonial rule in which country?",
+    "options": [
+      "South Africa",
+      "Rhodesia",
+      "Gold Coast",
+      "Kenya"
+    ],
+    "correct": 3,
+    "explanation": "The Mau Mau Uprising (1952–1964) was a rebellion against British colonial rule in Kenya, leading to Kenyan independence in 1963."
+  },
+  {
+    "id": "his_h_16",
+    "difficulty": "hard",
+    "question": "Who wrote Das Kapital, the foundational text of Marxism?",
+    "options": [
+      "Friedrich Engels",
+      "Leon Trotsky",
+      "Vladimir Lenin",
+      "Karl Marx"
+    ],
+    "correct": 3,
+    "explanation": "Karl Marx wrote Das Kapital (Volume 1, 1867), analyzing capitalism and laying the theoretical groundwork for communism."
+  },
+  {
+    "id": "his_h_17",
+    "difficulty": "hard",
+    "question": "The Zimmermann Telegram in 1917 was sent by Germany to which country?",
+    "options": [
+      "Austria-Hungary",
+      "Ottoman Empire",
+      "Argentina",
+      "Mexico"
+    ],
+    "correct": 3,
+    "explanation": "Germany's Foreign Secretary Arthur Zimmermann telegrammed Mexico in 1917, proposing a military alliance against the US — its interception helped bring the US into WWI."
+  },
+  {
+    "id": "his_h_18",
+    "difficulty": "hard",
+    "question": "The Battle of Adwa in 1896 saw which African nation defeat an invading European power?",
+    "options": [
+      "Sudan",
+      "Somalia",
+      "Ghana",
+      "Ethiopia"
+    ],
+    "correct": 3,
+    "explanation": "Ethiopia defeated Italy at the Battle of Adwa on March 1, 1896 — the first major African victory over a European colonial power in the modern era."
+  },
+  {
+    "id": "his_h_19",
+    "difficulty": "hard",
+    "question": "Who was the first Holy Roman Emperor?",
+    "options": [
+      "Frederick Barbarossa",
+      "Otto I",
+      "Louis the Pious",
+      "Charlemagne"
+    ],
+    "correct": 3,
+    "explanation": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor by Pope Leo III on December 25, 800 AD."
+  },
+  {
+    "id": "his_h_20",
+    "difficulty": "hard",
+    "question": "The Viet Cong operated primarily during which conflict?",
+    "options": [
+      "Korean War",
+      "First Indochina War",
+      "Cambodian Civil War",
+      "Vietnam War"
+    ],
+    "correct": 3,
+    "explanation": "The Viet Cong (National Liberation Front) was a guerrilla force that fought against South Vietnam and the US during the Vietnam War (1955–1975)."
+  },
+  {
+    "id": "his_e_61",
+    "difficulty": "easy",
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "options": [
+      "Colossus of Rhodes",
+      "Hanging Gardens",
+      "Temple of Artemis",
+      "The Great Lighthouse"
+    ],
+    "correct": 3,
+    "explanation": "The Lighthouse of Alexandria (Pharos of Alexandria), built c.280 BC on the island of Pharos, was estimated at 100–140m tall — one of the tallest man-made structures for centuries. It stood until earthquakes destroyed it between 956 and 1323 AD."
+  },
+  {
+    "id": "his_m_61",
+    "difficulty": "medium",
+    "question": "The 'Scramble for Africa' primarily took place during which decade?",
+    "options": [
+      "1850s",
+      "1870s",
+      "1900s",
+      "1880s"
+    ],
+    "correct": 3,
+    "explanation": "The Berlin Conference (1884–85) formalized European powers' division of Africa. By 1900, 90% of Africa was under European control. The 1880s saw the most intense competition, with Britain, France, Germany, Belgium, and Portugal rushing to claim territory."
+  },
+  {
+    "id": "his_m_62",
+    "difficulty": "medium",
+    "question": "Who was the first Holy Roman Emperor, crowned in 800 AD?",
+    "options": [
+      "Otto I",
+      "Louis the Pious",
+      "Pepin the Short",
+      "Charlemagne"
+    ],
+    "correct": 3,
+    "explanation": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor by Pope Leo III on Christmas Day, 800 AD. He united much of Western and Central Europe for the first time since Rome and laid the foundations for both France and Germany."
+  },
+  {
+    "id": "his_h_61",
+    "difficulty": "hard",
+    "question": "The Haitian Revolution (1791–1804) was historically unique for what reason?",
+    "options": [
+      "It was the first revolution in the Americas",
+      "It established the first democracy in the Western hemisphere",
+      "It was the shortest successful revolution in history",
+      "It was the only successful slave revolt in history to result in the founding of a new nation"
+    ],
+    "correct": 3,
+    "explanation": "Haiti's revolution — inspired by the French Revolution — led to the only nation founded by formerly enslaved people through a successful rebellion. Former slave Toussaint Louverture led much of the campaign. Haiti declared independence on January 1, 1804."
+  },
+  {
+    "id": "his_e_62",
+    "difficulty": "easy",
+    "question": "The Berlin Wall fell in which year?",
+    "options": [
+      "1991",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "correct": 3,
+    "explanation": "The Berlin Wall fell on November 9, 1989 after East Germany announced citizens could cross freely. The wall had divided Berlin since 1961. Its fall symbolized the end of the Cold War and led to German reunification in October 1990."
+  },
+  {
+    "id": "his_m_63",
+    "difficulty": "medium",
+    "question": "The Peace of Westphalia (1648) ended which conflict and established what key principle?",
+    "options": [
+      "The Napoleonic Wars; democratic governance",
+      "The 100 Years War; constitutional monarchy",
+      "The Crusades; religious tolerance in the Middle East",
+      "The 30 Years War; the principle of state sovereignty in international relations"
+    ],
+    "correct": 3,
+    "explanation": "The Peace of Westphalia ended both the Thirty Years War and the Eighty Years War. It established the modern concept of state sovereignty — that each state has supreme authority within its own borders — which remains the foundation of international law."
+  },
+  {
+    "id": "his_h_62",
+    "difficulty": "hard",
+    "question": "What was the 'Sykes-Picot Agreement' of 1916 and why is it still controversial?",
+    "options": [
+      "A secret US-UK nuclear weapons deal",
+      "A pact between Russia and Germany to divide Poland",
+      "A British-French deal to divide Austria-Hungary",
+      "A secret British-French agreement to divide the Ottoman Middle East into spheres of influence, drawing borders that ignored ethnic and religious communities"
+    ],
+    "correct": 3,
+    "explanation": "Named for British diplomat Mark Sykes and French diplomat François Georges-Picot, the agreement carved up the Ottoman Middle East, drawing straight-line borders that divided communities. Many historians argue it created the conditions for a century of conflict in Iraq, Syria, Lebanon, and Palestine."
+  },
+  {
+    "id": "his_m_64",
+    "difficulty": "medium",
+    "question": "The Meiji Restoration (1868) was a pivotal moment in which country's history?",
+    "options": [
+      "China",
+      "Korea",
+      "Vietnam",
+      "Japan"
+    ],
+    "correct": 3,
+    "explanation": "The Meiji Restoration ended Japan's feudal Tokugawa Shogunate and restored imperial rule under Emperor Meiji. Japan rapidly industrialized — building railroads, a modern army, and Western-style institutions — transforming from a feudal to an industrial power within 40 years."
+  },
+  {
+    "id": "his_e_63",
+    "difficulty": "easy",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Dorothy Hodgkin",
+      "Rosalind Franklin",
+      "Florence Nightingale",
+      "Marie Curie"
+    ],
+    "correct": 3,
+    "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 (shared with her husband Pierre and Henri Becquerel) and again in Chemistry in 1911 — making her the only person to win Nobel Prizes in two different sciences."
+  },
+  {
+    "id": "his_h_63",
+    "difficulty": "hard",
+    "question": "The Defenestration of Prague (1618) — throwing people from a window — directly triggered which war?",
+    "options": [
+      "The Seven Years War",
+      "The Ottoman-Habsburg War",
+      "The English Civil War",
+      "The Thirty Years War"
+    ],
+    "correct": 3,
+    "explanation": "Protestant Bohemian nobles threw three Catholic Habsburg officials from a window of Prague Castle. All survived (Catholics claimed angelic intervention; Protestants noted they landed in a dung heap). The incident ignited the Thirty Years War (1618–1648), which killed ~8 million people."
+  }
+]

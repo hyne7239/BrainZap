@@ -1,0 +1,911 @@
+[
+  {
+    "id": "lit_e_01",
+    "difficulty": "easy",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Milton",
+      "William Shakespeare"
+    ],
+    "correct": 3,
+    "explanation": "Romeo and Juliet was written by William Shakespeare around 1594–1596. It is the world's most frequently performed play and has been adapted into countless films, ballets, and musicals."
+  },
+  {
+    "id": "lit_e_02",
+    "difficulty": "easy",
+    "question": "In which novel does the character Harry Potter appear?",
+    "options": [
+      "The Magicians",
+      "A Wizard of Earthsea",
+      "The Name of the Wind",
+      "Harry Potter and the Philosopher's Stone"
+    ],
+    "correct": 3,
+    "explanation": "Harry Potter and the Philosopher's Stone (1997) by J.K. Rowling is the first book in the seven-volume series. It was rejected by 12 publishers before Bloomsbury accepted it."
+  },
+  {
+    "id": "lit_e_03",
+    "difficulty": "easy",
+    "question": "Who wrote '1984', the dystopian novel featuring Big Brother?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Franz Kafka",
+      "George Orwell"
+    ],
+    "correct": 3,
+    "explanation": "George Orwell wrote Nineteen Eighty-Four (1949), set in a totalitarian surveillance state. It coined terms like 'Big Brother,' 'doublethink,' 'Newspeak,' and 'memory hole' that remain in common use."
+  },
+  {
+    "id": "lit_e_04",
+    "difficulty": "easy",
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Truman Capote",
+      "Carson McCullers",
+      "Flannery O'Connor",
+      "Harper Lee"
+    ],
+    "correct": 3,
+    "explanation": "To Kill a Mockingbird (1960) by Harper Lee won the Pulitzer Prize in 1961 and was made into a film starring Gregory Peck. Lee published only one other novel (Go Set a Watchman) in her lifetime."
+  },
+  {
+    "id": "lit_e_05",
+    "difficulty": "easy",
+    "question": "The Hobbit was written by which author?",
+    "options": [
+      "C.S. Lewis",
+      "Ursula K. Le Guin",
+      "Terry Pratchett",
+      "J.R.R. Tolkien"
+    ],
+    "correct": 3,
+    "explanation": "The Hobbit (1937) by J.R.R. Tolkien follows Bilbo Baggins on an adventure with dwarves. It was written as a bedtime story for Tolkien's children and became a beloved classic that led to The Lord of the Rings."
+  },
+  {
+    "id": "lit_e_06",
+    "difficulty": "easy",
+    "question": "In 'Pride and Prejudice', what is the name of the male protagonist?",
+    "options": [
+      "Captain Wentworth",
+      "Edward Ferrars",
+      "Henry Tilney",
+      "Mr. Fitzwilliam Darcy"
+    ],
+    "correct": 3,
+    "explanation": "Mr. Darcy and Elizabeth Bennet's romance in Jane Austen's Pride and Prejudice (1813) is one of literature's most beloved. Darcy's proud first impression and Bennet's prejudice must both be overcome."
+  },
+  {
+    "id": "lit_e_07",
+    "difficulty": "easy",
+    "question": "'The Great Gatsby' is set in which decade?",
+    "options": [
+      "1910s",
+      "1930s",
+      "1940s",
+      "1920s"
+    ],
+    "correct": 3,
+    "explanation": "F. Scott Fitzgerald's The Great Gatsby (1925) is set in 1922, during the Jazz Age. It explores the American Dream through the mysterious Jay Gatsby's obsessive pursuit of wealth and Daisy Buchanan."
+  },
+  {
+    "id": "lit_e_08",
+    "difficulty": "easy",
+    "question": "Which Charles Dickens novel begins 'It was the best of times, it was the worst of times'?",
+    "options": [
+      "Oliver Twist",
+      "Bleak House",
+      "David Copperfield",
+      "A Tale of Two Cities"
+    ],
+    "correct": 3,
+    "explanation": "A Tale of Two Cities (1859) opens with one of literature's most famous lines. Set in London and Paris before and during the French Revolution, it features the self-sacrificing Sydney Carton."
+  },
+  {
+    "id": "lit_e_09",
+    "difficulty": "easy",
+    "question": "'Don Quixote' is considered the world's first modern novel. Who wrote it?",
+    "options": [
+      "Giovanni Boccaccio",
+      "Dante Alighieri",
+      "Francesco Petrarch",
+      "Miguel de Cervantes"
+    ],
+    "correct": 3,
+    "explanation": "Don Quixote (Part 1: 1605, Part 2: 1615) by Miguel de Cervantes is widely considered the first modern novel. It follows a man who reads so many chivalric romances he believes himself a knight-errant."
+  },
+  {
+    "id": "lit_e_10",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn'?",
+    "options": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Jack London",
+      "Mark Twain"
+    ],
+    "correct": 3,
+    "explanation": "Mark Twain (Samuel Clemens) wrote both Tom Sawyer (1876) and Huckleberry Finn (1884). The latter is often called 'the Great American Novel' for its vernacular voice and critique of racism."
+  },
+  {
+    "id": "lit_e_11",
+    "difficulty": "easy",
+    "question": "What type of poem has 14 lines in a specific rhyme scheme?",
+    "options": [
+      "Haiku",
+      "Villanelle",
+      "Ode",
+      "Sonnet"
+    ],
+    "correct": 3,
+    "explanation": "A sonnet has exactly 14 lines. The Shakespearean sonnet uses ABAB CDCD EFEF GG rhyme scheme. The Petrarchan (Italian) sonnet uses ABBAABBA CDECDE. Both conclude with a resolution."
+  },
+  {
+    "id": "lit_e_12",
+    "difficulty": "easy",
+    "question": "In 'Moby-Dick', what is the name of the captain obsessively hunting the white whale?",
+    "options": [
+      "Ishmael",
+      "Queequeg",
+      "Starbuck",
+      "Captain Ahab"
+    ],
+    "correct": 3,
+    "explanation": "Captain Ahab of the Pequod is obsessed with hunting Moby Dick, the white sperm whale that took his leg. Herman Melville's novel (1851) is considered one of American literature's greatest achievements."
+  },
+  {
+    "id": "lit_e_13",
+    "difficulty": "easy",
+    "question": "'Animal Farm' by George Orwell is an allegory for which historical event?",
+    "options": [
+      "World War I",
+      "The Great Depression",
+      "The Vietnam War",
+      "The Russian Revolution"
+    ],
+    "correct": 3,
+    "explanation": "Animal Farm (1945) is a satirical allegory for the Russian Revolution and Stalinist Soviet Union. The pigs represent the Communist Party elite. Napoleon is Stalin; Snowball is Trotsky."
+  },
+  {
+    "id": "lit_e_14",
+    "difficulty": "easy",
+    "question": "Which Agatha Christie novel features the 'murder on the Nile' solution?",
+    "options": [
+      "And Then There Were None",
+      "Death in the Clouds",
+      "The ABC Murders",
+      "Death on the Nile"
+    ],
+    "correct": 3,
+    "explanation": "Death on the Nile (1937) features Hercule Poirot investigating the murder of a wealthy heiress aboard an Egyptian riverboat. It has been adapted into films multiple times, most recently in 2022."
+  },
+  {
+    "id": "lit_e_15",
+    "difficulty": "easy",
+    "question": "The phrase 'Big Brother is watching you' comes from which novel?",
+    "options": [
+      "Brave New World",
+      "The Handmaid's Tale",
+      "Fahrenheit 451",
+      "1984 (Nineteen Eighty-Four) by George Orwell"
+    ],
+    "correct": 3,
+    "explanation": "'Big Brother is watching you' is the slogan of Oceania's totalitarian Party in Orwell's 1984 (1949). The term 'Big Brother' has since become universal shorthand for surveillance states and intrusive governments."
+  },
+  {
+    "id": "lit_e_16",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "Jack Kerouac",
+      "William Faulkner",
+      "Norman Mailer",
+      "J.D. Salinger"
+    ],
+    "correct": 3,
+    "explanation": "J.D. Salinger's The Catcher in the Rye (1951) follows 16-year-old Holden Caulfield's disillusionment with adult 'phoniness.' Despite being widely banned, it has sold over 65 million copies."
+  },
+  {
+    "id": "lit_e_17",
+    "difficulty": "easy",
+    "question": "In which Homer epic does Odysseus (Ulysses) journey home from Troy?",
+    "options": [
+      "The Iliad",
+      "The Theogony",
+      "The Aeneid",
+      "The Odyssey"
+    ],
+    "correct": 3,
+    "explanation": "The Odyssey (c. 8th century BC) follows Odysseus's 10-year journey home to Ithaca after the Trojan War. The Iliad focuses on the war itself. Both epics are foundational to Western literature."
+  },
+  {
+    "id": "lit_e_18",
+    "difficulty": "easy",
+    "question": "'Brave New World' was written by which author?",
+    "options": [
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells",
+      "Aldous Huxley"
+    ],
+    "correct": 3,
+    "explanation": "Brave New World (1932) by Aldous Huxley depicts a dystopia of pleasure and control — citizens are genetically engineered, pacified with soma drugs, and conditioned for happiness. Contrasted with Orwell's fear-based dystopia, Huxley imagined a world controlled through pleasure."
+  },
+  {
+    "id": "lit_e_19",
+    "difficulty": "easy",
+    "question": "What is the name of the whale-hunting ship in 'Moby-Dick'?",
+    "options": [
+      "Hispaniola",
+      "Black Pearl",
+      "Endurance",
+      "Pequod"
+    ],
+    "correct": 3,
+    "explanation": "The Pequod is Captain Ahab's ship in Moby-Dick, named after the Pequot people of New England. The ship and nearly its entire crew are ultimately destroyed by the white whale."
+  },
+  {
+    "id": "lit_e_20",
+    "difficulty": "easy",
+    "question": "Which author created the detective Sherlock Holmes?",
+    "options": [
+      "Edgar Allan Poe",
+      "Wilkie Collins",
+      "G.K. Chesterton",
+      "Arthur Conan Doyle"
+    ],
+    "correct": 3,
+    "explanation": "Arthur Conan Doyle created Sherlock Holmes, who first appeared in A Study in Scarlet (1887). Holmes lives at 221B Baker Street, London with Dr. Watson, and is renowned for his logical deduction."
+  },
+  {
+    "id": "lit_m_01",
+    "difficulty": "medium",
+    "question": "In 'The Odyssey', what creatures try to lure sailors to their deaths with beautiful singing?",
+    "options": [
+      "Harpies",
+      "Gorgons",
+      "Nymphs",
+      "Sirens"
+    ],
+    "correct": 3,
+    "explanation": "Sirens are creatures whose beautiful music lures sailors to crash on the rocks. Odysseus orders himself tied to the mast to hear their song without being able to respond, while his crew plugs their ears with wax."
+  },
+  {
+    "id": "lit_m_02",
+    "difficulty": "medium",
+    "question": "What literary technique involves giving inanimate objects human characteristics?",
+    "options": [
+      "Alliteration",
+      "Hyperbole",
+      "Simile",
+      "Personification"
+    ],
+    "correct": 3,
+    "explanation": "Personification is a literary device attributing human characteristics to non-human things ('the wind howled,' 'opportunity knocked,' 'time flies'). It's distinct from anthropomorphism, which gives animals human qualities consistently."
+  },
+  {
+    "id": "lit_m_03",
+    "difficulty": "medium",
+    "question": "Which novel by Franz Kafka features a man who wakes up transformed into a giant insect?",
+    "options": [
+      "The Trial",
+      "The Castle",
+      "In the Penal Colony",
+      "The Metamorphosis"
+    ],
+    "correct": 3,
+    "explanation": "The Metamorphosis (Die Verwandlung, 1915) opens with Gregor Samsa waking as an ungeheueres Ungeziefer ('monstrous vermin'). It explores alienation, family dynamics, and the dehumanizing effect of labor with dark comedy."
+  },
+  {
+    "id": "lit_m_04",
+    "difficulty": "medium",
+    "question": "What is the narrative technique of 'stream of consciousness' in literature?",
+    "options": [
+      "Third-person omniscient narration",
+      "A story told in reverse chronology",
+      "A story told entirely through letters",
+      "Interior monologue that mimics the continuous, often non-linear flow of a character's thoughts"
+    ],
+    "correct": 3,
+    "explanation": "Stream of consciousness (term from William James's psychology) presents a character's thoughts as they naturally occur — fragmented, associative, and non-linear. Key practitioners: Virginia Woolf, James Joyce, William Faulkner."
+  },
+  {
+    "id": "lit_m_05",
+    "difficulty": "medium",
+    "question": "'Wuthering Heights' was written by which Brontë sister?",
+    "options": [
+      "Charlotte Brontë",
+      "Anne Brontë",
+      "Acton Bell",
+      "Emily Brontë"
+    ],
+    "correct": 3,
+    "explanation": "Emily Brontë published Wuthering Heights (1847) under the pseudonym Ellis Bell. Her only novel, it features the passionate, destructive relationship between Heathcliff and Catherine across two generations."
+  },
+  {
+    "id": "lit_m_06",
+    "difficulty": "medium",
+    "question": "What is a 'Bildungsroman' in literary terms?",
+    "options": [
+      "A German-language novel",
+      "A novel with an unreliable narrator",
+      "A novel about war",
+      "A coming-of-age novel following a protagonist's psychological and moral growth into adulthood"
+    ],
+    "correct": 3,
+    "explanation": "Bildungsroman (German: 'novel of formation') follows a character from youth through formative experiences to maturity. Examples: Jane Eyre, David Copperfield, The Catcher in the Rye, A Portrait of the Artist as a Young Man."
+  },
+  {
+    "id": "lit_m_07",
+    "difficulty": "medium",
+    "question": "'One Hundred Years of Solitude' was written by which author, associated with magical realism?",
+    "options": [
+      "Jorge Luis Borges",
+      "Pablo Neruda",
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez"
+    ],
+    "correct": 3,
+    "explanation": "Cien años de soledad (1967) by Gabriel García Márquez is the defining magical realist novel. It follows seven generations of the Buendía family in the fictional town of Macondo. García Márquez won the Nobel Prize in Literature in 1982."
+  },
+  {
+    "id": "lit_m_08",
+    "difficulty": "medium",
+    "question": "In 'Crime and Punishment', who is the murderer protagonist?",
+    "options": [
+      "Ivan Karamazov",
+      "Prince Myshkin",
+      "Fyodor Karamazov",
+      "Rodion Raskolnikov"
+    ],
+    "correct": 3,
+    "explanation": "Raskolnikov, a poor ex-student in St. Petersburg, murders a pawnbroker believing himself a 'superior' person beyond ordinary morality. Dostoevsky's novel (1866) explores guilt, psychology, and redemption."
+  },
+  {
+    "id": "lit_m_09",
+    "difficulty": "medium",
+    "question": "'The Handmaid's Tale' is set in the totalitarian theocracy of which fictional nation?",
+    "options": [
+      "Oceania",
+      "Panem",
+      "Airstrip One",
+      "Gilead"
+    ],
+    "correct": 3,
+    "explanation": "Margaret Atwood's The Handmaid's Tale (1985) is set in the Republic of Gilead, a near-future theocracy built on the ruins of the United States. Fertile women are enslaved as 'handmaids' for breeding."
+  },
+  {
+    "id": "lit_m_10",
+    "difficulty": "medium",
+    "question": "What is the literary device 'dramatic irony'?",
+    "options": [
+      "A surprising plot twist",
+      "A narrator making sarcastic comments",
+      "A contrast between two characters' dialogue",
+      "When the audience knows something crucial that a character does not, creating tension or dark humor"
+    ],
+    "correct": 3,
+    "explanation": "Dramatic irony occurs when audience knowledge exceeds character knowledge. Classic examples: Oedipus unknowingly marrying his mother; Romeo killing himself not knowing Juliet is alive; Iago's villainy known to us but not Othello."
+  },
+  {
+    "id": "lit_m_11",
+    "difficulty": "medium",
+    "question": "Emily Dickinson's poetry is known for which distinctive formal element?",
+    "options": [
+      "Free verse with no punctuation",
+      "Epic length narrative poems",
+      "Heroic couplets in iambic pentameter",
+      "Dashes used for pauses, slant rhymes, and unconventional capitalization"
+    ],
+    "correct": 3,
+    "explanation": "Dickinson (1830–1886) used dashes extensively to create pauses and suspension, slant rhymes (approximate rather than exact), and capitalized nouns for emphasis. She published only ~12 poems in her lifetime; nearly 1,800 were found after her death."
+  },
+  {
+    "id": "lit_m_12",
+    "difficulty": "medium",
+    "question": "What is the name of the dystopian city in Aldous Huxley's 'Brave New World'?",
+    "options": [
+      "Airstrip One",
+      "New London",
+      "Metropolis",
+      "World State (with London being the primary setting)"
+    ],
+    "correct": 3,
+    "explanation": "The World State in Brave New World governs a globally homogenized society. Its motto is 'Community, Identity, Stability.' The London Hatchery and Conditioning Centre is where citizens are manufactured and conditioned."
+  },
+  {
+    "id": "lit_m_13",
+    "difficulty": "medium",
+    "question": "Which Shakespeare play features the witches who proclaim 'Double, double toil and trouble'?",
+    "options": [
+      "King Lear",
+      "Hamlet",
+      "Othello",
+      "Macbeth"
+    ],
+    "correct": 3,
+    "explanation": "The three witches in Macbeth chant 'Double, double toil and trouble; / Fire burn and cauldron bubble' while brewing their spell. Their prophecies set Macbeth's tragic ambition in motion."
+  },
+  {
+    "id": "lit_m_14",
+    "difficulty": "medium",
+    "question": "'The Sun Also Rises' by Ernest Hemingway introduced which writing style?",
+    "options": [
+      "Maximalist prose with lengthy descriptions",
+      "Gothic dark romanticism",
+      "Unreliable first-person narration",
+      "Iceberg theory: sparse, understated prose where meaning lies beneath the surface"
+    ],
+    "correct": 3,
+    "explanation": "Hemingway's iceberg theory (theory of omission) holds that a story's dignity lies in what is left out. The Sun Also Rises (1926) uses stripped-down dialogue and action to convey deep emotional undercurrents without stating them."
+  },
+  {
+    "id": "lit_m_15",
+    "difficulty": "medium",
+    "question": "The term 'Kafkaesque' means what, derived from Franz Kafka's works?",
+    "options": [
+      "Surreal body horror",
+      "Dreamlike romantic atmosphere",
+      "Absurdly heroic narrative",
+      "Oppressively bureaucratic, absurd, or nightmarish situations where individuals are powerless against incomprehensible systems"
+    ],
+    "correct": 3,
+    "explanation": "Kafkaesque describes situations like The Trial (arrested for an unknown crime with no clear legal path) or The Castle (trying endlessly to reach an authority who won't respond). It's entered common usage for bureaucratic nightmares."
+  },
+  {
+    "id": "lit_m_16",
+    "difficulty": "medium",
+    "question": "What is the 'unreliable narrator' technique in fiction?",
+    "options": [
+      "A narrator who speaks in multiple voices",
+      "A narrator the author disagrees with",
+      "A narrator who addresses the reader directly",
+      "A narrator whose account of events cannot be fully trusted, due to bias, limited knowledge, or deception"
+    ],
+    "correct": 3,
+    "explanation": "Unreliable narrators require active reading — their version of events may be biased, self-serving, mentally ill, or outright lying. Examples: Humbert Humbert (Lolita), Stevens (The Remains of the Day), Nick Carraway (debated), Patrick Bateman (American Psycho)."
+  },
+  {
+    "id": "lit_m_17",
+    "difficulty": "medium",
+    "question": "'Things Fall Apart' is the most widely-read African novel in history. Who wrote it?",
+    "options": [
+      "Wole Soyinka",
+      "Ngugi wa Thiong'o",
+      "Chimamanda Ngozi Adichie",
+      "Chinua Achebe"
+    ],
+    "correct": 3,
+    "explanation": "Things Fall Apart (1958) by Chinua Achebe follows Okonkwo in pre-colonial Igbo Nigeria and the disruption of traditional life by British colonialism. Its title quotes W.B. Yeats. It has sold over 20 million copies in 57 languages."
+  },
+  {
+    "id": "lit_m_18",
+    "difficulty": "medium",
+    "question": "'In Search of Lost Time' (À la recherche du temps perdu) is the masterwork of which French author?",
+    "options": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Victor Hugo",
+      "Marcel Proust"
+    ],
+    "correct": 3,
+    "explanation": "Proust's seven-volume novel (1913–1927) is one of the longest in Western literature (~1.5 million words). The famous madeleine episode demonstrates how involuntary memory can unlock entire lost worlds of experience."
+  },
+  {
+    "id": "lit_m_19",
+    "difficulty": "medium",
+    "question": "What is 'magical realism' as a literary mode?",
+    "options": [
+      "Science fiction with magic rather than technology",
+      "Fantasy novels set in the real world",
+      "Fairy tales rewritten for adults",
+      "Fiction presenting magical events as matter-of-fact within a realistic setting, blurring the boundary between ordinary and extraordinary"
+    ],
+    "correct": 3,
+    "explanation": "Magical realism (most associated with Latin American literature — García Márquez, Borges, Allende) presents impossible events — levitation, ghosts, time loops — with the same tone as mundane ones, interrogating what we consider 'real.'"
+  },
+  {
+    "id": "lit_m_20",
+    "difficulty": "medium",
+    "question": "What is the term for a 14-line poem in iambic pentameter popularized by Shakespeare?",
+    "options": [
+      "Petrarchan sonnet",
+      "Terza rima",
+      "Villanelle",
+      "Shakespearean sonnet"
+    ],
+    "correct": 3,
+    "explanation": "The Shakespearean sonnet uses three quatrains (ABAB CDCD EFEF) and a concluding couplet (GG). The couplet usually contains the 'turn' or resolution. Shakespeare wrote 154 sonnets, many addressed to a 'Fair Youth' and a 'Dark Lady.'"
+  },
+  {
+    "id": "lit_h_01",
+    "difficulty": "hard",
+    "question": "What is 'apophasis' (or paralipsis) as a rhetorical and literary device?",
+    "options": [
+      "Repeating a phrase for emphasis",
+      "Ending a sentence with a question",
+      "Interrupting a sentence with an aside",
+      "Mentioning something by claiming not to mention it — 'I won't even bring up his criminal record'"
+    ],
+    "correct": 3,
+    "explanation": "Apophasis/paralipsis raises an issue while pretending to pass it over. It's used by characters from Iago to politicians: 'I'm not saying he's dishonest, but...' The denial draws attention to the very thing denied."
+  },
+  {
+    "id": "lit_h_02",
+    "difficulty": "hard",
+    "question": "T.S. Eliot's 'The Waste Land' is associated with which literary movement?",
+    "options": [
+      "Surrealism",
+      "Naturalism",
+      "Romanticism",
+      "Modernism — specifically its fragmented form, allusions, and rejection of Victorian conventions"
+    ],
+    "correct": 3,
+    "explanation": "The Waste Land (1922) is the defining text of literary Modernism. Its fragmented structure, multiple languages, allusions to dozens of sources, and absence of linear narrative embodied Modernism's response to post-WWI disillusionment."
+  },
+  {
+    "id": "lit_h_03",
+    "difficulty": "hard",
+    "question": "What is the narrative technique called 'free indirect discourse'?",
+    "options": [
+      "First-person narration disguised as third-person",
+      "A narrator who changes identity mid-story",
+      "An unreliable narrator who lies to the reader",
+      "Third-person narration that slips into a character's thoughts and speech patterns without quotation marks or 'he/she said'"
+    ],
+    "correct": 3,
+    "explanation": "Free indirect discourse (style indirect libre) blends narrator voice with character consciousness: 'It was a truth universally acknowledged...' (Austen) — whose truth? The narrator's? Society's? Elizabeth's? The technique creates irony and intimacy simultaneously."
+  },
+  {
+    "id": "lit_h_04",
+    "difficulty": "hard",
+    "question": "Which philosopher's concept of 'negative capability' (embracing uncertainty without irritable reaching after fact) did John Keats apply to poetry?",
+    "options": [
+      "Hegel",
+      "Coleridge",
+      "Kant",
+      "Keats himself coined the term, describing Shakespeare's ability to inhabit uncertainty"
+    ],
+    "correct": 3,
+    "explanation": "Keats coined 'negative capability' in a letter (1817) to describe Shakespeare's capacity to remain in uncertainty without reaching for irritable certainty. He saw it as the quality great artists need — the ability to sit with mystery."
+  },
+  {
+    "id": "lit_h_05",
+    "difficulty": "hard",
+    "question": "What is 'defamiliarization' (ostranenie) as theorized by Russian Formalist Viktor Shklovsky?",
+    "options": [
+      "Making characters seem alien to readers",
+      "Writing in a foreign language style",
+      "Using archaic vocabulary to create distance",
+      "Literary technique of presenting familiar things in unfamiliar ways to break habitual perception and make readers 'see' again"
+    ],
+    "correct": 3,
+    "explanation": "Shklovsky (Art as Technique, 1917) argued that automatization dulls perception. Literature must 'make strange' (defamiliarize) the familiar — slow perception, force attention. Tolstoy's Hadji Murád describes a razed Chechen village through a surviving thistle."
+  },
+  {
+    "id": "lit_h_06",
+    "difficulty": "hard",
+    "question": "The Aristotelian concept of 'catharsis' in tragedy refers to what?",
+    "options": [
+      "The villain's punishment at the end",
+      "The protagonist's moral flaw",
+      "The climax of the plot",
+      "The emotional purging or cleansing audiences experience through witnessing dramatic suffering"
+    ],
+    "correct": 3,
+    "explanation": "Aristotle (Poetics) defined catharsis as the purging of pity and fear through tragedy. Scholars debate whether he meant moral improvement, psychological relief, or intellectual clarification — the word appears only twice in extant Aristotle and remains contested."
+  },
+  {
+    "id": "lit_h_07",
+    "difficulty": "hard",
+    "question": "'Middlemarch' by George Eliot (Mary Ann Evans) is notable for what stylistic achievement?",
+    "options": [
+      "Its use of dialect throughout",
+      "Its epistolary format",
+      "Being the first novel written in stream of consciousness",
+      "Its omniscient narrative voice that provides moral and psychological insight across multiple parallel plots — often called the greatest English-language novel"
+    ],
+    "correct": 3,
+    "explanation": "Middlemarch (1871–72) weaves several storylines in 1830s England with a deeply empathetic, psychologically penetrating omniscient narrator. Virginia Woolf called it 'one of the few English novels written for grown-up people.'"
+  },
+  {
+    "id": "lit_h_08",
+    "difficulty": "hard",
+    "question": "What is the 'intentional fallacy' in literary criticism, introduced by Wimsatt and Beardsley?",
+    "options": [
+      "Misreading an author's stated intentions",
+      "Assuming old texts have no modern relevance",
+      "Applying biography to poetry interpretation",
+      "The critical error of judging a work's meaning or success by appealing to the author's intended meaning, which is inaccessible and irrelevant"
+    ],
+    "correct": 3,
+    "explanation": "The Intentional Fallacy (1946) argues that a poem's meaning must be found in the text itself, not the author's stated intentions — which are private, unrecoverable, and potentially misleading. It underpins New Criticism's text-centered approach."
+  },
+  {
+    "id": "lit_h_09",
+    "difficulty": "hard",
+    "question": "'The Name of the Rose' by Umberto Eco is simultaneously a medieval mystery novel and an exploration of what philosophical concept?",
+    "options": [
+      "Free will versus determinism",
+      "Good versus evil",
+      "Faith versus reason",
+      "Semiotics and the nature of signs — how meaning is produced, how texts reference other texts, and the danger of absolute truth claims"
+    ],
+    "correct": 3,
+    "explanation": "The Name of the Rose (1980) is a semiotic thriller: William of Baskerville uses Holmesian logic in a monastery murder mystery, but the meta-theme is about interpreting signs, the limits of reason, and how power controls knowledge through controlling texts."
+  },
+  {
+    "id": "lit_h_10",
+    "difficulty": "hard",
+    "question": "What is 'narratology', and which theorist is most associated with its systematic development?",
+    "options": [
+      "The history of novel writing — associated with Ian Watt",
+      "The psychology of reading — associated with Norman Holland",
+      "The economics of publishing — associated with Pierre Bourdieu",
+      "The systematic study of narrative structure across texts — Gérard Genette's framework (Narrative Discourse, 1972) being foundational"
+    ],
+    "correct": 3,
+    "explanation": "Narratology (Structuralist in origin) analyzes how narratives are constructed: Genette's key concepts include focalization (who perceives), voice (who narrates), analepsis/prolepsis (flashback/flash-forward), and duration (how story time maps to narrated time)."
+  },
+  {
+    "id": "lit_h_11",
+    "difficulty": "hard",
+    "question": "What distinguishes Dante's 'terza rima' verse form used in The Divine Comedy?",
+    "options": [
+      "14-line stanzas with alternating rhymes",
+      "Unrhymed iambic pentameter",
+      "Couplets with a single refrain",
+      "An interlocking three-line rhyme scheme: ABA BCB CDC... where the middle rhyme of each tercet rhymes with the outer lines of the next"
+    ],
+    "correct": 3,
+    "explanation": "Terza rima (ABA BCB CDC...) was invented by Dante for the Divine Comedy (c.1308–1320). The interlocking scheme creates forward momentum — each tercet resolves the previous tension while opening the next. It's been used sparingly in English (Shelley's Ode to the West Wind)."
+  },
+  {
+    "id": "lit_h_12",
+    "difficulty": "hard",
+    "question": "Which of these best describes the narrative perspective called 'second-person narration' and a notable literary use?",
+    "options": [
+      "A narrator referring to a 'he' protagonist",
+      "Alternating between two first-person narrators",
+      "A narrator using 'we' for the protagonist",
+      "Addressing the reader as 'you' — used in Italo Calvino's 'If on a winter's night a traveler' and Jay McInerney's 'Bright Lights, Big City'"
+    ],
+    "correct": 3,
+    "explanation": "Second-person narration makes the reader the protagonist ('You are about to begin reading...'). Calvino used it metafictionally to make reading itself the subject. McInerney used it for intimacy and dissociation in portraying cocaine addiction."
+  },
+  {
+    "id": "lit_h_13",
+    "difficulty": "hard",
+    "question": "What is the concept of 'écriture féminine' as theorized by Hélène Cixous?",
+    "options": [
+      "Fiction written by women about women",
+      "A feminist book publishing movement",
+      "The female canon of literary history",
+      "A writing style that embraces the feminine body, fluidity, and plurality — rejecting the linear, phallogocentric structures of masculine writing"
+    ],
+    "correct": 3,
+    "explanation": "Cixous (The Laugh of the Medusa, 1975) called for a specifically feminine writing that disrupts the binary logic of Western thought. It's not just writing by women but writing that embraces multiplicity, circularity, and the repressed feminine unconscious."
+  },
+  {
+    "id": "lit_h_14",
+    "difficulty": "hard",
+    "question": "The literary concept of 'objective correlative', coined by T.S. Eliot, means what?",
+    "options": [
+      "A non-fictional literary technique",
+      "An emotional consistency within a single poem",
+      "An objective measure of literary quality",
+      "A set of objects, events, or situations that evoke a specific emotion in the reader without directly stating the emotion"
+    ],
+    "correct": 3,
+    "explanation": "Eliot (Hamlet and His Problems, 1919) argued effective poetry doesn't state emotions but presents their 'objective correlative' — a chain of images/events that summon the emotion in the reader. He criticized Hamlet for expressing emotion without adequate dramatic cause."
+  },
+  {
+    "id": "lit_h_15",
+    "difficulty": "hard",
+    "question": "What is Mikhail Bakhtin's concept of 'heteroglossia' (raznorechie)?",
+    "options": [
+      "A multilingual novel format",
+      "Multiple unreliable narrators",
+      "A chorus-style dramatic technique",
+      "The diversity of social voices, languages, and perspectives in a novel — in contrast to the single authoritative voice of epic poetry"
+    ],
+    "correct": 3,
+    "explanation": "Bakhtin (The Dialogic Imagination, 1975) argued novels inherently contain heteroglossia — multiple competing discourses (class dialects, professional jargons, generational voices) that the novel holds in dialogue, preventing any single authoritative voice."
+  },
+  {
+    "id": "lit_h_16",
+    "difficulty": "hard",
+    "question": "What is 'intertextuality' as used in literary theory (coined by Julia Kristeva)?",
+    "options": [
+      "Cross-referencing footnotes in academic texts",
+      "An author's stated influences",
+      "A series of novels in the same universe",
+      "The way texts are inevitably shaped by, and in dialogue with, other texts — all writing absorbs and transforms previous writing"
+    ],
+    "correct": 3,
+    "explanation": "Kristeva (1966) developed intertextuality from Bakhtin: every text is a mosaic of quotations and transformations of other texts. Rather than tracing influence (intentional), intertextuality recognizes every text exists within an infinite network of prior texts."
+  },
+  {
+    "id": "lit_h_17",
+    "difficulty": "hard",
+    "question": "What does Roland Barthes mean by 'the death of the author' (1967)?",
+    "options": [
+      "Literally, that authors should remain anonymous",
+      "A theory about literary plagiarism",
+      "A celebration of authorial freedom",
+      "That once a text is published, the author's intentions are irrelevant — meaning is produced by the reader, not the author, in each new reading"
+    ],
+    "correct": 3,
+    "explanation": "Barthes argued that privileging authorial intent as the source of meaning limits texts to a single 'closed' interpretation. Killing the author liberates the reader: meaning multiplies in the act of reading, not writing."
+  },
+  {
+    "id": "lit_h_18",
+    "difficulty": "hard",
+    "question": "Which French theorist distinguished between 'the readable text' (lisible) and 'the writerly text' (scriptible)?",
+    "options": [
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Jean-Paul Sartre",
+      "Roland Barthes — in 'S/Z' (1970)"
+    ],
+    "correct": 3,
+    "explanation": "Barthes (S/Z, 1970) analyzed Balzac's Sarrasine: 'readerly' texts have one correct meaning and make passive readers; 'writerly' texts require active reader collaboration to produce meaning — they offer multiple, conflicting interpretations simultaneously."
+  },
+  {
+    "id": "lit_h_19",
+    "difficulty": "hard",
+    "question": "What is 'anachrony' in Genette's narratology?",
+    "options": [
+      "An intentional historical inaccuracy",
+      "Writing in a style from a different era",
+      "A narrator who exists outside time",
+      "Any discordance between the order of events in the story (fabula) and the order they're told in the narrative (syuzhet), including analepsis (flashback) and prolepsis (flashforward)"
+    ],
+    "correct": 3,
+    "explanation": "Genette (Narrative Discourse, 1972) formalized how stories manipulate time: analepsis reaches back (Citizen Kane's entire structure), prolepsis reaches forward (omniscient foreshadowing). Analyzing anachrony reveals a narrative's hidden logic."
+  },
+  {
+    "id": "lit_h_20",
+    "difficulty": "hard",
+    "question": "What is 'aporia' in deconstructive literary analysis, as used by Jacques Derrida?",
+    "options": [
+      "A symbolic image whose meaning cannot be decoded",
+      "A narrator who contradicts themselves",
+      "A text with no clear ending",
+      "An irreducible textual contradiction or impasse where a text undermines its own stated meaning — a moment where the text cannot resolve its own logic"
+    ],
+    "correct": 3,
+    "explanation": "Derrida's deconstruction finds aporia — points where a text's language contradicts its apparent argument, where binary oppositions collapse, or where a concept relies on what it claims to exclude. Texts are shown to be perpetually self-undermining."
+  },
+  {
+    "id": "lit_m_21",
+    "difficulty": "medium",
+    "question": "What is 'Gothic literature' as a genre, and what novel is considered its founding text?",
+    "options": [
+      "Horror fiction set in forests — Mary Shelley's Frankenstein",
+      "Mystery fiction set in castles — Poe's The Fall of the House of Usher",
+      "Victorian ghost stories — Henry James' The Turn of the Screw",
+      "A genre of dark, mysterious, supernatural fiction featuring crumbling castles, tormented heroes, and psychological dread — originating with Horace Walpole's The Castle of Otranto (1764)"
+    ],
+    "correct": 3,
+    "explanation": "Walpole's Castle of Otranto (1764) launched Gothic literature with its supernatural events, medieval setting, and atmosphere of dread. The genre expanded through Radcliffe, Lewis (The Monk), Shelley (Frankenstein), Poe, Bram Stoker (Dracula), and continues in contemporary horror and Southern Gothic (Flannery O'Connor, Cormac McCarthy)."
+  },
+  {
+    "id": "lit_e_21",
+    "difficulty": "easy",
+    "question": "Who wrote 'War and Peace'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Ivan Turgenev",
+      "Anton Chekhov",
+      "Leo Tolstoy"
+    ],
+    "correct": 3,
+    "explanation": "Leo Tolstoy wrote War and Peace (Война и мир, 1869) over six years. At approximately 580,000 words, it follows five aristocratic families through Napoleon's 1812 invasion of Russia. Tolstoy based many characters on real historical figures and his own family history."
+  },
+  {
+    "id": "lit_m_22",
+    "difficulty": "medium",
+    "question": "Samuel Beckett's play 'Waiting for Godot' is associated with which theatrical movement?",
+    "options": [
+      "Epic Theatre",
+      "Kitchen Sink Drama",
+      "Theatre of Cruelty",
+      "Theatre of the Absurd"
+    ],
+    "correct": 3,
+    "explanation": "Theatre of the Absurd (Martin Esslin's term, 1961) encompassed Beckett, Ionesco, Pinter, and Albee. Its plays feature purposeless action, broken dialogue, and existential meaninglessness — reflecting post-WWII philosophical absurdism (Camus, Sartre). Waiting for Godot (1952) — two men wait for someone who never comes — is its defining text."
+  },
+  {
+    "id": "lit_h_21",
+    "difficulty": "hard",
+    "question": "What is 'postcolonial literature' and which author's essay 'Can the Subaltern Speak?' is central to the field?",
+    "options": [
+      "Chinua Achebe — Things Fall Apart",
+      "Edward Said — Orientalism",
+      "Ngugi wa Thiong'o — Decolonising the Mind",
+      "Gayatri Chakravorty Spivak (1988), who argued that colonized peoples — especially women — are systematically silenced within both colonial and post-independence structures"
+    ],
+    "correct": 3,
+    "explanation": "Spivak's essay asked whether the colonized 'subaltern' can speak within structures of power that systematically deny them voice. Her answer (essentially 'no') sparked enormous debate. Postcolonial literature broadly examines colonialism's cultural, psychological, and political legacies — from Achebe to Adichie to Rushdie."
+  },
+  {
+    "id": "lit_e_22",
+    "difficulty": "easy",
+    "question": "What is the term for a poem that tells a story, usually with a rhyme scheme and set to be sung?",
+    "options": [
+      "Elegy",
+      "Ode",
+      "Sonnet",
+      "Ballad"
+    ],
+    "correct": 3,
+    "explanation": "A ballad is a narrative poem designed to be sung, typically with a simple rhyme scheme (ABAB or ABCB) and a refrain. Literary ballads imitate this folk tradition: Keats' La Belle Dame Sans Merci, Coleridge's The Rime of the Ancient Mariner. Folk ballads include Barbara Allen and Scarborough Fair."
+  },
+  {
+    "id": "lit_m_23",
+    "difficulty": "medium",
+    "question": "Which technique involves a sudden flashback to an earlier event in the story, disrupting chronological order?",
+    "options": [
+      "Prolepsis",
+      "Stream of consciousness",
+      "In medias res",
+      "Analepsis (flashback)"
+    ],
+    "correct": 3,
+    "explanation": "Analepsis is any narrative movement backward to events earlier than the present story moment. Distinguished from prolepsis (flashforward). Gérard Genette systematized these terms in Narrative Discourse (1972). Film noir relies heavily on analepsis — the opening crime is often explained through flashback testimony."
+  },
+  {
+    "id": "lit_h_22",
+    "difficulty": "hard",
+    "question": "What is the 'pathetic fallacy', coined by John Ruskin?",
+    "options": [
+      "A logical error in an emotional argument",
+      "Excessive sentimentality toward fictional characters",
+      "False sympathy between narrator and reader",
+      "The attribution of human emotions to the natural environment — when storm clouds gather during a funeral, or sunshine accompanies joy — critiqued by Ruskin as a sign of weak emotion overwhelming perception"
+    ],
+    "correct": 3,
+    "explanation": "Ruskin (Modern Painters, 1856) coined 'pathetic fallacy' to describe projecting human emotion onto nature: 'the cruel, crawling foam' (Kingsley). He saw it as a failure of the highest poetic imagination, though it has become accepted as a standard literary device. Shakespeare's storms in King Lear and Macbeth are classic examples."
+  },
+  {
+    "id": "lit_m_24",
+    "difficulty": "medium",
+    "question": "William Faulkner's novel 'The Sound and the Fury' employs what experimental narrative technique?",
+    "options": [
+      "Second-person narration throughout",
+      "An omniscient narrator shifting between centuries",
+      "A series of unreliable first-person narrators — including Benjy, a character with intellectual disability — told from multiple perspectives across different time periods"
+    ],
+    "correct": 2,
+    "explanation": "The Sound and the Fury (1929) is told in four sections: Benjy's section (April 7, 1928) is radically stream-of-consciousness with no temporal coherence; Quentin's section (1910) is deeply interior and fragmented; Jason's is bitter realism; the fourth is third-person. It requires multiple readings — Faulkner wanted to print Benjy's section in colored inks."
+  },
+  {
+    "id": "lit_e_23",
+    "difficulty": "easy",
+    "question": "In which Shakespeare play does the line 'To be, or not to be, that is the question' appear?",
+    "options": [
+      "Macbeth",
+      "King Lear",
+      "Othello",
+      "Hamlet"
+    ],
+    "correct": 3,
+    "explanation": "Prince Hamlet delivers this soliloquy in Act 3, Scene 1 of Hamlet (c.1600–01), contemplating whether to endure life's suffering or end it. It is the most famous soliloquy in English literature. The full text continues: '...Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune...'"
+  },
+  {
+    "id": "lit_h_23",
+    "difficulty": "hard",
+    "question": "What does 'deconstruction', associated with Jacques Derrida, do to literary texts?",
+    "options": [
+      "Reduces a text to its historical context",
+      "Strips away literary devices to find the plot",
+      "Applies psychological theory to characters",
+      "Demonstrates how texts undermine their own stated meanings through internal contradictions, showing that meaning is never stable but always 'deferred' through an endless chain of signifiers"
+    ],
+    "correct": 3,
+    "explanation": "Derrida's deconstruction (1960s–70s) shows that all texts rely on binary oppositions (presence/absence, speech/writing, nature/culture) that they simultaneously privilege and destabilize. No text can fully control its own meaning. This insight transformed literary studies, philosophy, law, and architecture."
+  }
+]

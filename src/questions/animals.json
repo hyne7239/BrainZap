@@ -1,0 +1,912 @@
+[
+  {
+    "id": "ani_e_01",
+    "difficulty": "easy",
+    "question": "What is the largest land animal on Earth?",
+    "options": [
+      "Hippopotamus",
+      "Rhinoceros",
+      "Giraffe",
+      "African elephant"
+    ],
+    "correct": 3,
+    "explanation": "The African elephant is the world's largest land animal, with bulls weighing up to 6,350 kg (14,000 lb)."
+  },
+  {
+    "id": "ani_e_02",
+    "difficulty": "easy",
+    "question": "What is a group of lions called?",
+    "options": [
+      "Herd",
+      "Pack",
+      "Flock",
+      "Pride"
+    ],
+    "correct": 3,
+    "explanation": "A group of lions is called a pride, typically consisting of related females, their cubs, and a small number of adult males."
+  },
+  {
+    "id": "ani_e_03",
+    "difficulty": "easy",
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Spiders (arachnids) have 8 legs, which distinguishes them from insects, which have 6 legs."
+  },
+  {
+    "id": "ani_e_04",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal on Earth?",
+    "options": [
+      "Lion",
+      "Pronghorn",
+      "Greyhound",
+      "Cheetah"
+    ],
+    "correct": 3,
+    "explanation": "The cheetah is the fastest land animal, capable of reaching speeds of 112 km/h (70 mph) in short bursts."
+  },
+  {
+    "id": "ani_e_05",
+    "difficulty": "easy",
+    "question": "What do you call a baby kangaroo?",
+    "options": [
+      "Kit",
+      "Cub",
+      "Pup",
+      "Joey"
+    ],
+    "correct": 3,
+    "explanation": "A baby kangaroo is called a joey. Newborn joeys are about the size of a jellybean and continue developing in their mother's pouch."
+  },
+  {
+    "id": "ani_e_06",
+    "difficulty": "easy",
+    "question": "What is the only mammal capable of sustained flight?",
+    "options": [
+      "Flying squirrel",
+      "Sugar glider",
+      "Flying lemur",
+      "Bat"
+    ],
+    "correct": 3,
+    "explanation": "Bats are the only mammals capable of true, sustained powered flight. Flying squirrels and sugar gliders glide but cannot fly."
+  },
+  {
+    "id": "ani_e_07",
+    "difficulty": "easy",
+    "question": "What is the tallest animal in the world?",
+    "options": [
+      "African elephant",
+      "Polar bear",
+      "Grizzly bear",
+      "Giraffe"
+    ],
+    "correct": 3,
+    "explanation": "The giraffe is the tallest living terrestrial animal, with males reaching up to 5.9 m (19 ft) tall."
+  },
+  {
+    "id": "ani_e_08",
+    "difficulty": "easy",
+    "question": "How do dolphins primarily communicate?",
+    "options": [
+      "By color changes",
+      "By scent markings",
+      "By body language only",
+      "By echolocation and sounds"
+    ],
+    "correct": 3,
+    "explanation": "Dolphins use a sophisticated system of echolocation (clicking sounds), whistles, and body language to communicate and navigate."
+  },
+  {
+    "id": "ani_e_09",
+    "difficulty": "easy",
+    "question": "What is a group of fish called?",
+    "options": [
+      "Colony",
+      "Flock",
+      "Pack",
+      "School"
+    ],
+    "correct": 3,
+    "explanation": "A group of fish swimming together is called a school (or shoal). They move in coordinated patterns for protection from predators."
+  },
+  {
+    "id": "ani_e_10",
+    "difficulty": "easy",
+    "question": "What is the largest species of big cat?",
+    "options": [
+      "Lion",
+      "Leopard",
+      "Jaguar",
+      "Siberian tiger"
+    ],
+    "correct": 3,
+    "explanation": "The Siberian (Amur) tiger is the largest wild cat, with males weighing up to 300 kg (660 lb) and stretching 3.7 m (12 ft)."
+  },
+  {
+    "id": "ani_e_11",
+    "difficulty": "easy",
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Skin"
+    ],
+    "correct": 3,
+    "explanation": "The skin is the largest organ of the human body, covering about 2 m² and making up roughly 16% of body weight."
+  },
+  {
+    "id": "ani_e_12",
+    "difficulty": "easy",
+    "question": "What type of animal is a Komodo dragon?",
+    "options": [
+      "Amphibian",
+      "Crocodilian",
+      "Snake",
+      "Lizard"
+    ],
+    "correct": 3,
+    "explanation": "The Komodo dragon is the world's largest living lizard, found on Indonesian islands. It can grow up to 3 m (10 ft) long."
+  },
+  {
+    "id": "ani_e_13",
+    "difficulty": "easy",
+    "question": "What do pandas primarily eat?",
+    "options": [
+      "Fish",
+      "Roots and berries",
+      "Small mammals",
+      "Bamboo"
+    ],
+    "correct": 3,
+    "explanation": "Giant pandas eat bamboo for up to 14 hours a day, consuming 12–38 kg daily. Despite being classified as carnivores, bamboo makes up 99% of their diet."
+  },
+  {
+    "id": "ani_e_14",
+    "difficulty": "easy",
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "An octopus has 3 hearts: two branchial hearts pump blood through the gills, and one systemic heart pumps oxygenated blood to the body."
+  },
+  {
+    "id": "ani_e_15",
+    "difficulty": "easy",
+    "question": "What is the process by which caterpillars transform into butterflies?",
+    "options": [
+      "Regeneration",
+      "Germination",
+      "Evolution",
+      "Metamorphosis"
+    ],
+    "correct": 3,
+    "explanation": "Metamorphosis is the biological process where a caterpillar (larva) forms a chrysalis (pupa) and transforms into a butterfly (adult)."
+  },
+  {
+    "id": "ani_e_16",
+    "difficulty": "easy",
+    "question": "What is the largest ocean creature?",
+    "options": [
+      "Great white shark",
+      "Giant squid",
+      "Whale shark",
+      "Blue whale"
+    ],
+    "correct": 3,
+    "explanation": "The blue whale is the largest animal ever known to have existed, reaching up to 33 m (108 ft) long and 200 tonnes."
+  },
+  {
+    "id": "ani_e_17",
+    "difficulty": "easy",
+    "question": "What is a group of wolves called?",
+    "options": [
+      "Herd",
+      "Pride",
+      "Colony",
+      "Pack"
+    ],
+    "correct": 3,
+    "explanation": "A group of wolves is called a pack, typically led by an alpha male and female pair."
+  },
+  {
+    "id": "ani_e_18",
+    "difficulty": "easy",
+    "question": "What natural phenomenon do salmon famously perform?",
+    "options": [
+      "Migration to the tropics",
+      "Hibernation in packs",
+      "Deep ocean diving",
+      "Upstream migration to their birthplace to spawn"
+    ],
+    "correct": 3,
+    "explanation": "Salmon famously swim upstream, often hundreds of miles, to return to the exact stream where they were born in order to spawn."
+  },
+  {
+    "id": "ani_e_19",
+    "difficulty": "easy",
+    "question": "What is the term for animals that eat only plants?",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Insectivore",
+      "Herbivore"
+    ],
+    "correct": 3,
+    "explanation": "Herbivores eat only plant matter. Examples include elephants, cows, rabbits, and horses."
+  },
+  {
+    "id": "ani_e_20",
+    "difficulty": "easy",
+    "question": "What is the lightest gas in the Earth's atmosphere?",
+    "options": [
+      "Neon",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct": 3,
+    "explanation": "Hydrogen (H₂) is the lightest element and lightest gas. Though it exists in Earth's atmosphere in trace amounts, it is the most abundant element in the universe."
+  },
+  {
+    "id": "ani_m_01",
+    "difficulty": "medium",
+    "question": "What adaptation allows arctic foxes to survive extreme cold?",
+    "options": [
+      "Thick scales on their paws",
+      "Antifreeze proteins in their blood",
+      "Burrowing underground all winter",
+      "Countercurrent heat exchange in their legs and thick multilayered fur"
+    ],
+    "correct": 3,
+    "explanation": "Arctic foxes have multilayered fur, countercurrent heat exchange in their limbs (blood vessels keep warmth in the core), and compact body shape to minimize heat loss."
+  },
+  {
+    "id": "ani_m_02",
+    "difficulty": "medium",
+    "question": "What is the longest migration of any animal?",
+    "options": [
+      "Monarch butterfly (USA to Mexico)",
+      "Humpback whale",
+      "Wildebeest (Serengeti)",
+      "Arctic tern (pole to pole)"
+    ],
+    "correct": 3,
+    "explanation": "The Arctic tern makes the longest known migration, traveling from its Arctic breeding grounds to Antarctica and back — about 71,000 km (44,000 miles) annually."
+  },
+  {
+    "id": "ani_m_03",
+    "difficulty": "medium",
+    "question": "What is unique about a platypus compared to other mammals?",
+    "options": [
+      "It breathes underwater",
+      "It has no skeleton",
+      "It lays eggs and has a venomous spur",
+      "It has no fur"
+    ],
+    "correct": 2,
+    "explanation": "The platypus is a monotreme — it lays eggs instead of live birth (like most mammals), and males have venomous spurs on their hind legs."
+  },
+  {
+    "id": "ani_m_04",
+    "difficulty": "medium",
+    "question": "What is symbiosis between a clownfish and sea anemone an example of?",
+    "options": [
+      "Predation",
+      "Parasitism",
+      "Commensalism",
+      "Mutualism"
+    ],
+    "correct": 3,
+    "explanation": "Clownfish and anemones share mutualism — the clownfish gets shelter and food scraps from the anemone; the anemone benefits from the clownfish's cleaning and deterring of predators."
+  },
+  {
+    "id": "ani_m_05",
+    "difficulty": "medium",
+    "question": "What is the term for the ecological role or 'job' of a species in its ecosystem?",
+    "options": [
+      "Population",
+      "Biome",
+      "Habitat",
+      "Niche"
+    ],
+    "correct": 3,
+    "explanation": "An ecological niche describes how an organism fits into an ecosystem — what it eats, what eats it, and how it affects its environment."
+  },
+  {
+    "id": "ani_m_06",
+    "difficulty": "medium",
+    "question": "Which bird has the largest wingspan of any living bird?",
+    "options": [
+      "California condor",
+      "Whooper swan",
+      "White-tailed eagle",
+      "Wandering albatross"
+    ],
+    "correct": 3,
+    "explanation": "The wandering albatross has the largest wingspan of any living bird, reaching up to 3.7 m (12 ft). It can fly for years without landing."
+  },
+  {
+    "id": "ani_m_07",
+    "difficulty": "medium",
+    "question": "What is the primary cause of coral bleaching?",
+    "options": [
+      "Ocean acidification only",
+      "Increased salinity",
+      "Deep-sea pressure changes",
+      "Rising ocean temperatures causing loss of symbiotic algae"
+    ],
+    "correct": 3,
+    "explanation": "Coral bleaching occurs when elevated water temperatures cause corals to expel their symbiotic zooxanthellae algae (which provide 90% of coral energy), turning corals white."
+  },
+  {
+    "id": "ani_m_08",
+    "difficulty": "medium",
+    "question": "What is the Fibonacci sequence's appearance in nature called?",
+    "options": [
+      "The Mandelbrot pattern",
+      "The Law of Spirals",
+      "Fractal symmetry",
+      "Phyllotaxis"
+    ],
+    "correct": 3,
+    "explanation": "Phyllotaxis describes the arrangement of leaves, seeds, and spirals in plants according to the Fibonacci sequence — seen in sunflower seeds, pine cones, and nautilus shells."
+  },
+  {
+    "id": "ani_m_09",
+    "difficulty": "medium",
+    "question": "What is unique about a tardigrade (water bear)?",
+    "options": [
+      "It can survive without a cell nucleus",
+      "It can photosynthesize",
+      "It is the largest microorganism",
+      "It can survive extreme conditions including the vacuum of space"
+    ],
+    "correct": 3,
+    "explanation": "Tardigrades can survive extreme conditions — temperatures from −272°C to 150°C, intense radiation, desiccation, and even exposure to outer space — by entering cryptobiosis (suspended animation)."
+  },
+  {
+    "id": "ani_m_10",
+    "difficulty": "medium",
+    "question": "What type of ecosystem is the world's largest?",
+    "options": [
+      "Tropical rainforest",
+      "Coral reef",
+      "Desert",
+      "Open ocean (pelagic zone)"
+    ],
+    "correct": 3,
+    "explanation": "The open ocean (pelagic zone) is Earth's largest ecosystem, covering about 70% of the planet's surface and containing 50% of all life."
+  },
+  {
+    "id": "ani_m_11",
+    "difficulty": "medium",
+    "question": "What is the term for the area where a river meets the sea, mixing fresh and salt water?",
+    "options": [
+      "Delta",
+      "Lagoon",
+      "Atoll",
+      "Estuary"
+    ],
+    "correct": 3,
+    "explanation": "An estuary is a partially enclosed body of water where freshwater from rivers meets and mixes with salt water from the sea. They are among the most productive ecosystems on Earth."
+  },
+  {
+    "id": "ani_m_12",
+    "difficulty": "medium",
+    "question": "How do electric eels generate electricity?",
+    "options": [
+      "Via chemical reactions in their gut",
+      "Through rapid muscle contractions",
+      "Through friction in their scales",
+      "Via specialized electric organs (electrocytes)"
+    ],
+    "correct": 3,
+    "explanation": "Electric eels have three electric organs made of electrocytes (modified muscle cells) that can generate up to 860 volts — used for hunting, navigation, and defense."
+  },
+  {
+    "id": "ani_m_13",
+    "difficulty": "medium",
+    "question": "What is the IUCN Red List?",
+    "options": [
+      "A list of endangered fish species only",
+      "A registry of all described species",
+      "A log of recent extinctions",
+      "A classification system for threatened species' conservation status"
+    ],
+    "correct": 3,
+    "explanation": "The IUCN Red List of Threatened Species assesses the conservation status of plants, animals, and fungi using categories from Least Concern to Extinct."
+  },
+  {
+    "id": "ani_m_14",
+    "difficulty": "medium",
+    "question": "What is the only continent with no native snake species?",
+    "options": [
+      "Greenland",
+      "Iceland",
+      "Antarctica",
+      "New Zealand"
+    ],
+    "correct": 2,
+    "explanation": "Antarctica has no native snakes. New Zealand also has no native land snakes, but Antarctica is the continent. Ireland and Iceland also lack native snakes."
+  },
+  {
+    "id": "ani_m_15",
+    "difficulty": "medium",
+    "question": "What is the term for the cyclical population explosions of lemmings?",
+    "options": [
+      "Boom-bust cycles",
+      "Population irruption",
+      "Demographic wave",
+      "Population eruption"
+    ],
+    "correct": 1,
+    "explanation": "Lemming populations go through irruption cycles — periods of rapid population growth followed by sharp decline. The suicide myth is false; mass drownings occur during river crossings during dispersal."
+  },
+  {
+    "id": "ani_m_16",
+    "difficulty": "medium",
+    "question": "In which environment would you find a hydrothermal vent ecosystem?",
+    "options": [
+      "Tropical rainforest floors",
+      "Arctic ice sheets",
+      "Deep cave systems",
+      "Deep ocean floor near tectonic plate boundaries"
+    ],
+    "correct": 3,
+    "explanation": "Hydrothermal vents occur along mid-ocean ridges where tectonic plates separate. Unique chemosynthetic ecosystems thrive there, powered by hydrogen sulfide rather than sunlight."
+  },
+  {
+    "id": "ani_m_17",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a bee's waggle dance?",
+    "options": [
+      "Attracting mates",
+      "Warming the hive",
+      "Defending territory",
+      "Communicating the direction and distance of food sources to hivemates"
+    ],
+    "correct": 3,
+    "explanation": "Honeybees perform the waggle dance to tell hivemates the direction (relative to the sun) and distance of food sources, a remarkable form of symbolic communication."
+  },
+  {
+    "id": "ani_m_18",
+    "difficulty": "medium",
+    "question": "What distinguishes a venomous animal from a poisonous one?",
+    "options": [
+      "Venom is synthetic; poison is natural",
+      "Venom is in plants; poison is in animals",
+      "Venom is more lethal than poison",
+      "Venom is injected (e.g., by bite/sting); poison is harmful when ingested/touched"
+    ],
+    "correct": 3,
+    "explanation": "Venomous animals (snakes, spiders) deliver toxins by injecting them. Poisonous animals (poison dart frogs) are harmful when eaten or touched. Some animals (e.g., Asian tiger snakes) are both."
+  },
+  {
+    "id": "ani_m_19",
+    "difficulty": "medium",
+    "question": "Which animal has the highest blood pressure?",
+    "options": [
+      "Blue whale",
+      "Elephant",
+      "Horse",
+      "Giraffe"
+    ],
+    "correct": 3,
+    "explanation": "Giraffes have the highest blood pressure of any land animal (~280/180 mmHg) — necessary to pump blood up their 2m necks to their brains."
+  },
+  {
+    "id": "ani_m_20",
+    "difficulty": "medium",
+    "question": "What is the process by which plants convert light energy into chemical energy?",
+    "options": [
+      "Respiration",
+      "Chemosynthesis",
+      "Transpiration",
+      "Photosynthesis"
+    ],
+    "correct": 3,
+    "explanation": "Photosynthesis uses sunlight, CO₂, and water to produce glucose and oxygen. It occurs in chloroplasts using chlorophyll pigments."
+  },
+  {
+    "id": "ani_h_01",
+    "difficulty": "hard",
+    "question": "What is the term for the mass extinction event at the end of the Cretaceous period?",
+    "options": [
+      "Great Dying",
+      "Permian extinction",
+      "Triassic-Jurassic extinction",
+      "K-Pg (Cretaceous-Paleogene) extinction"
+    ],
+    "correct": 3,
+    "explanation": "The K-Pg extinction (~66 million years ago), triggered by a massive asteroid impact, wiped out approximately 76% of all species including non-avian dinosaurs."
+  },
+  {
+    "id": "ani_h_02",
+    "difficulty": "hard",
+    "question": "What is the scientific term for the co-evolutionary arms race between predators and prey?",
+    "options": [
+      "Niche partitioning",
+      "Character displacement",
+      "Competitive exclusion",
+      "Red Queen dynamics"
+    ],
+    "correct": 3,
+    "explanation": "Red Queen dynamics (from Lewis Carroll's Red Queen who must keep running to stay in place) describes the continuous evolutionary adaptation needed by prey to escape predators and vice versa."
+  },
+  {
+    "id": "ani_h_03",
+    "difficulty": "hard",
+    "question": "What is a 'keystone species'?",
+    "options": [
+      "The top predator in any food chain",
+      "A species with the largest population in an ecosystem",
+      "An invasive species that changes ecosystems",
+      "A species with a disproportionately large effect on its ecosystem relative to its biomass"
+    ],
+    "correct": 3,
+    "explanation": "Keystone species (term coined by Robert Paine, 1966) have disproportionate effects on ecosystem structure. Their removal causes dramatic changes — e.g., wolves in Yellowstone, sea otters in kelp forests."
+  },
+  {
+    "id": "ani_h_04",
+    "difficulty": "hard",
+    "question": "What is the mechanism by which antibiotic resistance spreads between bacteria?",
+    "options": [
+      "Mutation from antibiotic exposure",
+      "Vertical inheritance only (parent to offspring)",
+      "Viral infection",
+      "Horizontal gene transfer (conjugation, transformation, transduction)"
+    ],
+    "correct": 3,
+    "explanation": "Antibiotic resistance spreads via horizontal gene transfer — bacteria exchange resistance genes through conjugation (plasmids), transformation (taking up free DNA), or transduction (via bacteriophages)."
+  },
+  {
+    "id": "ani_h_05",
+    "difficulty": "hard",
+    "question": "What is epigenetics?",
+    "options": [
+      "The study of genetic mutations",
+      "The study of evolution over geological time",
+      "Changes in gene expression caused by mechanisms other than DNA sequence changes",
+      "The study of gene therapy"
+    ],
+    "correct": 2,
+    "explanation": "Epigenetics studies heritable changes in gene expression that don't involve changes to the DNA sequence itself — including DNA methylation, histone modification, and non-coding RNA regulation."
+  },
+  {
+    "id": "ani_h_06",
+    "difficulty": "hard",
+    "question": "The Burgess Shale fossil deposits in Canada provide evidence from which geological period?",
+    "options": [
+      "Silurian",
+      "Ordovician",
+      "Devonian",
+      "Cambrian"
+    ],
+    "correct": 3,
+    "explanation": "The Burgess Shale (British Columbia) preserves exceptional soft-tissue fossils from the Cambrian Explosion (~508 million years ago), revealing extraordinary early animal diversity."
+  },
+  {
+    "id": "ani_h_07",
+    "difficulty": "hard",
+    "question": "What is 'kin selection' in evolutionary biology?",
+    "options": [
+      "Animals choosing the fittest mate",
+      "Animals avoiding inbreeding",
+      "Predators selecting weakest prey",
+      "A mechanism where altruistic behaviors evolve by benefiting relatives who share genes"
+    ],
+    "correct": 3,
+    "explanation": "Kin selection (W.D. Hamilton, 1964) explains altruism through inclusive fitness — genes can propagate by helping relatives share them. Formalized as Hamilton's Rule: rB > C."
+  },
+  {
+    "id": "ani_h_08",
+    "difficulty": "hard",
+    "question": "What is the 'tragedy of the commons' in ecology?",
+    "options": [
+      "The extinction of a keystone species",
+      "When invasive species outcompete native ones",
+      "When pollution kills common species first",
+      "When individual self-interest in shared resources leads to collective overexploitation"
+    ],
+    "correct": 3,
+    "explanation": "The tragedy of the commons (Garrett Hardin, 1968) describes how rational individuals overuse shared resources (fisheries, atmosphere, groundwater) leading to their depletion or destruction."
+  },
+  {
+    "id": "ani_h_09",
+    "difficulty": "hard",
+    "question": "Mycorrhizal networks between trees have been described as what?",
+    "options": [
+      "A defense system against insects",
+      "A method of competing for root space",
+      "A water transport mechanism",
+      "The 'Wood Wide Web' — underground fungal networks enabling nutrient sharing"
+    ],
+    "correct": 3,
+    "explanation": "Mycorrhizal fungi form symbiotic networks connecting tree roots, facilitating carbon and nutrient exchange. Suzanne Simard's research showed trees actively share resources with kin through these networks."
+  },
+  {
+    "id": "ani_h_10",
+    "difficulty": "hard",
+    "question": "What is the Allee effect in population biology?",
+    "options": [
+      "Population growth accelerating at medium density",
+      "Resources increasing as population grows",
+      "Predation increasing at high population density",
+      "Reduced individual fitness at very low population density"
+    ],
+    "correct": 3,
+    "explanation": "The Allee effect describes decreased fitness (mating success, predator defense, foraging efficiency) in populations below a critical density, creating a minimum viable population threshold."
+  },
+  {
+    "id": "ani_h_11",
+    "difficulty": "hard",
+    "question": "What does 'trophic cascade' mean in ecology?",
+    "options": [
+      "Nutrients cycling between soil and plants",
+      "The collapse of a food web after overfishing",
+      "A waterfall of energy loss at each food chain level",
+      "Indirect effects rippling through an ecosystem when a predator suppresses its prey"
+    ],
+    "correct": 3,
+    "explanation": "A trophic cascade occurs when changes to a top predator indirectly affect lower trophic levels — e.g., wolf reintroduction in Yellowstone reduced elk overgrazing, allowing vegetation recovery, stabilizing riverbanks."
+  },
+  {
+    "id": "ani_h_12",
+    "difficulty": "hard",
+    "question": "What is 'sexual conflict' in evolutionary biology?",
+    "options": [
+      "Competition between males for mates",
+      "Evolutionary battle between sexes where interests differ in reproduction",
+      "Mate selection based on coloration",
+      "Preference for genetically dissimilar mates"
+    ],
+    "correct": 1,
+    "explanation": "Sexual conflict (Dawkins & Krebs, Parker) describes how males and females have opposing evolutionary interests — e.g., optimal mating frequency, parental investment, and reproductive timing often conflict."
+  },
+  {
+    "id": "ani_h_13",
+    "difficulty": "hard",
+    "question": "What is the purpose of the lateral line system in fish?",
+    "options": [
+      "Detecting changes in water temperature",
+      "Filtering salt from water",
+      "Generating electrical fields",
+      "Detecting pressure changes and water movement in the surrounding environment"
+    ],
+    "correct": 3,
+    "explanation": "The lateral line is a mechanosensory system running along a fish's body, detecting vibrations, pressure changes, and water flow — used for schooling behavior, predator detection, and navigation."
+  },
+  {
+    "id": "ani_h_14",
+    "difficulty": "hard",
+    "question": "What are 'extremophiles'?",
+    "options": [
+      "Animals at the top of the food chain",
+      "Parasites that destroy host tissue",
+      "Generalist species able to live anywhere",
+      "Organisms that thrive in physically or geochemically extreme conditions"
+    ],
+    "correct": 3,
+    "explanation": "Extremophiles include thermophiles (hot springs), psychrophiles (polar ice), acidophiles (acid mine drainage), and halophiles (salt lakes) — organisms that have adapted to conditions lethal to most life."
+  },
+  {
+    "id": "ani_h_15",
+    "difficulty": "hard",
+    "question": "What is the biological definition of a species, according to Ernst Mayr's Biological Species Concept?",
+    "options": [
+      "Organisms with more than 98% DNA similarity",
+      "Organisms that share a common ancestor",
+      "Organisms with the same physical appearance",
+      "A group of interbreeding natural populations reproductively isolated from other groups"
+    ],
+    "correct": 3,
+    "explanation": "Ernst Mayr's Biological Species Concept (1942) defines a species as a group of naturally interbreeding organisms that are reproductively isolated from other such groups."
+  },
+  {
+    "id": "ani_h_16",
+    "difficulty": "hard",
+    "question": "What ecological principle states that no two species can occupy exactly the same niche?",
+    "options": [
+      "Gause's Law of Competition",
+      "The Lotka-Volterra equations",
+      "Island Biogeography Theory",
+      "The Competitive Exclusion Principle (Gause's Principle)"
+    ],
+    "correct": 3,
+    "explanation": "The Competitive Exclusion Principle (Gause, 1934) states that two species competing for identical resources cannot coexist indefinitely — one will outcompete the other."
+  },
+  {
+    "id": "ani_h_17",
+    "difficulty": "hard",
+    "question": "What is 'mimicry' in the context of animal defense — specifically Batesian vs Müllerian?",
+    "options": [
+      "Both types involve camouflage from predators",
+      "Batesian is chemical; Müllerian is visual",
+      "Batesian: harmless mimics harmful; Müllerian: two harmful species mimic each other",
+      "Batesian: two harmful mimic each other; Müllerian: harmless mimics harmful"
+    ],
+    "correct": 2,
+    "explanation": "Batesian mimicry: a harmless species mimics a dangerous/unpalatable one (e.g., hoverfly mimicking bee). Müllerian mimicry: multiple harmful species share warning colors, reinforcing predator avoidance."
+  },
+  {
+    "id": "ani_h_18",
+    "difficulty": "hard",
+    "question": "What is the approximate number of species described on Earth?",
+    "options": [
+      "500,000",
+      "1 million",
+      "3 million",
+      "~8.7 million (with most undescribed)"
+    ],
+    "correct": 3,
+    "explanation": "Scientists estimate ~8.7 million eukaryotic species on Earth, of which only about 1.2 million have been formally described. The vast majority of undescribed species are insects and marine invertebrates."
+  },
+  {
+    "id": "ani_h_19",
+    "difficulty": "hard",
+    "question": "What is the difference between 'r-selected' and 'K-selected' reproductive strategies?",
+    "options": [
+      "r = large body; K = small body",
+      "r = warm-blooded; K = cold-blooded",
+      "r = plants; K = animals",
+      "r = many offspring, low parental care; K = few offspring, high parental care"
+    ],
+    "correct": 3,
+    "explanation": "r-strategists (mice, insects) produce many offspring with minimal parental investment; K-strategists (elephants, humans) produce few offspring with extensive care, maximizing survival in stable, competitive environments."
+  },
+  {
+    "id": "ani_h_20",
+    "difficulty": "hard",
+    "question": "What is 'convergent evolution'?",
+    "options": [
+      "Two populations of the same species merging",
+      "Related species evolving in opposite directions",
+      "Species evolving similarly due to shared ancestry",
+      "Unrelated species independently evolving similar traits due to similar environments"
+    ],
+    "correct": 3,
+    "explanation": "Convergent evolution produces analogous structures (similar function, different origin) in unrelated species — e.g., the eyes of vertebrates and cephalopods, or wings in bats, birds, and insects."
+  },
+  {
+    "id": "ani_e_61",
+    "difficulty": "easy",
+    "question": "What is a group of lions called?",
+    "options": [
+      "Pack",
+      "Flock",
+      "Herd",
+      "Pride"
+    ],
+    "correct": 3,
+    "explanation": "A group of lions is called a pride. Prides typically consist of 10–15 members: related females, their cubs, and a coalition of 1–4 males. Female lions do about 90% of the hunting. Males protect territory and cubs."
+  },
+  {
+    "id": "ani_m_61",
+    "difficulty": "medium",
+    "question": "What is 'mimicry' in evolutionary biology, and what is 'Batesian mimicry' specifically?",
+    "options": [
+      "Prey copying their predator's appearance",
+      "Animals imitating sounds of other species",
+      "A harmless species mimicking a harmful one to gain predator protection",
+      "Two unpalatable species resembling each other"
+    ],
+    "correct": 2,
+    "explanation": "Batesian mimicry (Henry Walter Bates, 1862) is when a harmless/palatable species evolves to resemble a dangerous or unpalatable species. The hoverfly mimics a wasp; the milk snake mimics the venomous coral snake. Predators learn to avoid the model, and the mimic free-rides that protection."
+  },
+  {
+    "id": "ani_m_62",
+    "difficulty": "medium",
+    "question": "Which animal has the highest blood pressure of any terrestrial animal?",
+    "options": [
+      "Elephant",
+      "Cheetah",
+      "Blue whale",
+      "Giraffe"
+    ],
+    "correct": 3,
+    "explanation": "Giraffes have blood pressure approximately twice that of humans (~280/180 mmHg vs 120/80 mmHg). This extraordinary pressure is needed to pump blood 2+ metres up their long necks to the brain. They have a reinforced left ventricle and thick-walled arteries to handle this pressure."
+  },
+  {
+    "id": "ani_h_61",
+    "difficulty": "hard",
+    "question": "What is 'kin selection' in evolutionary biology, and what does Hamilton's Rule state?",
+    "options": [
+      "When animals select mates based on family connections",
+      "When parents protect offspring from competitors",
+      "When animals learn behaviors from related individuals",
+      "A mechanism where altruistic behavior toward relatives is favored when rB > C: the reproductive benefit (B) to the recipient, scaled by relatedness (r), exceeds the cost (C) to the altruist"
+    ],
+    "correct": 3,
+    "explanation": "W.D. Hamilton (1964) explained 'altruism' in evolution: worker bees sacrificing themselves for the hive makes genetic sense because they share ~75% of genes with sisters. J.B.S. Haldane reportedly said: 'I would lay down my life for two brothers or eight cousins' — capturing Hamilton's r values exactly."
+  },
+  {
+    "id": "ani_e_62",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Pronghorn antelope",
+      "Springbok",
+      "Cheetah"
+    ],
+    "correct": 3,
+    "explanation": "The cheetah can accelerate from 0 to 96 km/h (60 mph) in just 3 seconds, reaching top speeds of 112 km/h (70 mph). However, it can only sustain this for ~30 seconds before overheating. After a chase, it needs 15–30 minutes to cool down before eating."
+  },
+  {
+    "id": "ani_m_63",
+    "difficulty": "medium",
+    "question": "What is 'echolocation' and which mammals use it?",
+    "options": [
+      "A sense of Earth's magnetic field used for navigation",
+      "Detection of electrical fields in water",
+      "A method of seeing through solid objects",
+      "Emitting high-frequency sound pulses and detecting the returning echoes to navigate and locate prey — used by bats, dolphins, and some whales"
+    ],
+    "correct": 3,
+    "explanation": "Echolocating bats emit ultrasonic calls (20-200 kHz, beyond human hearing) and analyze returning echoes to map their surroundings in total darkness. Some species can detect wires as thin as 0.1mm. Dolphins echolocate with clicks, and even some blind humans have learned to echolocate by clicking their tongues."
+  },
+  {
+    "id": "ani_h_62",
+    "difficulty": "hard",
+    "question": "What is 'aposematism' in animal defense?",
+    "options": [
+      "The mimicking of dead leaves or bark",
+      "The ability to detach a body part to escape predators",
+      "The release of a foul-smelling chemical to deter predators",
+      "The use of vivid, contrasting colors or patterns to advertise an animal's toxicity or distastefulness to predators"
+    ],
+    "correct": 3,
+    "explanation": "Aposematism (Wallace, 1867) is warning coloration: poison dart frogs' vivid reds and yellows, monarch butterflies' orange patterns, and wasps' yellow-black stripes all signal 'I am dangerous/unpalatable' to predators. Predators learn (or have evolved avoidance) to leave these species alone."
+  },
+  {
+    "id": "ani_m_64",
+    "difficulty": "medium",
+    "question": "How do electric eels generate electricity?",
+    "options": [
+      "By storing static charge through friction in water",
+      "Through a chemical reaction in their liver",
+      "By rapidly vibrating specialized muscle groups",
+      "Using electrocytes — stacked cells derived from muscle tissue that function like living batteries, each generating ~0.1V to produce up to 860V total"
+    ],
+    "correct": 3,
+    "explanation": "Electric eels (actually knifefish, not true eels) have three specialized electric organs: the Main Organ, Hunter's Organ, and Sachs' Organ. Thousands of electrocytes stacked in series (like batteries in a torch) can produce up to 860 volts — used for stunning prey, navigation, and communication."
+  },
+  {
+    "id": "ani_e_63",
+    "difficulty": "easy",
+    "question": "What is the largest species of shark?",
+    "options": [
+      "Great white shark",
+      "Hammerhead shark",
+      "Tiger shark",
+      "Whale shark"
+    ],
+    "correct": 3,
+    "explanation": "The whale shark is the world's largest fish and shark species, reaching up to 18 metres (60 feet) long and 19 tonnes. Despite its size, it feeds entirely on plankton and small fish by filter feeding. It's harmless to humans. The great white shark, while fearsome, reaches only about 6 metres."
+  },
+  {
+    "id": "ani_h_63",
+    "difficulty": "hard",
+    "question": "What is the 'prisoner's dilemma' relevant to animal behavior, and what strategy did Robert Axelrod find most successful?",
+    "options": [
+      "Animals competing for territory always defect first",
+      "Predators always cooperate with similar-sized competitors",
+      "Animals always maximize immediate food gain",
+      "Game theory scenario showing that mutual cooperation (Tit-for-Tat: cooperate first, then mirror partner's last move) outperforms pure defection in repeated interactions"
+    ],
+    "correct": 3,
+    "explanation": "Axelrod's computer tournaments (1980) showed Tit-for-Tat — cooperate first, then copy the opponent's last move — dominated all strategies. This explains animal cooperation: cleaner fish that don't cheat lose clients; vampire bats reciprocally share blood; meerkats trade sentinel duties. Cooperation emerges from repeated interaction."
+  }
+]
